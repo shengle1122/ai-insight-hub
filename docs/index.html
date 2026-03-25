@@ -124,9 +124,17 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>🤖 AI Insight Hub</h1>
-        <p>智能资讯聚合平台 - 每日自动更新</p>
+        <header>
+        <nav style="display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 2rem;">
+            <h1 style="margin: 0;">🤖 AI Insight Hub</h1>
+            <div style="display: flex; gap: 2rem;">
+                <a href="ai-news-report.html" style="color: white; text-decoration: none;">AI动态</a>
+                <a href="hk-stock-report.html" style="color: white; text-decoration: none;">港股</a>
+                <a href="house-price-report.html" style="color: white; text-decoration: none;">房价</a>
+                <a href="about.html" style="color: white; text-decoration: none;">关于</a>
+            </div>
+        </nav>
+        <p style="margin-top: 1rem;">智能资讯聚合平台 - 每日自动更新 | <span id="last-update">更新于刚刚</span></p>
     </header>
     
     <div class="container">
@@ -166,5 +174,9 @@
     <footer class="footer">
         <p>Generated with ❤️ by GitHub Actions | 数据来源：Yahoo Finance / Hacker News / arXiv / GitHub</p>
     </footer>
+    <script>
+        // 显示最后更新时间
+        document.getElementById('last-update').textContent = '更新于 ' + new Date().toLocaleString('zh-CN');
+    </script>
 </body>
 </html>
