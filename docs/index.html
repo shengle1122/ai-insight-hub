@@ -5,7 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Insight Hub - 智能资讯聚合</title>
     <style>
+        
         :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+        }
+        
+        [data-theme="dark"] {
+            --primary: #3b82f6;
+            --primary-dark: #2563eb;
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f1f5f9;
+            --text-muted: #94a3b8;
+            --border: #334155;
+        }
+        
+:root {
             --primary: #2563eb;
             --primary-dark: #1d4ed8;
             --bg: #f8fafc;
@@ -133,6 +154,7 @@
                 <a href="house-price-report.html" style="color: white; text-decoration: none;">房价</a>
                 <a href="about.html" style="color: white; text-decoration: none;">关于</a>
             </div>
+        <button onclick="toggleTheme()" style="background: rgba(255,255,255,0.2); border: none; color: white; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer;">🌙/☀️</button>
         </nav>
         <p style="margin-top: 1rem;">智能资讯聚合平台 - 每日自动更新 | <span id="last-update">更新于刚刚</span></p>
     </header>
@@ -177,6 +199,20 @@
     <script>
         // 显示最后更新时间
         document.getElementById('last-update').textContent = '更新于 ' + new Date().toLocaleString('zh-CN');
+    </script>
+    <script>
+        // 深色模式切换
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        // 恢复主题设置
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        }
     </script>
 </body>
 </html>

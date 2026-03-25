@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 AI Insight Hub 自动优化器
 每8小时自动分析、优化和扩展网站功能
