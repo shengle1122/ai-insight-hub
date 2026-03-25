@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>港股行情分析 - AI Insight Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+    <style>
+        body { background: #f8fafc; }
+        .chart-container { position: relative; height: 300px; margin: 2rem 0; }
+    </style>
+</head>
+<body>
+    <nav class="bg-white shadow-sm border-b">
+        <div class="max-w-6xl mx-auto px-4 py-4">
+            <a href="index.html" class="text-xl font-bold text-gray-800">← AI Insight Hub</a>
+        </div>
+    </nav>
+    
+    <main class="container mx-auto px-4 py-8">
+        <!-- 走势图 -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+            <h2 class="text-lg font-semibold mb-4">📈 7日走势</h2>
+            <div class="chart-container">
+                <canvas id="stockChart"></canvas>
+            </div>
+        </div>
+        
+        <!-- 报告内容 -->
+        <div class="bg-white rounded-lg shadow-sm p-8">
+            <div id="report" class="markdown-body">
+                <div class="text-center py-12 text-gray-500">正在加载报告...</div>
+            </div>
+        </div>
+    </main>
+    
+    <footer class="text-center py-8 text-gray-500 text-sm">
+        <p>数据每日自动更新 | 数据来源: Yahoo Finance</p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // 加载JSON数据和图表
+        fetch('hk-stock-data.json')
+            .then(response => response.json())
+            .then(data => {
+                // 渲染图表
+                const ctx = document.getElementById('stockChart').getContext('2d');
+                const datasets = data.charts.map((chart, idx) => ({
+                    label: chart.name,
+                    data: chart.values,
+                    borderColor: ['#2563eb', '#16a34a', '#dc2626'][idx % 3],
+                    backgroundColor: ['#2563eb', '#16a34a', '#dc2626'][idx % 3] + '20',
+                    fill: false,
+                    tension: 0.1
+                }));
+                
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: data.charts[0]?.labels || [],
+                        datasets: datasets
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        interaction: {
+                            mode: 'index',
+                            intersect: false
+                        },
+                        plugins: {
+                            legend: { position: 'top' }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: false
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(err => console.error('Error loading chart data:', err));
+        
+        // 加载Markdown报告
+        fetch('hk-stock-report.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('report').innerHTML = marked.parse(text);
+            })
+            .catch(err => {
+                document.getElementById('report').innerHTML = '<div class="text-red-500">报告加载失败</div>';
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Insight Hub - 智能资讯聚合</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header p {
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .modules {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .module-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        .module-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        
+        .module-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        
+        .module-card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--text);
+        }
+        
+        .module-card p {
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .module-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.875rem;
+            color: var(--text-muted);
+        }
+        
+        .tag {
+            background: var(--bg);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+            margin-top: 3rem;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+        }
+        
+        @media (max-width: 768px) {
+            .modules {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🤖 AI Insight Hub</h1>
+        <p>智能资讯聚合平台 - 每日自动更新</p>
+    </header>
+    
+    <div class="container">
+        <div class="modules">
+            <a href="ai-news-report.html" class="module-card">
+                <div class="module-icon">🤖</div>
+                <h2>AI行业动态</h2>
+                <p>每日采集Hacker News、arXiv、GitHub等平台的AI行业最新动态，智能生成中文简报</p>
+                <div class="module-meta">
+                    <span class="tag">每日8:00更新</span>
+                    <span class="tag">多源聚合</span>
+                </div>
+            </a>
+            
+            <a href="hk-stock-report.html" class="module-card">
+                <div class="module-icon">📈</div>
+                <h2>港股行情分析</h2>
+                <p>追踪恒生指数、国企指数及热门港股，分析7日走势，提供市场洞察</p>
+                <div class="module-meta">
+                    <span class="tag">每日8:00更新</span>
+                    <span class="tag">技术分析</span>
+                </div>
+            </a>
+            
+            <a href="house-price-report.html" class="module-card">
+                <div class="module-icon">🏠</div>
+                <h2>房价趋势分析</h2>
+                <p>重点城市房价监测，深度分析杭州楼市各区行情及趋势预测</p>
+                <div class="module-meta">
+                    <span class="tag">每日8:00更新</span>
+                    <span class="tag">城市聚焦</span>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <p>Generated with ❤️ by GitHub Actions | 数据来源：Yahoo Finance / Hacker News / arXiv / GitHub</p>
+    </footer>
+</body>
+</html>
