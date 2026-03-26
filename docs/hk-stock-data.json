@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-26",
+  "indices": {
+    "HSI": {
+      "name": "恒生指数",
+      "symbol": "^HSI",
+      "latest": 25335.95,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "history": [
+        {
+          "date": "2026-03-19",
+          "close": 25500.58
+        },
+        {
+          "date": "2026-03-20",
+          "close": 25277.32
+        },
+        {
+          "date": "2026-03-23",
+          "close": 24382.47
+        },
+        {
+          "date": "2026-03-24",
+          "close": 25063.71
+        },
+        {
+          "date": "2026-03-25",
+          "close": 25335.95
+        },
+        {
+          "date": "2026-03-25",
+          "close": 25335.95
+        }
+      ]
+    },
+    "HSCEI": {
+      "name": "恒生国企指数",
+      "symbol": "^HSCE",
+      "latest": 8582.74,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "history": [
+        {
+          "date": "2026-03-19",
+          "close": 8695.88
+        },
+        {
+          "date": "2026-03-20",
+          "close": 8574.07
+        },
+        {
+          "date": "2026-03-23",
+          "close": 8307.82
+        },
+        {
+          "date": "2026-03-24",
+          "close": 8499.53
+        },
+        {
+          "date": "2026-03-25",
+          "close": 8582.74
+        },
+        {
+          "date": "2026-03-25",
+          "close": 8582.74
+        }
+      ]
+    }
+  },
+  "stocks": {
+    "0700.HK": {
+      "name": "腾讯控股",
+      "latest": 490.6,
+      "change": -14.9,
+      "change_pct": -2.95,
+      "week_high": 529.5,
+      "week_low": 495.2,
+      "volume": 37354109
+    },
+    "9988.HK": {
+      "name": "阿里巴巴-SW",
+      "latest": 145.7,
+      "change": 16.8,
+      "change_pct": 13.03,
+      "week_high": 134.2,
+      "week_low": 117.7,
+      "volume": 148278225
+    },
+    "3690.HK": {
+      "name": "美团-W",
+      "latest": 95.0,
+      "change": 5.0,
+      "change_pct": 5.56,
+      "week_high": 91.55,
+      "week_low": 75.85,
+      "volume": 252757064
+    },
+    "1810.HK": {
+      "name": "小米集团-W",
+      "latest": 32.52,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "week_high": 37.18,
+      "week_low": 31.52,
+      "volume": 313566767
+    },
+    "2318.HK": {
+      "name": "中国平安",
+      "latest": 60.75,
+      "change": 0.3,
+      "change_pct": 0.5,
+      "week_high": 62.6,
+      "week_low": 57.1,
+      "volume": 39550928
+    },
+    "1299.HK": {
+      "name": "友邦保险",
+      "latest": 88.0,
+      "change": 1.2,
+      "change_pct": 1.38,
+      "week_high": 87.0,
+      "week_low": 78.7,
+      "volume": 33601152
+    },
+    "0005.HK": {
+      "name": "汇丰控股",
+      "latest": 120.0,
+      "change": -5.0,
+      "change_pct": -4.0,
+      "week_high": 125.7,
+      "week_low": 118.5,
+      "volume": 19090875
+    },
+    "0883.HK": {
+      "name": "中国海洋石油",
+      "latest": 28.7,
+      "change": 0.2,
+      "change_pct": 0.7,
+      "week_high": 30.98,
+      "week_low": 27.38,
+      "volume": 291015529
+    }
+  },
+  "market_summary": {
+    "up_count": 5,
+    "down_count": 2,
+    "flat_count": 1,
+    "top_gainer": {
+      "symbol": "9988.HK",
+      "name": "阿里巴巴-SW",
+      "change_pct": 13.03
+    },
+    "top_loser": {
+      "symbol": "0005.HK",
+      "name": "汇丰控股",
+      "change_pct": -4.0
+    }
+  },
+  "charts": [
+    {
+      "code": "HSI",
+      "name": "恒生指数",
+      "labels": [
+        "03-19",
+        "03-20",
+        "03-23",
+        "03-24",
+        "03-25",
+        "03-25"
+      ],
+      "values": [
+        25500.58,
+        25277.32,
+        24382.47,
+        25063.71,
+        25335.95,
+        25335.95
+      ],
+      "latest": 25335.95,
+      "change_pct": 0.0
+    },
+    {
+      "code": "HSCEI",
+      "name": "恒生国企指数",
+      "labels": [
+        "03-19",
+        "03-20",
+        "03-23",
+        "03-24",
+        "03-25",
+        "03-25"
+      ],
+      "values": [
+        8695.88,
+        8574.07,
+        8307.82,
+        8499.53,
+        8582.74,
+        8582.74
+      ],
+      "latest": 8582.74,
+      "change_pct": 0.0
+    }
+  ]
+}
