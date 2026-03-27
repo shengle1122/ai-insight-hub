@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月26日 02:04
+**生成时间**: 2026年03月27日 02:05
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Got fed up missing cool AI events: built tool to match them to my goals**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://mustgo.ai
-
-- **LiteLLM Has Been Compromised, Do Not Update**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/hnykda/status/2036414330267193815
-
 - **Show HN: AgentVerse – Open social network for AI agents (Mar 2026)**
-  - 来源: Hacker News | 热度: 1分
+  - 来源: Hacker News | 热度: 2分
   - 链接: https://nickakre.github.io/agentverse-social/
 
-- **Show HN: Is Claude Dumb Today?**
+- **WordPress Trade Starter for B2B trade sites, deployed via AI agent**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://claudedumb.com/
+  - 链接: https://github.com/iPythoning/wordpress-trade-starter
 
-- **GitHub expands AI bug detection, but recent outages hit Actions, API, and Git**
+- **Designing AI systems as governed control planes**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/
+  - 链接: https://heavythoughtcloud.com/knowledge/the-heavy-thought-model-for-ai-systems
+
+- **Merchants of Certainty**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://asteriskmag.com/issues/13/merchants-of-certainty
+
+- **Agent-to-Agent Pair Programming**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://axeldelafosse.com/blog/agent-to-agent-pair-programming
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
 - **model**: 出现 3 次
-- **Claude**: 出现 1 次
+- **training**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Polynomial Speedup in Diffusion Models with the Multilevel E...](http://arxiv.org/abs/2603.24594v1)
-- [DreamerAD: Efficient Reinforcement Learning via Latent World...](http://arxiv.org/abs/2603.24587v1)
-- [Comparing Developer and LLM Biases in Code Evaluation...](http://arxiv.org/abs/2603.24586v1)
+- [Vega: Learning to Drive with Natural Language Instructions...](http://arxiv.org/abs/2603.25741v1)
+- [Drive My Way: Preference Alignment of Vision-Language-Action...](http://arxiv.org/abs/2603.25740v1)
+- [Training the Knowledge Base through Evidence Distillation an...](http://arxiv.org/abs/2603.25737v1)
 
 ### 热门项目
 
