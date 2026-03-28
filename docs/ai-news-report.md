@@ -1,38 +1,51 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月25日 10:30
+**生成时间**: 2026年03月27日 02:05
 
 ---
 
 ## 🎯 核心动态
 
-### 1. OpenAI发布GPT-5
-OpenAI正式发布GPT-5，在多模态理解和推理能力上有显著提升。新版本支持更长的上下文窗口，达到200万token。
+- **Show HN: AgentVerse – Open social network for AI agents (Mar 2026)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://nickakre.github.io/agentverse-social/
 
-**来源**: Hacker News | 热度: 2345分
+- **WordPress Trade Starter for B2B trade sites, deployed via AI agent**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/iPythoning/wordpress-trade-starter
 
-### 2. AI编程助手引爆社区
-一位开发者开源了能够独立完成整个应用开发的AI代理工具，在GitHub上迅速获得关注。
+- **Designing AI systems as governed control planes**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://heavythoughtcloud.com/knowledge/the-heavy-thought-model-for-ai-systems
 
-**来源**: Hacker News | 热度: 1890分
+- **Merchants of Certainty**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://asteriskmag.com/issues/13/merchants-of-certainty
+
+- **Agent-to-Agent Pair Programming**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://axeldelafosse.com/blog/agent-to-agent-pair-programming
 
 ## 📊 技术趋势
 
-- **大语言模型**: 仍是社区讨论焦点
-- **AI编程**: 自动化开发工具持续升温
-- **多模态**: GPT-5的多模态能力引发关注
+基于今日数据采集，AI领域关注热点：
+- **model**: 出现 3 次
+- **training**: 出现 2 次
+
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Large Language Models: A New Survey](https://arxiv.org/abs/2603.12345)
+- [Vega: Learning to Drive with Natural Language Instructions...](http://arxiv.org/abs/2603.25741v1)
+- [Drive My Way: Preference Alignment of Vision-Language-Action...](http://arxiv.org/abs/2603.25740v1)
+- [Training the Knowledge Base through Evidence Distillation an...](http://arxiv.org/abs/2603.25737v1)
 
 ### 热门项目
-- [OpenAI Whisper](https://github.com/openai/whisper) - ⭐ 78k
+
 
 ## 💡 一句话总结
 
-AI行业持续高速发展，大语言模型和AI编程工具是当前最热门的两个方向。
+今日AI行业继续聚焦于大语言模型技术和开源项目的快速发展，社区讨论活跃。
 
 ---
 
