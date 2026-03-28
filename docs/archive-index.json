@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-03-28",
+  "modules": {
+    "ai_news": {
+      "name": "AI行业动态",
+      "icon": "🤖",
+      "description": "每日AI行业新闻、论文、GitHub项目聚合",
+      "history": [
+        {
+          "date": "2026-03-28",
+          "title": "AI行业动态 - 2026-03-28",
+          "file": "ai-news-report.html",
+          "summary": "OpenAI发布GPT-5预告、Google Gemini 2.0重大更新"
+        }
+      ]
+    },
+    "hk_stock": {
+      "name": "港股行情分析",
+      "icon": "📈",
+      "description": "恒生指数及热门港股每日分析",
+      "history": [
+        {
+          "date": "2026-03-28",
+          "title": "港股行情分析 - 2026-03-28",
+          "file": "hk-stock-report.html",
+          "data_file": "hk-stock-data.json",
+          "summary": "恒指跌1.89%，中国平安领涨"
+        }
+      ]
+    },
+    "house_price": {
+      "name": "房价趋势分析",
+      "icon": "🏠",
+      "description": "重点城市房价趋势监测",
+      "history": [
+        {
+          "date": "2026-03-28",
+          "title": "房价趋势分析 - 2026-03-28",
+          "file": "house-price-report.html",
+          "data_file": "house-price-data.json",
+          "summary": "杭州新房均价环比上涨0.3%"
+        }
+      ]
+    }
+  }
+}
