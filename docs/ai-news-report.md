@@ -1,41 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月28日 01:57
+**生成时间**: 2026年03月29日 02:07
 
 ---
 
 ## 🎯 核心动态
 
-- **Programming After Programmers? A Response to the New York Times on AI and Coding**
+- **Can AI Exit Vim?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://curryguinncspb.github.io/programming-after-programmers/
+  - 链接: https://theadamcolton.github.io/can-ai-exit-vim
 
-- **Google Turbo Quant Powered Local LLMs**
+- **Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://atomic.chat/
+  - 链接: https://github.com/gayawellness/anamnesis
 
-- **Show HN: AgentVerse – Open social network for AI agents (Mar 2026)**
+- **Linux on Claude**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://nickakre.github.io/agentverse-social/
+  - 链接: https://github.com/prairielabs/LinuxOnClaude
 
-- **Show HN: Goodbye Watermark – Free AI watermark remover**
+- **Claude found zero days in Ghost and the Linux kernel**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://goodbyewatermark.com
+  - 链接: https://twitter.com/chiefofautism/status/2037951563931500669
+
+- **Social media is populist and polarising; AI may be the opposite**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 2 次
-- **model**: 出现 2 次
-- **LLM**: 出现 1 次
+- **Claude**: 出现 3 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Vega: Learning to Drive with Natural Language Instructions...](http://arxiv.org/abs/2603.25741v1)
-- [Drive My Way: Preference Alignment of Vision-Language-Action...](http://arxiv.org/abs/2603.25740v1)
-- [Training the Knowledge Base through Evidence Distillation an...](http://arxiv.org/abs/2603.25737v1)
 
 ### 热门项目
 
