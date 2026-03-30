@@ -1,35 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月29日 02:07
+**生成时间**: 2026年03月30日 02:10
 
 ---
 
 ## 🎯 核心动态
 
-- **Can AI Exit Vim?**
+- **Operators, Not Agents: Engineering Structure Around LLMs**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://theadamcolton.github.io/can-ai-exit-vim
+  - 链接: https://chrishiste.substack.com/p/operators-not-agents-engineering
 
-- **Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents**
+- **Is the Future of AI Local?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/gayawellness/anamnesis
+  - 链接: https://tombedor.dev/open-source-models/
 
-- **Linux on Claude**
+- **AI startups are eating the venture industry and the returns, so far, are good**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/prairielabs/LinuxOnClaude
+  - 链接: https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/
 
-- **Claude found zero days in Ghost and the Linux kernel**
+- **Stop wasting tokens – Entroly teaches your AI which context works**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/chiefofautism/status/2037951563931500669
+  - 链接: https://github.com/juyterman1000/entroly
 
-- **Social media is populist and polarising; AI may be the opposite**
+- **The Jaipur Foot and the "Jaipur Prosthesis"**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e
+  - 链接: https://pmc.ncbi.nlm.nih.gov/articles/PMC6394196/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 3 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
