@@ -1,40 +1,47 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月30日 02:10
+**生成时间**: 2026年03月31日 02:06
 
 ---
 
 ## 🎯 核心动态
 
-- **Operators, Not Agents: Engineering Structure Around LLMs**
+- **Active Supply Chain Attack on axios 1.14.1**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://chrishiste.substack.com/p/operators-not-agents-engineering
+  - 链接: https://news.ycombinator.com/item?id=47581837
 
-- **Is the Future of AI Local?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://tombedor.dev/open-source-models/
-
-- **AI startups are eating the venture industry and the returns, so far, are good**
+- **The smallest pixel art diffusion app using local AI on a mobile phone**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/
+  - 链接: https://github.com/cochranblock/pixel-forge
 
-- **Stop wasting tokens – Entroly teaches your AI which context works**
+- **OpenAI ChatGPT fixes DNS data smuggling flaw**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/juyterman1000/entroly
+  - 链接: https://www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/
 
-- **The Jaipur Foot and the "Jaipur Prosthesis"**
+- **Updated Apple Developer Program License Agreement Now Available**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://pmc.ncbi.nlm.nih.gov/articles/PMC6394196/
+  - 链接: https://developer.apple.com/news/?id=fwswmjcn
+
+- **Let Claude use your computer from the CLI**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://code.claude.com/docs/en/computer-use
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 2 次
 - **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **training**: 出现 1 次
+- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Prototype-Aligned Federated Soft-Prompts for Continual Web P...](http://arxiv.org/abs/2603.27678v1)
+- [Energy Score-Guided Neural Gaussian Mixture Model for Predic...](http://arxiv.org/abs/2603.27672v1)
+- [ProgressVLA: Progress-Guided Diffusion Policy for Vision-Lan...](http://arxiv.org/abs/2603.27670v1)
 
 ### 热门项目
 
