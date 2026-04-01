@@ -1,47 +1,47 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年03月31日 02:06
+**生成时间**: 2026年04月01日 02:22
 
 ---
 
 ## 🎯 核心动态
 
-- **Active Supply Chain Attack on axios 1.14.1**
+- **My son pleasured himself on Gemini Live. Entire family's Google accounts banned**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/
+
+- **Business Insider Profiles Fidji Simo, OpenAI's 'CEO of Applications'**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=47581837
+  - 链接: https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3
 
-- **The smallest pixel art diffusion app using local AI on a mobile phone**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/cochranblock/pixel-forge
+- **Claude Code Unpacked**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://ccunpacked.dev/#agent-loop
 
-- **OpenAI ChatGPT fixes DNS data smuggling flaw**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/
+- **Vibe Maintainer**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://steve-yegge.medium.com/vibe-maintainer-a2273a841040
 
-- **Updated Apple Developer Program License Agreement Now Available**
+- **OpenAI Closes Silicon Valley's Largest-Ever Funding Round: $122B**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://developer.apple.com/news/?id=fwswmjcn
-
-- **Let Claude use your computer from the CLI**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://code.claude.com/docs/en/computer-use
+  - 链接: https://www.wsj.com/tech/ai/openai-closes-silicon-valleys-largest-ever-funding-round-e48372c9
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
+- **model**: 出现 3 次
+- **OpenAI**: 出现 2 次
 - **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
-- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Prototype-Aligned Federated Soft-Prompts for Continual Web P...](http://arxiv.org/abs/2603.27678v1)
-- [Energy Score-Guided Neural Gaussian Mixture Model for Predic...](http://arxiv.org/abs/2603.27672v1)
-- [ProgressVLA: Progress-Guided Diffusion Policy for Vision-Lan...](http://arxiv.org/abs/2603.27670v1)
+- [Multimodal Machine Learning for Early Prediction of Metastas...](http://arxiv.org/abs/2603.29793v1)
+- [Reasoning-Driven Synthetic Data Generation and Evaluation...](http://arxiv.org/abs/2603.29791v1)
+- [From Skeletons to Semantics: Design and Deployment of a Hybr...](http://arxiv.org/abs/2603.29777v1)
 
 ### 热门项目
 
