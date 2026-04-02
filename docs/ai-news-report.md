@@ -1,47 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月01日 02:22
+**生成时间**: 2026年04月02日 02:02
 
 ---
 
 ## 🎯 核心动态
 
-- **My son pleasured himself on Gemini Live. Entire family's Google accounts banned**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/
-
-- **Business Insider Profiles Fidji Simo, OpenAI's 'CEO of Applications'**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3
-
-- **Claude Code Unpacked**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://ccunpacked.dev/#agent-loop
-
-- **Vibe Maintainer**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://steve-yegge.medium.com/vibe-maintainer-a2273a841040
-
-- **OpenAI Closes Silicon Valley's Largest-Ever Funding Round: $122B**
+- **The Startup That Used AI and OpenClaw to Automate Its Own Developers**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.wsj.com/tech/ai/openai-closes-silicon-valleys-largest-ever-funding-round-e48372c9
+  - 链接: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351
+
+- **MCP Server turned my NAS into a self-hosted AI assistant**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/
+
+- **Organizations Using AI Are Confusing Temporary Friction with Permanent Safety**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/
+
+- **Claude Code No Flicker Mode**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://twitter.com/bcherny/status/2039421575422980329
+
+- **Mercor AI Breached via LiteLLM**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://xcancel.com/AlvieriD/status/2038779690295378004#m
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **OpenAI**: 出现 2 次
-- **LLM**: 出现 1 次
-- **training**: 出现 1 次
+- **LLM**: 出现 3 次
+- **model**: 出现 2 次
 - **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Multimodal Machine Learning for Early Prediction of Metastas...](http://arxiv.org/abs/2603.29793v1)
-- [Reasoning-Driven Synthetic Data Generation and Evaluation...](http://arxiv.org/abs/2603.29791v1)
-- [From Skeletons to Semantics: Design and Deployment of a Hybr...](http://arxiv.org/abs/2603.29777v1)
+- [Uncertainty-Aware Variational Reward Factorization via Proba...](http://arxiv.org/abs/2604.00997v1)
+- [Multimodal Analysis of State-Funded News Coverage of the Isr...](http://arxiv.org/abs/2604.00994v1)
+- [Focal plane wavefront control with model-based reinforcement...](http://arxiv.org/abs/2604.00993v1)
 
 ### 热门项目
 
