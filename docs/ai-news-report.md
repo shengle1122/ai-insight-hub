@@ -1,41 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月03日 02:04
+**生成时间**: 2026年04月04日 01:56
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Composer – AI architect / MCP for software architecture diagrams**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.usecomposer.com/
-
-- **The Catholic Priest Who Helped Write Anthropic's A.I. Ethics Code**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://observer.com/2026/03/the-catholic-priest-who-helped-write-anthropics-ai-ethics-code/
-
-- **I simulated a 19th-century utopian commune with AI agents**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/menggg22/utopia
-
-- **Making TinyLLM Go Brrrrr**
+- **Extracting System Prompt and Model Identity from Telegram's AI. It's Qwen 3.5**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://vinayak.purelydysfunctional.com/blog/KVCache
+  - 链接: https://medium.com/@metraoklam/extracting-system-prompt-model-identity-from-telegrams-ai-feature-it-s-qwen-3-5-5a6204c9d76a
 
-- **Why OpenAI Decided to Buy 'TBPN,' Tech's Hottest News Show**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wsj.com/tech/openai-technology-business-programming-network-b681ef6b
+- **Pre-1900 LLM tries to solve Relativity**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://twitter.com/hla_michael/status/2039768483018489994
+
+- **Ask HN: What's the most repetitive thing you do with AI that you wish it just re**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47634756
+
+- **Anthropic open-sourced claude-code**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/anthropics/claude-code
+
+- **Scaling tool orchestration data will emerge different intelligence and LLMs**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47634733
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 2 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [ActionParty: Multi-Subject Action Binding in Generative Vide...](http://arxiv.org/abs/2604.02330v1)
+- [Steerable Visual Representations...](http://arxiv.org/abs/2604.02327v1)
+- [Grounded Token Initialization for New Vocabulary in LMs for ...](http://arxiv.org/abs/2604.02324v1)
 
 ### 热门项目
 
