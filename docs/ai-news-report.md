@@ -1,45 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月04日 01:56
+**生成时间**: 2026年04月05日 02:10
 
 ---
 
 ## 🎯 核心动态
 
-- **Extracting System Prompt and Model Identity from Telegram's AI. It's Qwen 3.5**
+- **Brain scans reveal how to enters a psychedelic-like trance without drugs**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/
+
+- **Budget cuts for US science proposed again by Trump administration**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://medium.com/@metraoklam/extracting-system-prompt-model-identity-from-telegrams-ai-feature-it-s-qwen-3-5-5a6204c9d76a
+  - 链接: https://www.nature.com/articles/d41586-026-01105-7
 
-- **Pre-1900 LLM tries to solve Relativity**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/hla_michael/status/2039768483018489994
+- **A broken auto-live poller, and what perceived urgency does to Claude Code**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html
 
-- **Ask HN: What's the most repetitive thing you do with AI that you wish it just re**
+- **Writing Lisp Is AI Resistant and I'm Sad**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47634756
+  - 链接: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/
 
-- **Anthropic open-sourced claude-code**
+- **Inferena – benchmarking inference of popular models on consumer hardware**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/anthropics/claude-code
-
-- **Scaling tool orchestration data will emerge different intelligence and LLMs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47634733
+  - 链接: http://inferena.tech/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
+- **model**: 出现 1 次
 - **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [ActionParty: Multi-Subject Action Binding in Generative Vide...](http://arxiv.org/abs/2604.02330v1)
-- [Steerable Visual Representations...](http://arxiv.org/abs/2604.02327v1)
-- [Grounded Token Initialization for New Vocabulary in LMs for ...](http://arxiv.org/abs/2604.02324v1)
 
 ### 热门项目
 
