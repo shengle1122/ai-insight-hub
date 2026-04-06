@@ -1,41 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月05日 02:10
+**生成时间**: 2026年04月06日 02:11
 
 ---
 
 ## 🎯 核心动态
 
-- **Brain scans reveal how to enters a psychedelic-like trance without drugs**
+- **AI agents promise to 'run the business,' but who is liable if things go wrong?**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/
+  - 链接: https://www.theregister.com/2026/04/05/ai_agents_liability/
 
-- **Budget cuts for US science proposed again by Trump administration**
+- **Straight Lines on Graphs**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.nature.com/articles/d41586-026-01105-7
+  - 链接: https://joelbkr.substack.com/p/straight-lines-on-graphs
 
-- **A broken auto-live poller, and what perceived urgency does to Claude Code**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html
-
-- **Writing Lisp Is AI Resistant and I'm Sad**
+- **Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/
+  - 链接: https://llmwiki.app
 
-- **Inferena – benchmarking inference of popular models on consumer hardware**
+- **Show HN: The easiest way to generate AI stickers then get them in the mail**
   - 来源: Hacker News | 热度: 1分
-  - 链接: http://inferena.tech/
+  - 链接: https://stickerdaze.com/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 5 次
+- **LLM**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Enhancing Robustness of Federated Learning via Server Learni...](http://arxiv.org/abs/2604.03226v1)
+- [BAS: A Decision-Theoretic Approach to Evaluating Large Langu...](http://arxiv.org/abs/2604.03216v1)
+- [Hierarchical Planning with Latent World Models...](http://arxiv.org/abs/2604.03208v1)
 
 ### 热门项目
 
