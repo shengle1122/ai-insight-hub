@@ -1,46 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月07日 02:06
+**生成时间**: 2026年04月08日 02:08
 
 ---
 
 ## 🎯 核心动态
 
-- **Quantum computing could fix AI's sustainability problem**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.japantimes.co.jp/commentary/2026/04/06/world/quantum-computing-ais-sustainability-problem/
+- **Russia and China veto UN resolution aimed at reopening the Strait of Hormuz**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://apnews.com/article/un-iran-us-strait-hormuz-bahrain-resolution-640e644b57df5c762ed9c57ef87b0427
 
-- **The highest-scoring AI memory system ever benchmarked**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/milla-jovovich/mempalace
-
-- **Training mRNA Language Models Across 25 Species for $165**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://huggingface.co/blog/OpenMed/training-mrna-models-25-species
-
-- **Stop using AI wrappers and just use Claude**
+- **Show HN: Omni Voice – AI Voice Cloning and Text-to-Speech Platform**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just
+  - 链接: https://omnivoice.app
 
-- **Physical Engineering AI – tools for mech engineers**
+- **Training SOTA vulnerability discovery agents through RL**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/010zx00x1/Awesome-Physical-Engineering-AI
+  - 链接: https://depthfirst.com/post/dfs-mini1-agent
+
+- **Impact of 100% Adoption of AI Coding Agents by Non-Technical Team**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/
+
+- **Show HN: Arrow – A Simple Airdrop Clone**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/aabiji/arrow
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 6 次
-- **LLM**: 出现 2 次
-- **Claude**: 出现 2 次
 - **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Beyond the Final Actor: Modeling the Dual Roles of Creator a...](http://arxiv.org/abs/2604.04932v1)
-- [Early Stopping for Large Reasoning Models via Confidence Dyn...](http://arxiv.org/abs/2604.04930v1)
-- [Your Pre-trained Diffusion Model Secretly Knows Restoration...](http://arxiv.org/abs/2604.04924v1)
 
 ### 热门项目
 
