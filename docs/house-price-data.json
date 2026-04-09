@@ -1,355 +1,355 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "cities": {
     "hangzhou": {
       "name": "杭州",
       "tier": "新一线",
-      "avg_price": 31064.0,
+      "avg_price": 31497.0,
       "unit": "元/平方米",
-      "month_change_pct": -2.62,
+      "month_change_pct": -1.75,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 31162.0,
-          "change_pct": -0.19
-        },
-        {
           "date": "2026-04-02",
-          "price": 31069.0,
-          "change_pct": -0.3
+          "price": 31572.0,
+          "change_pct": -0.27
         },
         {
           "date": "2026-04-03",
-          "price": 31201.0,
-          "change_pct": 0.43
+          "price": 31679.0,
+          "change_pct": 0.34
         },
         {
           "date": "2026-04-04",
-          "price": 31190.0,
-          "change_pct": -0.04
+          "price": 31574.0,
+          "change_pct": -0.33
         },
         {
           "date": "2026-04-05",
-          "price": 31091.0,
-          "change_pct": -0.32
+          "price": 31702.0,
+          "change_pct": 0.4
         },
         {
           "date": "2026-04-06",
-          "price": 30976.0,
-          "change_pct": -0.37
+          "price": 31695.0,
+          "change_pct": -0.02
         },
         {
           "date": "2026-04-07",
-          "price": 31064.0,
-          "change_pct": 0.28
+          "price": 31564.0,
+          "change_pct": -0.42
+        },
+        {
+          "date": "2026-04-08",
+          "price": 31497.0,
+          "change_pct": -0.21
         }
       ]
     },
     "shanghai": {
       "name": "上海",
       "tier": "一线",
-      "avg_price": 68578.0,
+      "avg_price": 68111.0,
       "unit": "元/平方米",
-      "month_change_pct": 0.91,
+      "month_change_pct": -0.23,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 68614.0,
-          "change_pct": 0.07
-        },
-        {
           "date": "2026-04-02",
-          "price": 68722.0,
-          "change_pct": 0.16
+          "price": 68279.0,
+          "change_pct": 0.41
         },
         {
           "date": "2026-04-03",
-          "price": 68544.0,
-          "change_pct": -0.26
+          "price": 67956.0,
+          "change_pct": -0.47
         },
         {
           "date": "2026-04-04",
-          "price": 68557.0,
-          "change_pct": 0.02
+          "price": 68017.0,
+          "change_pct": 0.09
         },
         {
           "date": "2026-04-05",
-          "price": 68432.0,
-          "change_pct": -0.18
+          "price": 68057.0,
+          "change_pct": 0.06
         },
         {
           "date": "2026-04-06",
-          "price": 68432.0,
-          "change_pct": 0.0
+          "price": 68057.0,
+          "change_pct": -0.0
         },
         {
           "date": "2026-04-07",
-          "price": 68578.0,
-          "change_pct": 0.21
+          "price": 68159.0,
+          "change_pct": 0.15
+        },
+        {
+          "date": "2026-04-08",
+          "price": 68111.0,
+          "change_pct": -0.07
         }
       ]
     },
     "beijing": {
       "name": "北京",
       "tier": "一线",
-      "avg_price": 64663.0,
+      "avg_price": 64689.0,
       "unit": "元/平方米",
-      "month_change_pct": -0.2,
+      "month_change_pct": -0.96,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 64666.0,
-          "change_pct": 0.16
-        },
-        {
           "date": "2026-04-02",
-          "price": 64870.0,
-          "change_pct": 0.32
+          "price": 65054.0,
+          "change_pct": -0.04
         },
         {
           "date": "2026-04-03",
-          "price": 64757.0,
-          "change_pct": -0.17
+          "price": 64915.0,
+          "change_pct": -0.21
         },
         {
           "date": "2026-04-04",
-          "price": 64479.0,
-          "change_pct": -0.43
+          "price": 64607.0,
+          "change_pct": -0.47
         },
         {
           "date": "2026-04-05",
-          "price": 64322.0,
-          "change_pct": -0.24
+          "price": 64664.0,
+          "change_pct": 0.09
         },
         {
           "date": "2026-04-06",
-          "price": 64495.0,
-          "change_pct": 0.27
+          "price": 64365.0,
+          "change_pct": -0.46
         },
         {
           "date": "2026-04-07",
-          "price": 64663.0,
-          "change_pct": 0.26
+          "price": 64586.0,
+          "change_pct": 0.34
+        },
+        {
+          "date": "2026-04-08",
+          "price": 64689.0,
+          "change_pct": 0.16
         }
       ]
     },
     "shenzhen": {
       "name": "深圳",
       "tier": "一线",
-      "avg_price": 57846.0,
+      "avg_price": 58133.0,
       "unit": "元/平方米",
-      "month_change_pct": -0.58,
+      "month_change_pct": 0.13,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 57906.0,
-          "change_pct": 0.49
-        },
-        {
           "date": "2026-04-02",
-          "price": 57922.0,
-          "change_pct": 0.03
+          "price": 58261.0,
+          "change_pct": -0.34
         },
         {
           "date": "2026-04-03",
-          "price": 57841.0,
-          "change_pct": -0.14
+          "price": 58383.0,
+          "change_pct": 0.21
         },
         {
           "date": "2026-04-04",
-          "price": 57903.0,
-          "change_pct": 0.11
+          "price": 58288.0,
+          "change_pct": -0.16
         },
         {
           "date": "2026-04-05",
-          "price": 58165.0,
-          "change_pct": 0.45
+          "price": 58532.0,
+          "change_pct": 0.42
         },
         {
           "date": "2026-04-06",
-          "price": 58105.0,
-          "change_pct": -0.1
+          "price": 58265.0,
+          "change_pct": -0.46
         },
         {
           "date": "2026-04-07",
-          "price": 57846.0,
-          "change_pct": -0.45
+          "price": 58231.0,
+          "change_pct": -0.06
+        },
+        {
+          "date": "2026-04-08",
+          "price": 58133.0,
+          "change_pct": -0.17
         }
       ]
     },
     "guangzhou": {
       "name": "广州",
       "tier": "一线",
-      "avg_price": 36858.0,
+      "avg_price": 38327.0,
       "unit": "元/平方米",
-      "month_change_pct": -2.9,
+      "month_change_pct": 0.8,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 37446.0,
-          "change_pct": -0.11
-        },
-        {
           "date": "2026-04-02",
-          "price": 37260.0,
-          "change_pct": -0.5
+          "price": 38187.0,
+          "change_pct": -0.13
         },
         {
           "date": "2026-04-03",
-          "price": 37106.0,
-          "change_pct": -0.41
+          "price": 38295.0,
+          "change_pct": 0.28
         },
         {
           "date": "2026-04-04",
-          "price": 37055.0,
-          "change_pct": -0.14
+          "price": 38345.0,
+          "change_pct": 0.13
         },
         {
           "date": "2026-04-05",
-          "price": 37116.0,
-          "change_pct": 0.16
+          "price": 38270.0,
+          "change_pct": -0.2
         },
         {
           "date": "2026-04-06",
-          "price": 36983.0,
-          "change_pct": -0.36
+          "price": 38139.0,
+          "change_pct": -0.34
         },
         {
           "date": "2026-04-07",
-          "price": 36858.0,
-          "change_pct": -0.34
+          "price": 38160.0,
+          "change_pct": 0.06
+        },
+        {
+          "date": "2026-04-08",
+          "price": 38327.0,
+          "change_pct": 0.44
         }
       ]
     },
     "chengdu": {
       "name": "成都",
       "tier": "新一线",
-      "avg_price": 18231.0,
+      "avg_price": 18166.0,
       "unit": "元/平方米",
-      "month_change_pct": 1.04,
+      "month_change_pct": 0.96,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 18449.0,
-          "change_pct": -0.07
-        },
-        {
           "date": "2026-04-02",
-          "price": 18397.0,
-          "change_pct": -0.28
+          "price": 18388.0,
+          "change_pct": 0.5
         },
         {
           "date": "2026-04-03",
-          "price": 18362.0,
-          "change_pct": -0.19
+          "price": 18321.0,
+          "change_pct": -0.37
         },
         {
           "date": "2026-04-04",
-          "price": 18347.0,
-          "change_pct": -0.08
+          "price": 18298.0,
+          "change_pct": -0.12
         },
         {
           "date": "2026-04-05",
-          "price": 18272.0,
-          "change_pct": -0.41
+          "price": 18211.0,
+          "change_pct": -0.48
         },
         {
           "date": "2026-04-06",
-          "price": 18311.0,
-          "change_pct": 0.21
+          "price": 18178.0,
+          "change_pct": -0.18
         },
         {
           "date": "2026-04-07",
-          "price": 18231.0,
-          "change_pct": -0.44
+          "price": 18210.0,
+          "change_pct": 0.18
+        },
+        {
+          "date": "2026-04-08",
+          "price": 18166.0,
+          "change_pct": -0.24
         }
       ]
     },
     "wuhan": {
       "name": "武汉",
       "tier": "新一线",
-      "avg_price": 17192.0,
+      "avg_price": 17045.0,
       "unit": "元/平方米",
-      "month_change_pct": 1.3,
+      "month_change_pct": 0.47,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 17260.0,
-          "change_pct": -0.46
-        },
-        {
           "date": "2026-04-02",
-          "price": 17266.0,
-          "change_pct": 0.04
+          "price": 17106.0,
+          "change_pct": 0.14
         },
         {
           "date": "2026-04-03",
-          "price": 17341.0,
-          "change_pct": 0.43
+          "price": 17041.0,
+          "change_pct": -0.38
         },
         {
           "date": "2026-04-04",
-          "price": 17255.0,
-          "change_pct": -0.5
+          "price": 17042.0,
+          "change_pct": 0.0
         },
         {
           "date": "2026-04-05",
-          "price": 17187.0,
-          "change_pct": -0.39
+          "price": 17076.0,
+          "change_pct": 0.2
         },
         {
           "date": "2026-04-06",
-          "price": 17155.0,
-          "change_pct": -0.18
+          "price": 17064.0,
+          "change_pct": -0.07
         },
         {
           "date": "2026-04-07",
-          "price": 17192.0,
-          "change_pct": 0.21
+          "price": 17046.0,
+          "change_pct": -0.1
+        },
+        {
+          "date": "2026-04-08",
+          "price": 17045.0,
+          "change_pct": -0.01
         }
       ]
     },
     "nanjing": {
       "name": "南京",
       "tier": "新一线",
-      "avg_price": 27371.0,
+      "avg_price": 28638.0,
       "unit": "元/平方米",
-      "month_change_pct": -2.41,
+      "month_change_pct": 2.43,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 27585.0,
-          "change_pct": -0.25
-        },
-        {
           "date": "2026-04-02",
-          "price": 27514.0,
-          "change_pct": -0.26
+          "price": 28244.0,
+          "change_pct": 0.12
         },
         {
           "date": "2026-04-03",
-          "price": 27641.0,
-          "change_pct": 0.46
+          "price": 28273.0,
+          "change_pct": 0.1
         },
         {
           "date": "2026-04-04",
-          "price": 27597.0,
-          "change_pct": -0.16
+          "price": 28382.0,
+          "change_pct": 0.39
         },
         {
           "date": "2026-04-05",
-          "price": 27502.0,
-          "change_pct": -0.34
+          "price": 28461.0,
+          "change_pct": 0.28
         },
         {
           "date": "2026-04-06",
-          "price": 27500.0,
-          "change_pct": -0.01
+          "price": 28520.0,
+          "change_pct": 0.21
         },
         {
           "date": "2026-04-07",
-          "price": 27371.0,
-          "change_pct": -0.47
+          "price": 28529.0,
+          "change_pct": 0.03
+        },
+        {
+          "date": "2026-04-08",
+          "price": 28638.0,
+          "change_pct": 0.38
         }
       ]
     }
@@ -357,345 +357,345 @@
   "hangzhou_detail": {
     "gongshu": {
       "name": "拱墅区",
-      "avg_price": 36927.0,
+      "avg_price": 34149.0,
       "unit": "元/平方米",
-      "month_change_pct": 3.01,
+      "month_change_pct": -5.03,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 36272.0,
-          "change_pct": 0.54
-        },
-        {
           "date": "2026-04-02",
-          "price": 36487.0,
-          "change_pct": 0.59
+          "price": 34754.0,
+          "change_pct": 0.23
         },
         {
           "date": "2026-04-03",
-          "price": 36667.0,
-          "change_pct": 0.49
+          "price": 34519.0,
+          "change_pct": -0.68
         },
         {
           "date": "2026-04-04",
-          "price": 36542.0,
-          "change_pct": -0.34
+          "price": 34253.0,
+          "change_pct": -0.77
         },
         {
           "date": "2026-04-05",
-          "price": 36646.0,
-          "change_pct": 0.29
+          "price": 34115.0,
+          "change_pct": -0.4
         },
         {
           "date": "2026-04-06",
-          "price": 36693.0,
-          "change_pct": 0.13
+          "price": 34131.0,
+          "change_pct": 0.05
         },
         {
           "date": "2026-04-07",
-          "price": 36927.0,
-          "change_pct": 0.64
+          "price": 33894.0,
+          "change_pct": -0.7
+        },
+        {
+          "date": "2026-04-08",
+          "price": 34149.0,
+          "change_pct": 0.75
         }
       ]
     },
     "shangcheng": {
       "name": "上城区",
-      "avg_price": 36820.0,
+      "avg_price": 38615.0,
       "unit": "元/平方米",
-      "month_change_pct": -1.26,
+      "month_change_pct": 2.18,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 36898.0,
-          "change_pct": 0.34
-        },
-        {
           "date": "2026-04-02",
-          "price": 36748.0,
-          "change_pct": -0.41
+          "price": 38327.0,
+          "change_pct": -0.39
         },
         {
           "date": "2026-04-03",
-          "price": 36515.0,
-          "change_pct": -0.63
+          "price": 38533.0,
+          "change_pct": 0.54
         },
         {
           "date": "2026-04-04",
-          "price": 36523.0,
-          "change_pct": 0.02
+          "price": 38533.0,
+          "change_pct": -0.0
         },
         {
           "date": "2026-04-05",
-          "price": 36537.0,
-          "change_pct": 0.04
-        },
-        {
-          "date": "2026-04-06",
-          "price": 36597.0,
+          "price": 38600.0,
           "change_pct": 0.17
         },
         {
+          "date": "2026-04-06",
+          "price": 38461.0,
+          "change_pct": -0.36
+        },
+        {
           "date": "2026-04-07",
-          "price": 36820.0,
-          "change_pct": 0.61
+          "price": 38502.0,
+          "change_pct": 0.11
+        },
+        {
+          "date": "2026-04-08",
+          "price": 38615.0,
+          "change_pct": 0.29
         }
       ]
     },
     "xihu": {
       "name": "西湖区",
-      "avg_price": 38953.0,
+      "avg_price": 39723.0,
       "unit": "元/平方米",
-      "month_change_pct": -0.36,
+      "month_change_pct": 0.41,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 39179.0,
-          "change_pct": 0.51
-        },
-        {
           "date": "2026-04-02",
-          "price": 38952.0,
-          "change_pct": -0.58
+          "price": 40272.0,
+          "change_pct": 0.21
         },
         {
           "date": "2026-04-03",
-          "price": 38724.0,
-          "change_pct": -0.58
+          "price": 40562.0,
+          "change_pct": 0.72
         },
         {
           "date": "2026-04-04",
-          "price": 38872.0,
-          "change_pct": 0.38
+          "price": 40258.0,
+          "change_pct": -0.75
         },
         {
           "date": "2026-04-05",
-          "price": 38674.0,
-          "change_pct": -0.51
+          "price": 39955.0,
+          "change_pct": -0.75
         },
         {
           "date": "2026-04-06",
-          "price": 38776.0,
-          "change_pct": 0.26
+          "price": 39779.0,
+          "change_pct": -0.44
         },
         {
           "date": "2026-04-07",
-          "price": 38953.0,
-          "change_pct": 0.46
+          "price": 39953.0,
+          "change_pct": 0.44
+        },
+        {
+          "date": "2026-04-08",
+          "price": 39723.0,
+          "change_pct": -0.58
         }
       ]
     },
     "binjiang": {
       "name": "滨江区",
-      "avg_price": 40919.0,
+      "avg_price": 41332.0,
       "unit": "元/平方米",
-      "month_change_pct": 1.05,
+      "month_change_pct": 0.18,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 41073.0,
-          "change_pct": 0.02
-        },
-        {
           "date": "2026-04-02",
-          "price": 40956.0,
-          "change_pct": -0.28
+          "price": 41239.0,
+          "change_pct": -0.57
         },
         {
           "date": "2026-04-03",
-          "price": 40850.0,
-          "change_pct": -0.26
+          "price": 41479.0,
+          "change_pct": 0.58
         },
         {
           "date": "2026-04-04",
-          "price": 40897.0,
-          "change_pct": 0.12
+          "price": 41267.0,
+          "change_pct": -0.51
         },
         {
           "date": "2026-04-05",
-          "price": 40715.0,
-          "change_pct": -0.44
+          "price": 41043.0,
+          "change_pct": -0.54
         },
         {
           "date": "2026-04-06",
-          "price": 40611.0,
-          "change_pct": -0.26
+          "price": 40776.0,
+          "change_pct": -0.65
         },
         {
           "date": "2026-04-07",
-          "price": 40919.0,
-          "change_pct": 0.76
+          "price": 41025.0,
+          "change_pct": 0.61
+        },
+        {
+          "date": "2026-04-08",
+          "price": 41332.0,
+          "change_pct": 0.75
         }
       ]
     },
     "xiacheng": {
       "name": "下城区",
-      "avg_price": 35329.0,
+      "avg_price": 34673.0,
       "unit": "元/平方米",
-      "month_change_pct": 2.94,
+      "month_change_pct": 0.32,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 34937.0,
-          "change_pct": 0.49
-        },
-        {
           "date": "2026-04-02",
-          "price": 34854.0,
-          "change_pct": -0.24
+          "price": 35215.0,
+          "change_pct": 0.17
         },
         {
           "date": "2026-04-03",
-          "price": 35015.0,
-          "change_pct": 0.46
+          "price": 35318.0,
+          "change_pct": 0.29
         },
         {
           "date": "2026-04-04",
-          "price": 35256.0,
-          "change_pct": 0.69
+          "price": 35191.0,
+          "change_pct": -0.36
         },
         {
           "date": "2026-04-05",
-          "price": 35179.0,
-          "change_pct": -0.22
+          "price": 35005.0,
+          "change_pct": -0.53
         },
         {
           "date": "2026-04-06",
-          "price": 35161.0,
-          "change_pct": -0.05
+          "price": 35086.0,
+          "change_pct": 0.23
         },
         {
           "date": "2026-04-07",
-          "price": 35329.0,
-          "change_pct": 0.48
+          "price": 34866.0,
+          "change_pct": -0.62
+        },
+        {
+          "date": "2026-04-08",
+          "price": 34673.0,
+          "change_pct": -0.55
         }
       ]
     },
     "jianggan": {
       "name": "江干区",
-      "avg_price": 31823.0,
+      "avg_price": 35601.0,
       "unit": "元/平方米",
-      "month_change_pct": -2.61,
+      "month_change_pct": 7.34,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 32249.0,
-          "change_pct": -0.12
-        },
-        {
           "date": "2026-04-02",
-          "price": 32260.0,
-          "change_pct": 0.03
-        },
-        {
-          "date": "2026-04-03",
-          "price": 32113.0,
-          "change_pct": -0.45
-        },
-        {
-          "date": "2026-04-04",
-          "price": 31976.0,
-          "change_pct": -0.43
-        },
-        {
-          "date": "2026-04-05",
-          "price": 31978.0,
+          "price": 35631.0,
           "change_pct": 0.0
         },
         {
+          "date": "2026-04-03",
+          "price": 35629.0,
+          "change_pct": -0.01
+        },
+        {
+          "date": "2026-04-04",
+          "price": 35777.0,
+          "change_pct": 0.42
+        },
+        {
+          "date": "2026-04-05",
+          "price": 35630.0,
+          "change_pct": -0.41
+        },
+        {
           "date": "2026-04-06",
-          "price": 31991.0,
-          "change_pct": 0.04
+          "price": 35556.0,
+          "change_pct": -0.21
         },
         {
           "date": "2026-04-07",
-          "price": 31823.0,
-          "change_pct": -0.52
+          "price": 35665.0,
+          "change_pct": 0.31
+        },
+        {
+          "date": "2026-04-08",
+          "price": 35601.0,
+          "change_pct": -0.18
         }
       ]
     },
     "xiaoshan": {
       "name": "萧山区",
-      "avg_price": 22379.0,
+      "avg_price": 23800.0,
       "unit": "元/平方米",
-      "month_change_pct": -3.97,
+      "month_change_pct": 0.94,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 22895.0,
-          "change_pct": -0.11
-        },
-        {
           "date": "2026-04-02",
-          "price": 22816.0,
-          "change_pct": -0.35
+          "price": 24486.0,
+          "change_pct": 0.35
         },
         {
           "date": "2026-04-03",
-          "price": 22675.0,
-          "change_pct": -0.62
+          "price": 24339.0,
+          "change_pct": -0.6
         },
         {
           "date": "2026-04-04",
-          "price": 22537.0,
-          "change_pct": -0.61
+          "price": 24237.0,
+          "change_pct": -0.42
         },
         {
           "date": "2026-04-05",
-          "price": 22533.0,
-          "change_pct": -0.02
+          "price": 24156.0,
+          "change_pct": -0.34
         },
         {
           "date": "2026-04-06",
-          "price": 22537.0,
-          "change_pct": 0.02
+          "price": 24016.0,
+          "change_pct": -0.58
         },
         {
           "date": "2026-04-07",
-          "price": 22379.0,
-          "change_pct": -0.7
+          "price": 23882.0,
+          "change_pct": -0.56
+        },
+        {
+          "date": "2026-04-08",
+          "price": 23800.0,
+          "change_pct": -0.34
         }
       ]
     },
     "yuhang": {
       "name": "余杭区",
-      "avg_price": 26951.0,
+      "avg_price": 27152.0,
       "unit": "元/平方米",
-      "month_change_pct": 1.69,
+      "month_change_pct": 1.94,
       "trend": [
         {
-          "date": "2026-04-01",
-          "price": 26765.0,
-          "change_pct": 0.19
-        },
-        {
           "date": "2026-04-02",
-          "price": 26954.0,
-          "change_pct": 0.71
+          "price": 27093.0,
+          "change_pct": 0.72
         },
         {
           "date": "2026-04-03",
-          "price": 26891.0,
-          "change_pct": -0.23
+          "price": 27265.0,
+          "change_pct": 0.64
         },
         {
           "date": "2026-04-04",
-          "price": 26962.0,
-          "change_pct": 0.26
+          "price": 27429.0,
+          "change_pct": 0.6
         },
         {
           "date": "2026-04-05",
-          "price": 26889.0,
-          "change_pct": -0.27
+          "price": 27587.0,
+          "change_pct": 0.57
         },
         {
           "date": "2026-04-06",
-          "price": 26804.0,
-          "change_pct": -0.31
+          "price": 27398.0,
+          "change_pct": -0.69
         },
         {
           "date": "2026-04-07",
-          "price": 26951.0,
-          "change_pct": 0.55
+          "price": 27283.0,
+          "change_pct": -0.42
+        },
+        {
+          "date": "2026-04-08",
+          "price": 27152.0,
+          "change_pct": -0.48
         }
       ]
     }
