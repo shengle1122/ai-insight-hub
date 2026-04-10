@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月09日 01:59
+**生成时间**: 2026年04月10日 02:12
 
 ---
 
 ## 🎯 核心动态
 
-- **Codex overtakes Claude Code to become #1 AI coding tool (April 2026)**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://ai-coding.info/en
-
-- **AI and the Human Voice**
+- **Detox may erase 10 years of social media brain damage, researchers say**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://gilest.org/notes/2026/human-ai/
+  - 链接: https://www.washingtonpost.com/health/2026/04/09/social-media-detox/
 
-- **Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=47698191
-
-- **Show HN: Public Domain Audiobooks with AI (Azalea Audio)**
+- **Google's AI Overviews spew false answers per hour, bombshell study reveals**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://apps.apple.com/us/app/azalea-audio/id6761150322
+  - 链接: https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/
 
-- **Ask HN: Why don't frontier AI model providers continuously improve their models?**
+- **Kimberly-Clark warehouse fire suspect starts blaze: "Should have paid us more"**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47698187
+  - 链接: https://www.cbsnews.com/losangeles/news/ontario-kimberly-clark-fire-alleged-suspect-video-start-warehouse/
+
+- **xAI sues Colorado over first state AI anti-discrimination law**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9
+
+- **How HN: We were wrong about AI capability floors (and why smart triggers matter)**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://zenodo.org/records/19490400
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 4 次
-- **LLM**: 出现 3 次
-- **Claude**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [A comparative analysis of machine learning models in SHAP an...](http://arxiv.org/abs/2604.07258v1)
-- [Non-identifiability of Explanations from Model Behavior in D...](http://arxiv.org/abs/2604.07254v1)
-- [Designing Safe and Accountable GenAI as a Learning Companion...](http://arxiv.org/abs/2604.07253v1)
+- [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic M...](http://arxiv.org/abs/2604.08545v1)
+- [SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in ...](http://arxiv.org/abs/2604.08544v1)
+- [Seeing but Not Thinking: Routing Distraction in Multimodal M...](http://arxiv.org/abs/2604.08541v1)
 
 ### 热门项目
 
