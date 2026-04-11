@@ -1,44 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月10日 02:12
+**生成时间**: 2026年04月11日 02:01
 
 ---
 
 ## 🎯 核心动态
 
-- **Detox may erase 10 years of social media brain damage, researchers say**
+- **Hormuz, an MCP-first forecasting engine for reproducible modeling**
+  - 来源: Hacker News | 热度: 7分
+  - 链接: https://github.com/farukalpay/hormuz-tectonochemical-engine/
+
+- **Google's Gmail Upgrade Decision: 2B Users Must Act Now**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.washingtonpost.com/health/2026/04/09/social-media-detox/
+  - 链接: https://www.forbes.com/sites/zakdoffman/2026/04/10/googles-gmail-upgrade-decision-2-billion-users-must-act-now/
 
-- **Google's AI Overviews spew false answers per hour, bombshell study reveals**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/
+- **Neural Computers**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://arxiv.org/abs/2604.06425
 
-- **Kimberly-Clark warehouse fire suspect starts blaze: "Should have paid us more"**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cbsnews.com/losangeles/news/ontario-kimberly-clark-fire-alleged-suspect-video-start-warehouse/
+- **Dario – use your Claude Max subscription as an API (no API key needed)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/askalf/dario
 
-- **xAI sues Colorado over first state AI anti-discrimination law**
+- **Git per sviluppatori: guida completa dai comandi base al workflow professionale**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9
-
-- **How HN: We were wrong about AI capability floors (and why smart triggers matter)**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenodo.org/records/19490400
+  - 链接: https://donatodelpeschio.it/blog/git-guida-completa-comandi-workflow
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
-- **training**: 出现 1 次
+- **model**: 出现 1 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic M...](http://arxiv.org/abs/2604.08545v1)
-- [SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in ...](http://arxiv.org/abs/2604.08544v1)
-- [Seeing but Not Thinking: Routing Distraction in Multimodal M...](http://arxiv.org/abs/2604.08541v1)
 
 ### 热门项目
 
