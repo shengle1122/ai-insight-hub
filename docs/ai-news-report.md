@@ -1,46 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月12日 02:14
+**生成时间**: 2026年04月13日 02:27
 
 ---
 
 ## 🎯 核心动态
 
-- **Walked dog, did groceries, folded laundry. Claude Code shipped. Thanks Farmer**
+- **Writing should have a soul and its own Claude Skill**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/grainulation/farmer
+  - 链接: https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill
 
-- **NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/
+- **Moat: Run AI agents in isolated containers**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://majorcontext.com/moat/
 
-- **How a dancer with ALS used brainwaves to perform live**
+- **OpenMAIC – Open Multi-Agent Interactive Classroom**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://open.maic.chat/
+
+- **The Social Battery Paper: Gradient, Constraint, and the Extraction of Work In**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output
+
+- **Ukraine renews attacks on Russian energy sites – what has been hit?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/
-
-- **AI models are terrible at betting on soccer- especially xAI Grok**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/
-
-- **recursive-mode: The Repo-Native Operating System for AI Engineering**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://repo-explainer.com/try-works/recursive-mode
+  - 链接: https://www.reuters.com/business/energy/ukraine-renews-attacks-russian-energy-sites-what-has-been-hit-2026-03-24/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 5 次
-- **LLM**: 出现 1 次
-- **training**: 出现 1 次
+- **model**: 出现 3 次
 - **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic M...](http://arxiv.org/abs/2604.08545v1)
-- [SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in ...](http://arxiv.org/abs/2604.08544v1)
-- [Seeing but Not Thinking: Routing Distraction in Multimodal M...](http://arxiv.org/abs/2604.08541v1)
+- [Large Language Models Generate Harmful Content Using a Disti...](http://arxiv.org/abs/2604.09544v1)
+- [ANTIC: Adaptive Neural Temporal In-situ Compressor...](http://arxiv.org/abs/2604.09543v1)
+- [Case-Grounded Evidence Verification: A Framework for Constru...](http://arxiv.org/abs/2604.09537v1)
 
 ### 热门项目
 
