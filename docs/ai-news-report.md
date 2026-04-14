@@ -1,44 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月13日 02:27
+**生成时间**: 2026年04月14日 02:13
 
 ---
 
 ## 🎯 核心动态
 
-- **Writing should have a soul and its own Claude Skill**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill
-
-- **Moat: Run AI agents in isolated containers**
+- **OpenAI acquires AI personal finance startup Hiro – financial agents next?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://majorcontext.com/moat/
+  - 链接: https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/
 
-- **OpenMAIC – Open Multi-Agent Interactive Classroom**
+- **Slate Auto Raised $650M to Build a Truck with No Speakers, Color, or Apologies**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://open.maic.chat/
+  - 链接: https://www.siliconsnark.com/slate-auto-raised-650-million-to-build-a-truck-with-no-speakers-no-color-and-no-apologies-2/
 
-- **The Social Battery Paper: Gradient, Constraint, and the Extraction of Work In**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output
-
-- **Ukraine renews attacks on Russian energy sites – what has been hit?**
+- **Matrix-Game 3.0: Real-Time and Streaming Interactive World Model**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/energy/ukraine-renews-attacks-russian-energy-sites-what-has-been-hit-2026-03-24/
+  - 链接: https://matrix-game-v3.github.io/
+
+- **Willingness to fail is now a superpower**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://nekolucifer.substack.com/p/willingness-to-fail-is-now-a-superpower
+
+- **AI Home Architecture Startup Looking for Back End/ML Infra Engineer**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47760205
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **Claude**: 出现 1 次
+- **model**: 出现 4 次
+- **LLM**: 出现 3 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Large Language Models Generate Harmful Content Using a Disti...](http://arxiv.org/abs/2604.09544v1)
-- [ANTIC: Adaptive Neural Temporal In-situ Compressor...](http://arxiv.org/abs/2604.09543v1)
-- [Case-Grounded Evidence Verification: A Framework for Constru...](http://arxiv.org/abs/2604.09537v1)
+- [Computation of Least Trimmed Squares: A Branch-and-Bound fra...](http://arxiv.org/abs/2604.11584v1)
+- [A Triadic Suffix Tokenization Scheme for Numerical Reasoning...](http://arxiv.org/abs/2604.11582v1)
+- [Decomposing and Reducing Hidden Measurement Error in LLM Eva...](http://arxiv.org/abs/2604.11581v1)
 
 ### 热门项目
 
