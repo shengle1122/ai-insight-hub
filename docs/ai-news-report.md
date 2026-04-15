@@ -1,45 +1,43 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月14日 02:13
+**生成时间**: 2026年04月15日 02:10
 
 ---
 
 ## 🎯 核心动态
 
-- **OpenAI acquires AI personal finance startup Hiro – financial agents next?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/
+- **OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports**
+  - 来源: Hacker News | 热度: 16分
+  - 链接: https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/
 
-- **Slate Auto Raised $650M to Build a Truck with No Speakers, Color, or Apologies**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.siliconsnark.com/slate-auto-raised-650-million-to-build-a-truck-with-no-speakers-no-color-and-no-apologies-2/
+- **The Many Faces of Claude**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://eriskii.net/projects/claude-faces
 
-- **Matrix-Game 3.0: Real-Time and Streaming Interactive World Model**
+- **Glyphosate resistance: a driver for multidrug-resistant clinical strains?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://matrix-game-v3.github.io/
+  - 链接: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1740431/full
 
-- **Willingness to fail is now a superpower**
+- **"The Last Airbender" movie leaked 9 months before release date**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://nekolucifer.substack.com/p/willingness-to-fail-is-now-a-superpower
-
-- **AI Home Architecture Startup Looking for Back End/ML Infra Engineer**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47760205
+  - 链接: https://nofilmschool.com/full-length-avatar-movie-leaks
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 4 次
 - **LLM**: 出现 3 次
+- **training**: 出现 3 次
 - **OpenAI**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Computation of Least Trimmed Squares: A Branch-and-Bound fra...](http://arxiv.org/abs/2604.11584v1)
-- [A Triadic Suffix Tokenization Scheme for Numerical Reasoning...](http://arxiv.org/abs/2604.11582v1)
-- [Decomposing and Reducing Hidden Measurement Error in LLM Eva...](http://arxiv.org/abs/2604.11581v1)
+- [Rapid LoRA Aggregation for Wireless Channel Adaptation in Op...](http://arxiv.org/abs/2604.12834v1)
+- [Detecting and refurbishing ground truth errors during traini...](http://arxiv.org/abs/2604.12832v1)
+- [Loop Corrections to the Training and Generalization Errors o...](http://arxiv.org/abs/2604.12827v1)
 
 ### 热门项目
 
