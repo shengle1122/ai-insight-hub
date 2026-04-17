@@ -1,35 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月16日 02:26
+**生成时间**: 2026年04月17日 02:14
 
 ---
 
 ## 🎯 核心动态
 
-- **xAI prepares credits system for upcoming Grok Build launch**
+- **AI companies are buying the Slack data of failed startups**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://twitter.com/_iainmartin/status/2044758204773486925
+
+- **I built an AI that analyzes rental leases before you sign**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://goleazly.com/
+
+- **Vakra: Reasoning, Tool Use, and Failure Modes of Agents**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.testingcatalog.com/xai-prepares-credits-system-for-upcoming-grok-build-launch/
+  - 链接: https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
 
-- **The AI Debacle**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://justintallant.com/the-ai-debacle
+- **DARPA builds AI to investigate China's claim it can break military encryption**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/
 
-- **Free open source AI Editor**
+- **I built 7 AI agents that attack the same task in parallel – armyai.app**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/MeepCastana/KubeezCut
+  - 链接: https://armyai.app
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
+- **model**: 出现 4 次
+- **Claude**: 出现 2 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [SpatialEvo: Self-Evolving Spatial Intelligence via Determini...](http://arxiv.org/abs/2604.14144v1)
-- [From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learnin...](http://arxiv.org/abs/2604.14142v1)
-- [LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasonin...](http://arxiv.org/abs/2604.14140v1)
+- [MambaSL: Exploring Single-Layer Mamba for Time Series Classi...](http://arxiv.org/abs/2604.15174v1)
+- [An Analysis of Regularization and Fokker-Planck Residuals in...](http://arxiv.org/abs/2604.15171v1)
+- [Assessing the Potential of Masked Autoencoder Foundation Mod...](http://arxiv.org/abs/2604.15169v1)
 
 ### 热门项目
 
