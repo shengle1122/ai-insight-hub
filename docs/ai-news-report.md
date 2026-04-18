@@ -1,45 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月17日 02:14
+**生成时间**: 2026年04月18日 02:05
 
 ---
 
 ## 🎯 核心动态
 
-- **AI companies are buying the Slack data of failed startups**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://twitter.com/_iainmartin/status/2044758204773486925
-
-- **I built an AI that analyzes rental leases before you sign**
+- **Why LLMs Aren't Giving You the Result You Expect**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://goleazly.com/
+  - 链接: https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/
 
-- **Vakra: Reasoning, Tool Use, and Failure Modes of Agents**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
-
-- **DARPA builds AI to investigate China's claim it can break military encryption**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/
-
-- **I built 7 AI agents that attack the same task in parallel – armyai.app**
+- **Effective Conversational AI Book: Detailed Review**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://armyai.app
+  - 链接: https://noroinsight.com/effective-conversational-ai-book-review/
+
+- **Claude Experiment "PersMEM" Rep5: The Distributional Bias and the Third Instance**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47812498
+
+- **New AI-generated videos of Iran war spread across social media**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=0mKCBAM4wZs
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
-- **Claude**: 出现 2 次
-- **LLM**: 出现 1 次
+- **LLM**: 出现 4 次
+- **model**: 出现 2 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [MambaSL: Exploring Single-Layer Mamba for Time Series Classi...](http://arxiv.org/abs/2604.15174v1)
-- [An Analysis of Regularization and Fokker-Planck Residuals in...](http://arxiv.org/abs/2604.15171v1)
-- [Assessing the Potential of Masked Autoencoder Foundation Mod...](http://arxiv.org/abs/2604.15169v1)
+- [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage...](http://arxiv.org/abs/2604.15309v1)
+- [Generalization in LLM Problem Solving: The Case of the Short...](http://arxiv.org/abs/2604.15306v1)
+- [Diagnosing LLM Judge Reliability: Conformal Prediction Sets ...](http://arxiv.org/abs/2604.15302v1)
 
 ### 热门项目
 
