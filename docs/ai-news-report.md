@@ -1,33 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月18日 02:05
+**生成时间**: 2026年04月19日 02:26
 
 ---
 
 ## 🎯 核心动态
 
-- **Why LLMs Aren't Giving You the Result You Expect**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/
+- **Show HN: 5-translation RAG matrix fixing LLM religious hallucinations**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/salaamalykum/quran-semantic-search
 
-- **Effective Conversational AI Book: Detailed Review**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://noroinsight.com/effective-conversational-ai-book-review/
+- **TensorRT LLM**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/NVIDIA/TensorRT-LLM
 
-- **Claude Experiment "PersMEM" Rep5: The Distributional Bias and the Third Instance**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47812498
+- **Bluetooth tracker hidden in postcard and mailed to warship exposed its location**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours
 
-- **New AI-generated videos of Iran war spread across social media**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=0mKCBAM4wZs
+- **AI agent called every pub in Ireland to index the cost of a Guinness**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://guinndex.ai
+
+- **Show HN: Building compiler from scratch without the help of LLMs [video]**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.youtube.com/watch?v=THIkjQnqsbw
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 4 次
+- **LLM**: 出现 6 次
 - **model**: 出现 2 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
