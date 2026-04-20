@@ -1,44 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月19日 02:26
+**生成时间**: 2026年04月20日 02:27
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: 5-translation RAG matrix fixing LLM religious hallucinations**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/salaamalykum/quran-semantic-search
+- **China's 7-tonne cargo drone completes maiden flight**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://news.cgtn.com/news/2026-03-31/China-s-new-7-tonne-unmanned-cargo-drone-set-for-maiden-flight-1LXcdaZico0/p.html
 
-- **TensorRT LLM**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/NVIDIA/TensorRT-LLM
+- **Salesforce Announces AI Initiative and Calls It 'Headless 360'**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://gizmodo.com/salesforce-announces-huge-ai-initiative-and-calls-it-headless-360-2000748243
 
-- **Bluetooth tracker hidden in postcard and mailed to warship exposed its location**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours
+- **GPT-6 released: Symphony architecture unifies text/image/audio/video**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.theverge.com/2026/4/14/openai-gpt-6-symphony-architecture
 
-- **AI agent called every pub in Ireland to index the cost of a Guinness**
+- **Mosaico: A fast, configurable tiling window manager for Windows**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://guinndex.ai
+  - 链接: https://github.com/jmelosegui/mosaico
 
-- **Show HN: Building compiler from scratch without the help of LLMs [video]**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.youtube.com/watch?v=THIkjQnqsbw
+- **Show HN: TikTok-style mobile scroller for Civitai, self-hosted recs on a $5 VPS**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://testflight.apple.com/join/JkKUCXY6
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 6 次
-- **model**: 出现 2 次
+- **model**: 出现 5 次
+- **LLM**: 出现 2 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage...](http://arxiv.org/abs/2604.15309v1)
-- [Generalization in LLM Problem Solving: The Case of the Short...](http://arxiv.org/abs/2604.15306v1)
-- [Diagnosing LLM Judge Reliability: Conformal Prediction Sets ...](http://arxiv.org/abs/2604.15302v1)
+- [ASMR-Bench: Auditing for Sabotage in ML Research...](http://arxiv.org/abs/2604.16286v1)
+- [Geometric regularization of autoencoders via observed stocha...](http://arxiv.org/abs/2604.16282v1)
+- [Using Large Language Models and Knowledge Graphs to Improve ...](http://arxiv.org/abs/2604.16280v1)
 
 ### 热门项目
 
