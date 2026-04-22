@@ -1,42 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月21日 02:23
+**生成时间**: 2026年04月22日 02:13
 
 ---
 
 ## 🎯 核心动态
 
-- **Digital Ecosystems: Interactive Multi-Agent Neural Cellular Automata**
+- **Layer 8: The coordination protocol AI agents and embedded devices don't have yet**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://pub.sakana.ai/digital-ecosystem/
+  - 链接: https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices
 
-- **Technological Phylogenetics: Modeling Tech Evolution Like Git (Paper)**
+- **Show HN: Govern Anthropic Managed Agents with 3 lines of code**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenodo.org/records/19673425
+  - 链接: https://news.ycombinator.com/item?id=47857883
 
-- **Show HN: Real-time visualization of Claude Code agent orchestration**
+- **Building a fault-tolerant metrics storage system at Airbnb**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/patoles/agent-flow
+  - 链接: https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017
 
-- **Computational Models of Interoception and Body Regulation(2021)**
+- **Show HN: Benchmarking how AI models write vulnerable code under pressure**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.sciencedirect.com/science/article/abs/pii/S0166223620302204
+  - 链接: https://leaderboard.atella.ai/code-security.html
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
+- **LLM**: 出现 3 次
+- **model**: 出现 2 次
 - **training**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [VIBE: Voice-Induced open-ended Bias Evaluation for Large Aud...](http://arxiv.org/abs/2604.17248v1)
-- [DORA Explorer: Improving the Exploration Ability of LLMs Wit...](http://arxiv.org/abs/2604.17244v1)
-- [Safe and Policy-Compliant Multi-Agent Orchestration for Ente...](http://arxiv.org/abs/2604.17240v1)
+- [EVPO: Explained Variance Policy Optimization for Adaptive Cr...](http://arxiv.org/abs/2604.19485v1)
+- [Deep Supervised Contrastive Learning of Pitch Contours for R...](http://arxiv.org/abs/2604.19477v1)
+- [Fairness Audits of Institutional Risk Models in Deployed ML ...](http://arxiv.org/abs/2604.19468v1)
 
 ### 热门项目
 
