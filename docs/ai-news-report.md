@@ -1,41 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月22日 02:13
+**生成时间**: 2026年04月23日 02:25
 
 ---
 
 ## 🎯 核心动态
 
-- **Layer 8: The coordination protocol AI agents and embedded devices don't have yet**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices
+- **Show HN: Preflight – Test your MCP server before submitting to Claude/OpenAI**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://m8ven.ai/preflight
 
-- **Show HN: Govern Anthropic Managed Agents with 3 lines of code**
+- **FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47857883
-
-- **Building a fault-tolerant metrics storage system at Airbnb**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017
-
-- **Show HN: Benchmarking how AI models write vulnerable code under pressure**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://leaderboard.atella.ai/code-security.html
+  - 链接: https://z-lab.ai/projects/flashdrive/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
 - **model**: 出现 2 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [EVPO: Explained Variance Policy Optimization for Adaptive Cr...](http://arxiv.org/abs/2604.19485v1)
-- [Deep Supervised Contrastive Learning of Pitch Contours for R...](http://arxiv.org/abs/2604.19477v1)
-- [Fairness Audits of Institutional Risk Models in Deployed ML ...](http://arxiv.org/abs/2604.19468v1)
+- [SpeechParaling-Bench: A Comprehensive Benchmark for Paraling...](http://arxiv.org/abs/2604.20842v1)
+- [Parallel-SFT: Improving Zero-Shot Cross-Programming-Language...](http://arxiv.org/abs/2604.20835v1)
+- [AVISE: Framework for Evaluating the Security of AI Systems...](http://arxiv.org/abs/2604.20833v1)
 
 ### 热门项目
 
