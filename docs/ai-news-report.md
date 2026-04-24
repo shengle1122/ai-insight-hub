@@ -1,35 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月23日 02:25
+**生成时间**: 2026年04月24日 02:25
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Preflight – Test your MCP server before submitting to Claude/OpenAI**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://m8ven.ai/preflight
-
-- **FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**
+- **Vibe Check: GPT-5.5 Has It All**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://z-lab.ai/projects/flashdrive/
+  - 链接: https://every.to/vibe-check/gpt-5-5
+
+- **Too much noise with AI startups**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47884689
+
+- **Show HN: Trustless Campaigns – Gecko transforms brand-creator deals**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.geckovision.tech
+
+- **Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/
+
+- **Prompt engineering is dead, but Claude still tries**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blog.exe.dev/prompt-engineering-is-dead
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
+- **model**: 出现 3 次
 - **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
-- **training**: 出现 1 次
+- **GPT**: 出现 1 次
 - **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [SpeechParaling-Bench: A Comprehensive Benchmark for Paraling...](http://arxiv.org/abs/2604.20842v1)
-- [Parallel-SFT: Improving Zero-Shot Cross-Programming-Language...](http://arxiv.org/abs/2604.20835v1)
-- [AVISE: Framework for Evaluating the Security of AI Systems...](http://arxiv.org/abs/2604.20833v1)
+- [Seeing Fast and Slow: Learning the Flow of Time in Videos...](http://arxiv.org/abs/2604.21931v1)
+- [Temporal Taskification in Streaming Continual Learning: A So...](http://arxiv.org/abs/2604.21930v1)
+- [Evaluation of Automatic Speech Recognition Using Generative ...](http://arxiv.org/abs/2604.21928v1)
 
 ### 热门项目
 
