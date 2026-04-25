@@ -1,36 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月24日 02:25
+**生成时间**: 2026年04月25日 02:07
 
 ---
 
 ## 🎯 核心动态
 
-- **Vibe Check: GPT-5.5 Has It All**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://every.to/vibe-check/gpt-5-5
+- **Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://alash3al.github.io/stash?_v01
 
-- **Too much noise with AI startups**
+- **Xiaomi releases mimo-v2.5 model**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47884689
+  - 链接: https://mimo.xiaomi.com/mimo-v2-5
 
-- **Show HN: Trustless Campaigns – Gecko transforms brand-creator deals**
+- **OpenAI's Sam Altman writes apology to community of Tumbler Ridge**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.geckovision.tech
+  - 链接: https://www.cbc.ca/news/canada/british-columbia/sam-altman-tumbler-ridge-apology-9.7176482
 
-- **Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment**
+- **The Tail End (2015)**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/
+  - 链接: https://waitbutwhy.com/2015/12/the-tail-end.html
 
-- **Prompt engineering is dead, but Claude still tries**
+- **DevResolve – AI chat widget that answers technical questions from your docs**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://blog.exe.dev/prompt-engineering-is-dead
+  - 链接: https://devresolve.ai
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **model**: 出现 1 次
 - **GPT**: 出现 1 次
 - **Claude**: 出现 1 次
 
@@ -38,9 +38,6 @@
 ## 🔍 值得关注
 
 ### 最新论文
-- [Seeing Fast and Slow: Learning the Flow of Time in Videos...](http://arxiv.org/abs/2604.21931v1)
-- [Temporal Taskification in Streaming Continual Learning: A So...](http://arxiv.org/abs/2604.21930v1)
-- [Evaluation of Automatic Speech Recognition Using Generative ...](http://arxiv.org/abs/2604.21928v1)
 
 ### 热门项目
 
