@@ -1,42 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月27日 02:32
+**生成时间**: 2026年04月28日 02:39
 
 ---
 
 ## 🎯 核心动态
 
-- **EvanFlow – A TDD driven feedback loop for Claude Code**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/evanklem/evanflow
-
-- **Agentic Workforce Framework, an operating model for autonomous agent teams**
+- **The remarkable Renaissance of high-frequency traders**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/rayyagari2-create/agentic-workforce-framework
+  - 链接: https://www.ft.com/content/83b2a4b3-bdc6-4eb0-a87c-293c383b5994
 
-- **Legislature weighs law change to give Alaskans 'right to repair' electronics**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.adn.com/politics/alaska-legislature/2026/04/26/legislature-weighs-law-change-to-give-alaskans-right-to-repair-electronics/
+- **An AI First World (2016)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://avc.com/2016/04/an-ai-first-world/
 
-- **Language Anchoring: A Systematic Method for LLM Multilingual Adaptation**
+- **How AI Will Reshape Computer Systems by 2035**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/
+
+- **The AI-X Scale for Written Content**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/fkyah3/opencode-fkyah3
+  - 链接: https://docs.zeropolis.net/doku.php/tech:ai-text-categorization
+
+- **Claude flags innocuous questions about biology**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=47929885
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 4 次
-- **model**: 出现 3 次
+- **Claude**: 出现 2 次
+- **LLM**: 出现 1 次
 - **training**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting...](http://arxiv.org/abs/2604.22753v1)
-- [How Do AI Agents Spend Your Money? Analyzing and Predicting ...](http://arxiv.org/abs/2604.22750v1)
-- [Representational Harms in LLM-Generated Narratives Against G...](http://arxiv.org/abs/2604.22749v1)
+- [The Last Human-Written Paper: Agent-Native Research Artifact...](http://arxiv.org/abs/2604.24658v1)
+- [AgentWard: A Lifecycle Security Architecture for Autonomous ...](http://arxiv.org/abs/2604.24657v1)
+- [DepthKV: Layer-Dependent KV Cache Pruning for Long-Context L...](http://arxiv.org/abs/2604.24647v1)
 
 ### 热门项目
 
