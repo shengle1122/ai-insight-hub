@@ -1,46 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年04月28日 02:39
+**生成时间**: 2026年04月29日 02:39
 
 ---
 
 ## 🎯 核心动态
 
-- **The remarkable Renaissance of high-frequency traders**
+- **Gemini Enterprise Agent Platform**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.ft.com/content/83b2a4b3-bdc6-4eb0-a87c-293c383b5994
+  - 链接: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform/
 
-- **An AI First World (2016)**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://avc.com/2016/04/an-ai-first-world/
-
-- **How AI Will Reshape Computer Systems by 2035**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/
-
-- **The AI-X Scale for Written Content**
+- **At his OpenAI trial, Musk relitigates an old friendship**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://docs.zeropolis.net/doku.php/tech:ai-text-categorization
+  - 链接: https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/
 
-- **Claude flags innocuous questions about biology**
+- **From Navigator to Cartographer – The Path to Strong AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47929885
+  - 链接: https://pavelvoronin.com/ai-beyond-navigation/
+
+- **I hired an AI as SO. He chose a name, and we co-authored a book**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://jdeid.it/agi-research/
+
+- **Show HN: I built an AI agent to diagnose technical issues**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://rinhelp.com
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 2 次
-- **LLM**: 出现 1 次
+- **model**: 出现 4 次
+- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
-- **model**: 出现 1 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [The Last Human-Written Paper: Agent-Native Research Artifact...](http://arxiv.org/abs/2604.24658v1)
-- [AgentWard: A Lifecycle Security Architecture for Autonomous ...](http://arxiv.org/abs/2604.24657v1)
-- [DepthKV: Layer-Dependent KV Cache Pruning for Long-Context L...](http://arxiv.org/abs/2604.24647v1)
+- [Recursive Multi-Agent Systems...](http://arxiv.org/abs/2604.25917v1)
+- [DV-World: Benchmarking Data Visualization Agents in Real-Wor...](http://arxiv.org/abs/2604.25914v1)
+- [How Fast Should a Model Commit to Supervision? Training Reas...](http://arxiv.org/abs/2604.25907v1)
 
 ### 热门项目
 
