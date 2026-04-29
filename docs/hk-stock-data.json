@@ -1,17 +1,13 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "indices": {
     "HSI": {
       "name": "恒生指数",
       "symbol": "^HSI",
-      "latest": 25784.27,
-      "change": -141.38,
-      "change_pct": -0.55,
+      "latest": 25901.61,
+      "change": 221.83,
+      "change_pct": 0.86,
       "history": [
-        {
-          "date": "2026-04-21",
-          "close": 26487.48
-        },
         {
           "date": "2026-04-22",
           "close": 26163.24
@@ -30,21 +26,21 @@
         },
         {
           "date": "2026-04-28",
-          "close": 25784.27
+          "close": 25679.78
+        },
+        {
+          "date": "2026-04-29",
+          "close": 25901.61
         }
       ]
     },
     "HSCEI": {
       "name": "恒生国企指数",
       "symbol": "^HSCE",
-      "latest": 8694.28,
-      "change": -62.04,
-      "change_pct": -0.71,
+      "latest": 8726.15,
+      "change": 81.34,
+      "change_pct": 0.94,
       "history": [
-        {
-          "date": "2026-04-21",
-          "close": 8943.54
-        },
         {
           "date": "2026-04-22",
           "close": 8801.78
@@ -63,7 +59,11 @@
         },
         {
           "date": "2026-04-28",
-          "close": 8694.28
+          "close": 8644.81
+        },
+        {
+          "date": "2026-04-29",
+          "close": 8726.15
         }
       ]
     }
@@ -71,90 +71,90 @@
   "stocks": {
     "0700.HK": {
       "name": "腾讯控股",
-      "latest": 474.0,
-      "change": -4.6,
-      "change_pct": -0.96,
-      "week_high": 525.5,
-      "week_low": 472.4,
-      "volume": 4867066
+      "latest": 478.4,
+      "change": 4.6,
+      "change_pct": 0.97,
+      "week_high": 514.5,
+      "week_low": 472.0,
+      "volume": 1901589
     },
     "9988.HK": {
       "name": "阿里巴巴-SW",
-      "latest": 129.0,
-      "change": -1.2,
-      "change_pct": -0.92,
-      "week_high": 138.2,
-      "week_low": 126.7,
-      "volume": 5862817
+      "latest": 129.3,
+      "change": 2.8,
+      "change_pct": 2.21,
+      "week_high": 133.9,
+      "week_low": 126.0,
+      "volume": 7687195
     },
     "3690.HK": {
       "name": "美团-W",
-      "latest": 81.05,
-      "change": -0.8,
-      "change_pct": -0.98,
-      "week_high": 87.2,
-      "week_low": 80.4,
-      "volume": 2118507
+      "latest": 82.3,
+      "change": 2.0,
+      "change_pct": 2.49,
+      "week_high": 85.3,
+      "week_low": 80.2,
+      "volume": 2205052
     },
     "1810.HK": {
       "name": "小米集团-W",
-      "latest": 30.84,
-      "change": -0.26,
-      "change_pct": -0.84,
-      "week_high": 32.58,
-      "week_low": 30.62,
-      "volume": 12127030
+      "latest": 29.96,
+      "change": 0.04,
+      "change_pct": 0.13,
+      "week_high": 32.2,
+      "week_low": 29.7,
+      "volume": 29120546
     },
     "2318.HK": {
       "name": "中国平安",
-      "latest": 60.35,
-      "change": -0.55,
-      "change_pct": -0.9,
-      "week_high": 62.1,
-      "week_low": 60.2,
-      "volume": 2143226
+      "latest": 62.6,
+      "change": 2.55,
+      "change_pct": 4.25,
+      "week_high": 62.8,
+      "week_low": 59.75,
+      "volume": 10526620
     },
     "1299.HK": {
       "name": "友邦保险",
-      "latest": 83.35,
-      "change": 0.15,
-      "change_pct": 0.18,
-      "week_high": 83.8,
+      "latest": 84.45,
+      "change": 1.3,
+      "change_pct": 1.56,
+      "week_high": 84.85,
       "week_low": 81.0,
-      "volume": 5428871
+      "volume": 7700461
     },
     "0005.HK": {
       "name": "汇丰控股",
-      "latest": 139.9,
-      "change": -0.3,
-      "change_pct": -0.21,
+      "latest": 141.1,
+      "change": 0.5,
+      "change_pct": 0.36,
       "week_high": 144.1,
       "week_low": 139.2,
-      "volume": 612062
+      "volume": 813901
     },
     "0883.HK": {
       "name": "中国海洋石油",
-      "latest": 28.44,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "week_high": 28.52,
-      "week_low": 26.38,
-      "volume": 3789500
+      "latest": 29.08,
+      "change": 0.1,
+      "change_pct": 0.35,
+      "week_high": 29.28,
+      "week_low": 26.52,
+      "volume": 6603360
     }
   },
   "market_summary": {
-    "up_count": 1,
-    "down_count": 6,
-    "flat_count": 1,
+    "up_count": 8,
+    "down_count": 0,
+    "flat_count": 0,
     "top_gainer": {
-      "symbol": "1299.HK",
-      "name": "友邦保险",
-      "change_pct": 0.18
+      "symbol": "2318.HK",
+      "name": "中国平安",
+      "change_pct": 4.25
     },
     "top_loser": {
-      "symbol": "3690.HK",
-      "name": "美团-W",
-      "change_pct": -0.98
+      "symbol": "1810.HK",
+      "name": "小米集团-W",
+      "change_pct": 0.13
     }
   },
   "charts": [
@@ -162,45 +162,45 @@
       "code": "HSI",
       "name": "恒生指数",
       "labels": [
-        "04-21",
         "04-22",
         "04-23",
         "04-24",
         "04-27",
-        "04-28"
+        "04-28",
+        "04-29"
       ],
       "values": [
-        26487.48,
         26163.24,
         25915.2,
         25978.07,
         25925.65,
-        25784.27
+        25679.78,
+        25901.61
       ],
-      "latest": 25784.27,
-      "change_pct": -0.55
+      "latest": 25901.61,
+      "change_pct": 0.86
     },
     {
       "code": "HSCEI",
       "name": "恒生国企指数",
       "labels": [
-        "04-21",
         "04-22",
         "04-23",
         "04-24",
         "04-27",
-        "04-28"
+        "04-28",
+        "04-29"
       ],
       "values": [
-        8943.54,
         8801.78,
         8732.63,
         8775.62,
         8756.32,
-        8694.28
+        8644.81,
+        8726.15
       ],
-      "latest": 8694.28,
-      "change_pct": -0.71
+      "latest": 8726.15,
+      "change_pct": 0.94
     }
   ]
 }
