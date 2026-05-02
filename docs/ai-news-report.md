@@ -1,38 +1,26 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月01日 02:47
+**生成时间**: 2026年05月02日 02:29
 
 ---
 
 ## 🎯 核心动态
 
-- **10-day training cycle that Sabastian Sawe used to run a sub-2 marathon**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.runnersworld.com/uk/training/marathon/a71027488/sebastian-sawe-training-cycle/
+- **Governor – a Claude Code plugin to reduce token/context waste**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://github.com/0xhimanshu/governor
 
-- **Claude Code is going to fail you eventually, and you need to be ready**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://claudefolio.com/blog/claude-code-is-going-to-fail-you-eventually-and-you-need-to-be-ready
-
-- **AI Value Capture – The Shift to Model Labs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://newsletter.semianalysis.com/p/ai-value-capture-the-shift-to-model
-
-- **Ask HN: Does Claude use 'prior' in a Bayesian sense more than English?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=47970734
-
-- **KV Cache Locality: The Hidden Variable in Your LLM Serving Cost**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html
+- **Trump issues executive order against Cuba**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.cbsnews.com/miami/news/trump-executive-order-tightening-u-s-sanctions-on-cuba/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **training**: 出现 2 次
-- **model**: 出现 2 次
-- **Claude**: 出现 2 次
+- **LLM**: 出现 2 次
+- **training**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
