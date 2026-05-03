@@ -1,26 +1,25 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月02日 02:29
+**生成时间**: 2026年05月03日 02:38
 
 ---
 
 ## 🎯 核心动态
 
-- **Governor – a Claude Code plugin to reduce token/context waste**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/0xhimanshu/governor
+- **The AI workflow I use to build apps**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/
 
-- **Trump issues executive order against Cuba**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.cbsnews.com/miami/news/trump-executive-order-tightening-u-s-sanctions-on-cuba/
+- **US Navy signs deal with AI firm for training underwater drones**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **LLM**: 出现 2 次
-- **training**: 出现 1 次
+- **training**: 出现 2 次
 - **model**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
