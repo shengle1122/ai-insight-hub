@@ -1,33 +1,47 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月03日 02:38
+**生成时间**: 2026年05月04日 02:36
 
 ---
 
 ## 🎯 核心动态
 
-- **The AI workflow I use to build apps**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/
+- **Ask HN: Does Claude Code succeed after being asked "should we give up?" for you?**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://news.ycombinator.com/item?id=48003592
 
-- **US Navy signs deal with AI firm for training underwater drones**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months
+- **Coffee appears to rewire the gut-brain connection**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://www.sciencedaily.com/releases/2026/05/260502233911.htm
+
+- **OpenAI Codex system includes explicit directive to "never talk about goblins"**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/
+
+- **Ask HN: Do you feel reading AI generated readme tiring?**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://news.ycombinator.com/item?id=48003871
+
+- **ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **LLM**: 出现 2 次
-- **training**: 出现 2 次
+- **OpenAI**: 出现 1 次
 - **model**: 出现 1 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Computing Equilibrium beyond Unilateral Deviation...](http://arxiv.org/abs/2604.28186v1)
-- [Exploration Hacking: Can LLMs Learn to Resist RL Training?...](http://arxiv.org/abs/2604.28182v1)
-- [Synthetic Computers at Scale for Long-Horizon Productivity S...](http://arxiv.org/abs/2604.28181v1)
+- [HyCOP: Hybrid Composition Operators for Interpretable Learni...](http://arxiv.org/abs/2605.00820v1)
+- [When LLMs Stop Following Steps: A Diagnostic Study of Proced...](http://arxiv.org/abs/2605.00817v1)
+- [Persistent Visual Memory: Sustaining Perception for Deep Gen...](http://arxiv.org/abs/2605.00814v1)
 
 ### 热门项目
 
