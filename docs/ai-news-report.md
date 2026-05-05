@@ -1,47 +1,47 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月04日 02:36
+**生成时间**: 2026年05月05日 02:30
 
 ---
 
 ## 🎯 核心动态
 
-- **Ask HN: Does Claude Code succeed after being asked "should we give up?" for you?**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://news.ycombinator.com/item?id=48003592
-
-- **Coffee appears to rewire the gut-brain connection**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.sciencedaily.com/releases/2026/05/260502233911.htm
-
-- **OpenAI Codex system includes explicit directive to "never talk about goblins"**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/
-
-- **Ask HN: Do you feel reading AI generated readme tiring?**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://news.ycombinator.com/item?id=48003871
-
-- **ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?**
+- **DeArrow: Crowdsourcing better titles and thumbnails on YouTube**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1
+  - 链接: https://github.com/ajayyy/DeArrow
+
+- **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://microsoft.github.io/World-R1/
+
+- **The Only Thing Worse Than Spirit Airlines Is a World Without Spirit Airlines**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.theatlantic.com/technology/2026/05/spirit-airlines-cancellation-closure/687047/
+
+- **Show HN: A tiny C program where an LLM rewires its DAG while running**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/kouhxp/liteflow
+
+- **Ctx – Persistent Memory for Claude Code, Cursor, and AI Coding Tools**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/ActiveMemory/ctx
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
 - **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
-- **GPT**: 出现 1 次
+- **training**: 出现 1 次
 - **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [HyCOP: Hybrid Composition Operators for Interpretable Learni...](http://arxiv.org/abs/2605.00820v1)
-- [When LLMs Stop Following Steps: A Diagnostic Study of Proced...](http://arxiv.org/abs/2605.00817v1)
-- [Persistent Visual Memory: Sustaining Perception for Deep Gen...](http://arxiv.org/abs/2605.00814v1)
+- [Enhancing RL Generalizability in Robotics through SHAP Analy...](http://arxiv.org/abs/2605.02867v1)
+- [Standing on the Shoulders of Giants: Stabilized Knowledge Di...](http://arxiv.org/abs/2605.02860v1)
+- [From Sensors to Insight: Rapid, Edge-to-Core Application Dev...](http://arxiv.org/abs/2605.02859v1)
 
 ### 热门项目
 
