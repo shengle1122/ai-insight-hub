@@ -1,47 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月05日 02:30
+**生成时间**: 2026年05月06日 02:34
 
 ---
 
 ## 🎯 核心动态
 
-- **DeArrow: Crowdsourcing better titles and thumbnails on YouTube**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/ajayyy/DeArrow
+- **FFmpeg developer calls out OxideAV for AI license laundering of his code**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://github.com/OxideAV/oxideav-magicyuv/issues/3
 
-- **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**
+- **Google is building an AI agent that could be its answer to OpenClaw**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://microsoft.github.io/World-R1/
+  - 链接: https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5
 
-- **The Only Thing Worse Than Spirit Airlines Is a World Without Spirit Airlines**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theatlantic.com/technology/2026/05/spirit-airlines-cancellation-closure/687047/
+- **Anthropic moral dev said AI overcorrection could address historical injustices**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.foxnews.com/politics/anthropics-moral-compass-architect-suggested-ai-overcorrection-could-address-historical-injustices
 
-- **Show HN: A tiny C program where an LLM rewires its DAG while running**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/kouhxp/liteflow
+- **Leadly – AI lead generation for small businesses at $9/month**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://willowy-kulfi-0cbaff.netlify.app
 
-- **Ctx – Persistent Memory for Claude Code, Cursor, and AI Coding Tools**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/ActiveMemory/ctx
+- **Canadian fiddler sues Google after AI wrongly claimed he was a sex offender**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
-- **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Enhancing RL Generalizability in Robotics through SHAP Analy...](http://arxiv.org/abs/2605.02867v1)
-- [Standing on the Shoulders of Giants: Stabilized Knowledge Di...](http://arxiv.org/abs/2605.02860v1)
-- [From Sensors to Insight: Rapid, Edge-to-Core Application Dev...](http://arxiv.org/abs/2605.02859v1)
+- [A Closed-Form Adaptive-Landmark Kernel for Certified Point-C...](http://arxiv.org/abs/2605.04046v1)
+- [Safety and accuracy follow different scaling laws in clinica...](http://arxiv.org/abs/2605.04039v1)
+- [OpenSeeker-v2: Pushing the Limits of Search Agents with Info...](http://arxiv.org/abs/2605.04036v1)
 
 ### 热门项目
 
