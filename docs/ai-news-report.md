@@ -1,44 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月06日 02:34
+**生成时间**: 2026年05月07日 02:37
 
 ---
 
 ## 🎯 核心动态
 
-- **FFmpeg developer calls out OxideAV for AI license laundering of his code**
+- **If AI cuts jobs, it would also threaten Social Security and Medicare**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/OxideAV/oxideav-magicyuv/issues/3
+  - 链接: https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/
 
-- **Google is building an AI agent that could be its answer to OpenClaw**
+- **Marco Rubio discovers he needs to take over Spirit Airlines**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.youtube.com/watch?v=whF9C5j7X8k
+
+- **Kill SWITCH AGENDA: You'll own your car – until the government's AI**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.theblaze.com/align/kill-switch-agenda-youll-own-your-car-until-the-governments-ai-says-you-dont
+
+- **Hantavirus explained: Symptoms, transmission and treatment**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5
+  - 链接: https://epi.ufl.edu/2026/05/06/hantavirus-explained-symptoms-transmission-and-treatment/
 
-- **Anthropic moral dev said AI overcorrection could address historical injustices**
+- **Nvidia Enterprise Reference Architectures for AI Data Centers**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.foxnews.com/politics/anthropics-moral-compass-architect-suggested-ai-overcorrection-could-address-historical-injustices
-
-- **Leadly – AI lead generation for small businesses at $9/month**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://willowy-kulfi-0cbaff.netlify.app
-
-- **Canadian fiddler sues Google after AI wrongly claimed he was a sex offender**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb
+  - 链接: https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 1 次
+- **LLM**: 出现 1 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [A Closed-Form Adaptive-Landmark Kernel for Certified Point-C...](http://arxiv.org/abs/2605.04046v1)
-- [Safety and accuracy follow different scaling laws in clinica...](http://arxiv.org/abs/2605.04039v1)
-- [OpenSeeker-v2: Pushing the Limits of Search Agents with Info...](http://arxiv.org/abs/2605.04036v1)
+- [Taming Outlier Tokens in Diffusion Transformers...](http://arxiv.org/abs/2605.05206v1)
+- [Implicit Representations of Grammaticality in Language Model...](http://arxiv.org/abs/2605.05197v1)
+- [Grokability in five inequalities...](http://arxiv.org/abs/2605.05193v1)
 
 ### 热门项目
 
