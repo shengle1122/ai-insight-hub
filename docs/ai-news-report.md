@@ -1,44 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月07日 02:37
+**生成时间**: 2026年05月08日 02:42
 
 ---
 
 ## 🎯 核心动态
 
-- **If AI cuts jobs, it would also threaten Social Security and Medicare**
+- **Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/
+  - 链接: https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/
 
-- **Marco Rubio discovers he needs to take over Spirit Airlines**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.youtube.com/watch?v=whF9C5j7X8k
-
-- **Kill SWITCH AGENDA: You'll own your car – until the government's AI**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.theblaze.com/align/kill-switch-agenda-youll-own-your-car-until-the-governments-ai-says-you-dont
-
-- **Hantavirus explained: Symptoms, transmission and treatment**
+- **Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://epi.ufl.edu/2026/05/06/hantavirus-explained-symptoms-transmission-and-treatment/
+  - 链接: https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319
 
-- **Nvidia Enterprise Reference Architectures for AI Data Centers**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/
+- **Anthropic and the Department of War**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.hyperdimensional.co/p/clawed
+
+- **Where Are You in the Context Supply Chain?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://educatedguesser.substack.com/p/where-are-you-in-the-context-supply
+
+- **IMF warns new AI models risk 'systemic' shock to finance**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **model**: 出现 1 次
+- **training**: 出现 3 次
+- **LLM**: 出现 2 次
+- **model**: 出现 2 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Taming Outlier Tokens in Diffusion Transformers...](http://arxiv.org/abs/2605.05206v1)
-- [Implicit Representations of Grammaticality in Language Model...](http://arxiv.org/abs/2605.05197v1)
-- [Grokability in five inequalities...](http://arxiv.org/abs/2605.05193v1)
+- [ActCam: Zero-Shot Joint Camera and 3D Motion Control for Vid...](http://arxiv.org/abs/2605.06667v1)
+- [UniPool: A Globally Shared Expert Pool for Mixture-of-Expert...](http://arxiv.org/abs/2605.06665v1)
+- [BAMI: Training-Free Bias Mitigation in GUI Grounding...](http://arxiv.org/abs/2605.06664v1)
 
 ### 热门项目
 
