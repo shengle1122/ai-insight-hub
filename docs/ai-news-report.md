@@ -1,38 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月08日 02:42
+**生成时间**: 2026年05月09日 02:36
 
 ---
 
 ## 🎯 核心动态
 
-- **Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/
+- **AI's Circular Psychosis**
+  - 来源: Hacker News | 热度: 7分
+  - 链接: https://www.wheresyoured.at/premium-ais-circular-psychosis/
 
-- **Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'**
+- **vLLM Routing and KV**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319
+  - 链接: https://avkcode.github.io/blog/how-vllm-works.html
 
-- **Anthropic and the Department of War**
+- **He says U.S. troops abused him in Iraq's Abu Ghraib and his life is still ruined**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.hyperdimensional.co/p/clawed
+  - 链接: https://www.npr.org/2023/04/11/1167341565/us-iraq-war-abu-ghraib-survivor
 
-- **Where Are You in the Context Supply Chain?**
+- **AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://educatedguesser.substack.com/p/where-are-you-in-the-context-supply
+  - 链接: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/
 
-- **IMF warns new AI models risk 'systemic' shock to finance**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6
+- **Show HN: KillClawd – a sarcastic AI desktop crab by local Ollama**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/ninjahawk/KillClawd
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 3 次
 - **training**: 出现 3 次
-- **LLM**: 出现 2 次
 - **model**: 出现 2 次
-- **Claude**: 出现 1 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
