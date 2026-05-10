@@ -1,38 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月09日 02:36
+**生成时间**: 2026年05月10日 02:41
 
 ---
 
 ## 🎯 核心动态
 
-- **AI's Circular Psychosis**
-  - 来源: Hacker News | 热度: 7分
-  - 链接: https://www.wheresyoured.at/premium-ais-circular-psychosis/
-
-- **vLLM Routing and KV**
+- **Transpiler.us – dev tools platform with Solana Pay USDC on mainnet**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://avkcode.github.io/blog/how-vllm-works.html
+  - 链接: https://transpiler.us
 
-- **He says U.S. troops abused him in Iraq's Abu Ghraib and his life is still ruined**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.npr.org/2023/04/11/1167341565/us-iraq-war-abu-ghraib-survivor
-
-- **AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/
-
-- **Show HN: KillClawd – a sarcastic AI desktop crab by local Ollama**
+- **Model Provenance Kit: Know Where Your AI Models Come From**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/ninjahawk/KillClawd
+  - 链接: https://blogs.cisco.com/ai/model-provenance-kit
+
+- **Ask HN: Ex-cofounder threatening to send YC email**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=48080417
+
+- **GitHub project reproduces 58 Schmidhuber papers with AI assistant**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://twitter.com/hardmaru/status/2053147759428178315
+
+- **Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
 - **training**: 出现 3 次
-- **model**: 出现 2 次
-- **OpenAI**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 2 次
 
 
 ## 🔍 值得关注
