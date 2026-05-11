@@ -1,35 +1,34 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月10日 02:41
+**生成时间**: 2026年05月11日 02:51
 
 ---
 
 ## 🎯 核心动态
 
-- **Transpiler.us – dev tools platform with Solana Pay USDC on mainnet**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://transpiler.us
+- **Apple's privacy invading tech is likely going mainstream**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://quickthoughts.ca/posts/self-owning-ai-tech/
 
-- **Model Provenance Kit: Know Where Your AI Models Come From**
+- **The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://blogs.cisco.com/ai/model-provenance-kit
+  - 链接: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
 
-- **Ask HN: Ex-cofounder threatening to send YC email**
+- **Copilot Builder enables welding with AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48080417
+  - 链接: https://www.millerwelds.com/products/copilot-builder-with-blue-iq-powered-by-novai
 
-- **GitHub project reproduces 58 Schmidhuber papers with AI assistant**
+- **University Claims Withholding Water from Data Center 'Unlawfully Discriminatory'**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/hardmaru/status/2053147759428178315
+  - 链接: https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/
 
-- **Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work**
+- **SzPredict – open seizure prediction benchmark (all 6 baselines fail)**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work
+  - 链接: https://github.com/hyperreal-ai/SzPredict
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 3 次
 - **model**: 出现 3 次
 - **LLM**: 出现 2 次
 
@@ -37,9 +36,9 @@
 ## 🔍 值得关注
 
 ### 最新论文
-- [ActCam: Zero-Shot Joint Camera and 3D Motion Control for Vid...](http://arxiv.org/abs/2605.06667v1)
-- [UniPool: A Globally Shared Expert Pool for Mixture-of-Expert...](http://arxiv.org/abs/2605.06665v1)
-- [BAMI: Training-Free Bias Mitigation in GUI Grounding...](http://arxiv.org/abs/2605.06664v1)
+- [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling...](http://arxiv.org/abs/2605.08083v1)
+- [Normalizing Trajectory Models...](http://arxiv.org/abs/2605.08078v1)
+- [Conformal Path Reasoning: Trustworthy Knowledge Graph Questi...](http://arxiv.org/abs/2605.08077v1)
 
 ### 热门项目
 
