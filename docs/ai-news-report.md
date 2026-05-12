@@ -1,44 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月11日 02:51
+**生成时间**: 2026年05月12日 02:43
 
 ---
 
 ## 🎯 核心动态
 
-- **Apple's privacy invading tech is likely going mainstream**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://quickthoughts.ca/posts/self-owning-ai-tech/
+- **Cisco CPO predicts AI will have built majority of their products by end of 2027**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/
 
-- **The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene**
+- **RegexPSPACE: Regex LLM Benchmark**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
+  - 链接: https://arxiv.org/abs/2510.09227
 
-- **Copilot Builder enables welding with AI**
+- **Show HN: Sigmashake Desktop – AI Coding Agent Guardrails**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.millerwelds.com/products/copilot-builder-with-blue-iq-powered-by-novai
+  - 链接: https://sigmashake.com/desktop
 
-- **University Claims Withholding Water from Data Center 'Unlawfully Discriminatory'**
+- **Why Everyone's Picking Up a PSP Again in 2026**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/
+  - 链接: https://gardinerbryant.com/psp-in-2026/
 
-- **SzPredict – open seizure prediction benchmark (all 6 baselines fail)**
+- **Fake building: Claude wrote 3k lines instead of import pywikibot**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/hyperreal-ai/SzPredict
+  - 链接: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
+- **LLM**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling...](http://arxiv.org/abs/2605.08083v1)
-- [Normalizing Trajectory Models...](http://arxiv.org/abs/2605.08078v1)
-- [Conformal Path Reasoning: Trustworthy Knowledge Graph Questi...](http://arxiv.org/abs/2605.08077v1)
+- [Extending Confidence-Based Text2Cypher with Grammar and Sche...](http://arxiv.org/abs/2605.10318v1)
+- [Relations Are Channels: Knowledge Graph Embedding via Kraus ...](http://arxiv.org/abs/2605.10317v1)
+- [Active Tabular Augmentation via Policy-Guided Diffusion Inpa...](http://arxiv.org/abs/2605.10315v1)
 
 ### 热门项目
 
