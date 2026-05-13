@@ -1,44 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月12日 02:43
+**生成时间**: 2026年05月13日 02:49
 
 ---
 
 ## 🎯 核心动态
 
-- **Cisco CPO predicts AI will have built majority of their products by end of 2027**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/
+- **DMARC Fail: 7 Causes and How to Fix Each**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://dmarcguard.io/blog/dmarc-failed-how-to-fix/
 
-- **RegexPSPACE: Regex LLM Benchmark**
+- **Suffer not the heathen, the xeno, the heretic. Praise the Emperor**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2510.09227
+  - 链接: https://www.google.com/search?q=Suffer+not+the+heathen%2C+the+xeno%2C+the+heretic.+Praise+the+Emperor%21&ie=utf-8&oe=utf-8&client=firefox-b-m#lfId=ChxjMe
 
-- **Show HN: Sigmashake Desktop – AI Coding Agent Guardrails**
+- **Ask HN: Freelance Billing in the Age of LLMs?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://sigmashake.com/desktop
+  - 链接: https://news.ycombinator.com/item?id=48117191
 
-- **Why Everyone's Picking Up a PSP Again in 2026**
+- **Claude for Legal Launches**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://gardinerbryant.com/psp-in-2026/
+  - 链接: https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/
 
-- **Fake building: Claude wrote 3k lines instead of import pywikibot**
+- **Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/
+  - 链接: https://github.com/rahilp/second-brain-cloudflare
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **Claude**: 出现 2 次
 - **LLM**: 出现 1 次
-- **Claude**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Extending Confidence-Based Text2Cypher with Grammar and Sche...](http://arxiv.org/abs/2605.10318v1)
-- [Relations Are Channels: Knowledge Graph Embedding via Kraus ...](http://arxiv.org/abs/2605.10317v1)
-- [Active Tabular Augmentation via Policy-Guided Diffusion Inpa...](http://arxiv.org/abs/2605.10315v1)
 
 ### 热门项目
 
