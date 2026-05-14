@@ -1,42 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月13日 02:49
+**生成时间**: 2026年05月14日 02:50
 
 ---
 
 ## 🎯 核心动态
 
-- **DMARC Fail: 7 Causes and How to Fix Each**
+- **Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://apnews.com/article/whatsapp-meta-ai-chatbot-privacy-9a5f7565c969cbf04cf150dfc318cfae
+
+- **Terax – Lightweight (7MB) AI Terminal Emulator (ADE) in Rust, Tauri, and React**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://dmarcguard.io/blog/dmarc-failed-how-to-fix/
+  - 链接: https://terax.app
 
-- **Suffer not the heathen, the xeno, the heretic. Praise the Emperor**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.google.com/search?q=Suffer+not+the+heathen%2C+the+xeno%2C+the+heretic.+Praise+the+Emperor%21&ie=utf-8&oe=utf-8&client=firefox-b-m#lfId=ChxjMe
+- **Tell HN: Starting June 15, claude -p usage will change**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.ycombinator.com/item?id=48130374
 
-- **Ask HN: Freelance Billing in the Age of LLMs?**
+- **Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48117191
+  - 链接: https://github.com/footprintai/Containarium
 
-- **Claude for Legal Launches**
+- **CVE-2026-45793: Anatomy of a 14-Hour PHP Supply-Chain Near-Miss**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/
-
-- **Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/rahilp/second-brain-cloudflare
+  - 链接: https://github.com/graycoreio/github-actions-magento2/discussions/261
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 2 次
-- **LLM**: 出现 1 次
-- **training**: 出现 1 次
+- **training**: 出现 2 次
+- **model**: 出现 2 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [WARDEN: Endangered Indigenous Language Transcription and Tra...](http://arxiv.org/abs/2605.13846v1)
+- [EVA-Bench: A New End-to-end Framework for Evaluating Voice A...](http://arxiv.org/abs/2605.13841v1)
+- [What is Learnable in Valiant's Theory of the Learnable?...](http://arxiv.org/abs/2605.13840v1)
 
 ### 热门项目
 
