@@ -1,45 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月14日 02:50
+**生成时间**: 2026年05月15日 02:51
 
 ---
 
 ## 🎯 核心动态
 
-- **Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://apnews.com/article/whatsapp-meta-ai-chatbot-privacy-9a5f7565c969cbf04cf150dfc318cfae
+- **The Efficiency Moat: Why China Is Beating the U.S. on AI and Everything Else**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is
 
-- **Terax – Lightweight (7MB) AI Terminal Emulator (ADE) in Rust, Tauri, and React**
+- **LLMs can't read PDFs in 2026?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://terax.app
+  - 链接: https://musings-mr.net/post/where-state-of-the-art-fails
 
-- **Tell HN: Starting June 15, claude -p usage will change**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=48130374
-
-- **Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native**
+- **Ask HN: What is shared across participants within "AI-native" environments?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/footprintai/Containarium
+  - 链接: https://news.ycombinator.com/item?id=48143975
 
-- **CVE-2026-45793: Anatomy of a 14-Hour PHP Supply-Chain Near-Miss**
+- **Wide-Band Subharmonic Modeling**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/graycoreio/github-actions-magento2/discussions/261
+  - 链接: https://queuesevenm.wordpress.com/2026/05/14/wide-band-subharmonic-modeling/
+
+- **Laid-off Oracle workers tried to negotiate better severance. Oracle said no**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 2 次
+- **LLM**: 出现 2 次
 - **model**: 出现 2 次
-- **Claude**: 出现 1 次
+- **training**: 出现 1 次
+- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [WARDEN: Endangered Indigenous Language Transcription and Tra...](http://arxiv.org/abs/2605.13846v1)
-- [EVA-Bench: A New End-to-end Framework for Evaluating Voice A...](http://arxiv.org/abs/2605.13841v1)
-- [What is Learnable in Valiant's Theory of the Learnable?...](http://arxiv.org/abs/2605.13840v1)
+- [A Non-Monotone Preconditioned Trust-Region Method for Neural...](http://arxiv.org/abs/2605.14860v1)
+- [Do Coding Agents Understand Least-Privilege Authorization?...](http://arxiv.org/abs/2605.14859v1)
+- [A Deterministic Agentic Workflow for HS Tariff Classificatio...](http://arxiv.org/abs/2605.14857v1)
 
 ### 热门项目
 
