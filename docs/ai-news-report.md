@@ -1,46 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月15日 02:51
+**生成时间**: 2026年05月16日 02:39
 
 ---
 
 ## 🎯 核心动态
 
-- **The Efficiency Moat: Why China Is Beating the U.S. on AI and Everything Else**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is
+- **Senior NIAID Official Indicted for Concealing Records During Covid Pandemic**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.justice.gov/opa/pr/former-senior-niaid-official-indicted-concealing-federal-records-during-covid-19-pandemic-0
 
-- **LLMs can't read PDFs in 2026?**
+- **AI for the Real World: A Conversation with Yann LeCun**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://musings-mr.net/post/where-state-of-the-art-fails
+  - 链接: https://twitter.com/AnneliesGamble/status/2054219457451733382
 
-- **Ask HN: What is shared across participants within "AI-native" environments?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48143975
+- **Fix pathological performance in trait solver**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/rust-lang/rust/pull/155355
 
-- **Wide-Band Subharmonic Modeling**
+- **Theron – a council of 31 specialist LLMs on one foundation**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://queuesevenm.wordpress.com/2026/05/14/wide-band-subharmonic-modeling/
+  - 链接: https://tryvext.com/landing
 
-- **Laid-off Oracle workers tried to negotiate better severance. Oracle said no**
+- **Craigslist Charitable Fund**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/
+  - 链接: https://www.craigslistfund.org
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 3 次
 - **LLM**: 出现 2 次
-- **model**: 出现 2 次
-- **training**: 出现 1 次
-- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [A Non-Monotone Preconditioned Trust-Region Method for Neural...](http://arxiv.org/abs/2605.14860v1)
-- [Do Coding Agents Understand Least-Privilege Authorization?...](http://arxiv.org/abs/2605.14859v1)
-- [A Deterministic Agentic Workflow for HS Tariff Classificatio...](http://arxiv.org/abs/2605.14857v1)
+- [EntityBench: Towards Entity-Consistent Long-Range Multi-Shot...](http://arxiv.org/abs/2605.15199v1)
+- [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enoug...](http://arxiv.org/abs/2605.15198v1)
+- [RefDecoder: Enhancing Visual Generation with Conditional Vid...](http://arxiv.org/abs/2605.15196v1)
 
 ### 热门项目
 
