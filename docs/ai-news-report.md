@@ -1,46 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月19日 02:54
+**生成时间**: 2026年05月20日 02:55
 
 ---
 
 ## 🎯 核心动态
 
-- **Data centers raise nearby temperatures by up to 4 degrees in Phoenix**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://techxplore.com/news/2026-05-centers-nearby-temperatures-degrees-phoenix.html
-
-- **People who use ChatGPT for writing are accurate detectors of AI text (2025)**
+- **Alternatives to HN for "tech outside of AI" discussion?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2501.15654
+  - 链接: https://news.ycombinator.com/item?id=48202486
 
-- **Ball Simulator in Python Made with Claude**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/simin75simin/ball-sandbox
-
-- **Google's Own AI Researchers Jockey for Access to Its Computing**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bloomberg.com/news/articles/2026-05-18/google-s-own-ai-researchers-jockey-for-access-to-its-computing
-
-- **AI Grant Writing Assistant**
+- **Why "Fast AI" and "Safe AI" Were Never in Conflict**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://grantbot.pl
+  - 链接: https://www.enkryptai.com/blog/why-fast-ai-and-safe-ai-were-never-actually-in-conflict
+
+- **Enterprise AI: Mystery Meat, Kill Zones, Cognitive Surrender, Vibe Bombs**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://kyield.com/insights/newsletter/2026/05/vibe-bombs-cognitive-surrender.html
+
+- **Customizing an LLM for Enterprise Software Engineering**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2605.16517
+
+- **Zephex is hosted MCP that gives AI coding editors persistent project context**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://zephex.dev
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 3 次
 - **model**: 出现 2 次
-- **Claude**: 出现 2 次
-- **LLM**: 出现 1 次
-- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Are Sparse Autoencoder Benchmarks Reliable?...](http://arxiv.org/abs/2605.18229v1)
-- [Context Memorization for Efficient Long Context Generation...](http://arxiv.org/abs/2605.18226v1)
-- [A Simplex Witness Certificate for Constant Collapse in Varia...](http://arxiv.org/abs/2605.18224v1)
+- [Synergistic Foundation Models for Semi-Supervised Fetal Card...](http://arxiv.org/abs/2605.19799v1)
+- [Towards Trust Calibration in Socially Interactive Agents: In...](http://arxiv.org/abs/2605.19798v1)
+- [AffectAI-Capture: A Reproducible Multimodal Protocol for Sma...](http://arxiv.org/abs/2605.19794v1)
 
 ### 热门项目
 
