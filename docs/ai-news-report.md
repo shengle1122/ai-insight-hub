@@ -1,44 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月20日 02:55
+**生成时间**: 2026年05月21日 02:59
 
 ---
 
 ## 🎯 核心动态
 
-- **Alternatives to HN for "tech outside of AI" discussion?**
+- **OpenAI to confidentially file for IPO as soon as Friday**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html
+
+- **Google is dethroning OpenAI as the king of consumer AI**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=48202486
+  - 链接: https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai
 
-- **Why "Fast AI" and "Safe AI" Were Never in Conflict**
+- **The Google AI Pro plan just got a quiet downgrade**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.enkryptai.com/blog/why-fast-ai-and-safe-ai-were-never-actually-in-conflict
-
-- **Enterprise AI: Mystery Meat, Kill Zones, Cognitive Surrender, Vibe Bombs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://kyield.com/insights/newsletter/2026/05/vibe-bombs-cognitive-surrender.html
-
-- **Customizing an LLM for Enterprise Software Engineering**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2605.16517
-
-- **Zephex is hosted MCP that gives AI coding editors persistent project context**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://zephex.dev
+  - 链接: https://www.androidcentral.com/apps-software/ai/google-ai-pro-plan-just-got-a-quiet-downgrade
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **model**: 出现 2 次
+- **OpenAI**: 出现 2 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Synergistic Foundation Models for Semi-Supervised Fetal Card...](http://arxiv.org/abs/2605.19799v1)
-- [Towards Trust Calibration in Socially Interactive Agents: In...](http://arxiv.org/abs/2605.19798v1)
-- [AffectAI-Capture: A Reproducible Multimodal Protocol for Sma...](http://arxiv.org/abs/2605.19794v1)
+- [Variance Reduction for Expectations with Diffusion Teachers...](http://arxiv.org/abs/2605.21489v1)
+- [Equilibrium Reasoners: Learning Attractors Enables Scalable ...](http://arxiv.org/abs/2605.21488v1)
+- [Quantifying Hyperparameter Transfer and the Importance of Em...](http://arxiv.org/abs/2605.21486v1)
 
 ### 热门项目
 
