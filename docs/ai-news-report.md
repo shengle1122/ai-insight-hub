@@ -1,38 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月22日 02:58
+**生成时间**: 2026年05月23日 02:43
 
 ---
 
 ## 🎯 核心动态
 
-- **Finding Bugs Using LLMs**
+- **Is AI Profitable Yet?**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://isaiprofitable.com/
+
+- **Sci-Hub has created a new AI chatbot. Is it any good?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://materialize.com/blog/finding-bugs-using-llms/
+  - 链接: https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04
 
-- **FreeLLMAPI – One key. One billion free LLM tokens. Every month**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://tashfeenahmed.github.io/freellmapi/
-
-- **Cross-Model Context Inheritance in Anthropic's Claude: 94 Days of Non-Response**
+- **Let me AI that for you**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/AIM-Nelson/cross-model-context-inheritance
+  - 链接: https://let-me-ai.com/
 
-- **Samsung's deal with union hailed as a victory**
+- **Cognitive architecture AI weighted memory, and a falsifiable continuity metric**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/world-at-work/samsungs-deal-with-union-hailed-victory-bonuses-less-generous-than-sk-hynixs-2026-05-21/
+  - 链接: https://zenodo.org/records/20350249
 
-- **ReCardEx – AI product photos, infographics and videos for e-commerce sellers**
+- **What it takes to run an AI coworker on iMessage**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://recardex.com/en
+  - 链接: https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **model**: 出现 2 次
 - **training**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
