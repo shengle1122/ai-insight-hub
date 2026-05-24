@@ -1,34 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月23日 02:43
+**生成时间**: 2026年05月24日 02:56
 
 ---
 
 ## 🎯 核心动态
 
-- **Is AI Profitable Yet?**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://isaiprofitable.com/
+- **SSV: Sparse Speculative Verification for Efficient LLM Inference**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://arxiv.org/abs/2605.19893
 
-- **Sci-Hub has created a new AI chatbot. Is it any good?**
+- **Characterization of machine learning compilers for LLM inference on NVIDIA GPUs**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://link.springer.com/article/10.1007/s11227-026-08559-6
+
+- **Shannon Got AI This Far. Kolmogorov Shows Where It Stops**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0
+
+- **Anthropic Says Mythos Has Found More Than 10k Vulnerabilities**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04
+  - 链接: https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/
 
-- **Let me AI that for you**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://let-me-ai.com/
-
-- **Cognitive architecture AI weighted memory, and a falsifiable continuity metric**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenodo.org/records/20350249
-
-- **What it takes to run an AI coworker on iMessage**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/
+- **Images are not displayed in emails, newsletters or signatures in classic Outlook**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 2 次
 - **training**: 出现 1 次
 - **model**: 出现 1 次
 
