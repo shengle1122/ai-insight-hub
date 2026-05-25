@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月24日 02:56
+**生成时间**: 2026年05月25日 03:32
 
 ---
 
 ## 🎯 核心动态
 
-- **SSV: Sparse Speculative Verification for Efficient LLM Inference**
+- **Code-mapper: Free CLI tool to reduce LLM token usage on any codebases**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://arxiv.org/abs/2605.19893
+  - 链接: https://github.com/damien220/code-mapper
 
-- **Characterization of machine learning compilers for LLM inference on NVIDIA GPUs**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://link.springer.com/article/10.1007/s11227-026-08559-6
-
-- **Shannon Got AI This Far. Kolmogorov Shows Where It Stops**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0
-
-- **Anthropic Says Mythos Has Found More Than 10k Vulnerabilities**
+- **Lynote Humanize Text – Open-source AI text humanization toolkit**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/
+  - 链接: https://github.com/lynote-ai/humanize-text
 
-- **Images are not displayed in emails, newsletters or signatures in classic Outlook**
+- **Sign in Nobody Wants AI Anymore [video][12 mins]**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216
+  - 链接: https://www.youtube.com/watch?v=FQpZdCKgc6w
+
+- **How to Teach AI the "Taste"**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.ycombinator.com/item?id=48262990
+
+- **Command A+: Making sovereign agentic capabilities available to all**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://cohere.com/blog/command-a-plus
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **training**: 出现 1 次
-- **model**: 出现 1 次
+- **LLM**: 出现 3 次
+- **model**: 出现 3 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Tokenisation via Convex Relaxations...](http://arxiv.org/abs/2605.22821v1)
-- [Integrable Elasticity via Neural Demand Potentials...](http://arxiv.org/abs/2605.22820v1)
-- [Vector Policy Optimization: Training for Diversity Improves ...](http://arxiv.org/abs/2605.22817v1)
+- [SkillOpt: Executive Strategy for Self-Evolving Agent Skills...](http://arxiv.org/abs/2605.23904v1)
+- [LLMs as Noisy Channels: A Shannon Perspective on Model Capac...](http://arxiv.org/abs/2605.23901v1)
+- [From Raw Experience to Skill Consumption: A Systematic Study...](http://arxiv.org/abs/2605.23899v1)
 
 ### 热门项目
 
