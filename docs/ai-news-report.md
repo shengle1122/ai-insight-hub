@@ -1,44 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月25日 03:32
+**生成时间**: 2026年05月26日 02:52
 
 ---
 
 ## 🎯 核心动态
 
-- **Code-mapper: Free CLI tool to reduce LLM token usage on any codebases**
+- **Crypto code commits fall 75% as developers move to AI projects**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/damien220/code-mapper
+  - 链接: https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom
 
-- **Lynote Humanize Text – Open-source AI text humanization toolkit**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/lynote-ai/humanize-text
-
-- **Sign in Nobody Wants AI Anymore [video][12 mins]**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.youtube.com/watch?v=FQpZdCKgc6w
-
-- **How to Teach AI the "Taste"**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=48262990
-
-- **Command A+: Making sovereign agentic capabilities available to all**
+- **Brockovich AI Data Center Reporting**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://cohere.com/blog/command-a-plus
+  - 链接: https://www.brockovichdatacenter.com/
+
+- **Pinned – daily geography pin-drop game (pinned.engineering)**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.pinned.engineering/
+
+- **Models Have Blind Spots: Debugging Unfamiliar Code with a Multi-LLM Loop**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://sosuke.com/models-have-blind-spots-debugging-unfamiliar-code-with-a-multi-llm-loop/
+
+- **Curious Pilot: Software to Aid UAP Investigations**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://curiouspilot.com/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **model**: 出现 3 次
+- **LLM**: 出现 2 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [SkillOpt: Executive Strategy for Self-Evolving Agent Skills...](http://arxiv.org/abs/2605.23904v1)
-- [LLMs as Noisy Channels: A Shannon Perspective on Model Capac...](http://arxiv.org/abs/2605.23901v1)
-- [From Raw Experience to Skill Consumption: A Systematic Study...](http://arxiv.org/abs/2605.23899v1)
 
 ### 热门项目
 
