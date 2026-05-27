@@ -1,35 +1,27 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月26日 02:52
+**生成时间**: 2026年05月27日 03:30
 
 ---
 
 ## 🎯 核心动态
 
-- **Crypto code commits fall 75% as developers move to AI projects**
+- **OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom
+  - 链接: https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/
 
-- **Brockovich AI Data Center Reporting**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.brockovichdatacenter.com/
+- **Billionaire Mark Cuban says bye-bye Bitcoin: Why he is 'disappointed' by crypto**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/
 
-- **Pinned – daily geography pin-drop game (pinned.engineering)**
+- **Micro-Expert-Router: Running Mixtral-Class Moe Models on NVMe SSDs Without a GPU**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.pinned.engineering/
-
-- **Models Have Blind Spots: Debugging Unfamiliar Code with a Multi-LLM Loop**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://sosuke.com/models-have-blind-spots-debugging-unfamiliar-code-with-a-multi-llm-loop/
-
-- **Curious Pilot: Software to Aid UAP Investigations**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://curiouspilot.com/
+  - 链接: https://github.com/randyap8-wq/Micro-Expert-Router-SSD-Streamed-MoE-MER
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
+- **OpenAI**: 出现 1 次
 - **model**: 出现 1 次
 
 
