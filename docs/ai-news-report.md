@@ -1,28 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月27日 03:30
+**生成时间**: 2026年05月28日 02:51
 
 ---
 
 ## 🎯 核心动态
 
-- **OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/
+- **Safescript – A Language for AI Era**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://safescript.cc/
 
-- **Billionaire Mark Cuban says bye-bye Bitcoin: Why he is 'disappointed' by crypto**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/
-
-- **Micro-Expert-Router: Running Mixtral-Class Moe Models on NVMe SSDs Without a GPU**
+- **Show HN: The Two Pillars – A conceptual framework for post-AI software work**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/randyap8-wq/Micro-Expert-Router-SSD-Streamed-MoE-MER
+  - 链接: https://zenodo.org/records/20371166
+
+- **Anthropic takes 8 spots in top 10 most secure LLMs**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.thedeepview.com/articles/anthropic-takes-8-spots-in-top-10-most-secure-llms
+
+- **The Damned Human Race by Mark Twain**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://faculty.mtsac.edu/jmcfaul/thedamnedhumanrace.html
+
+- **Your Future job will be to keep AI on task**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
+- **LLM**: 出现 2 次
 
 
 ## 🔍 值得关注
