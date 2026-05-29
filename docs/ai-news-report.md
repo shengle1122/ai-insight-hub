@@ -1,35 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月28日 02:51
+**生成时间**: 2026年05月29日 02:54
 
 ---
 
 ## 🎯 核心动态
 
-- **Safescript – A Language for AI Era**
+- **Claude Code – Everything You Can Configure That the Docs Don't Tell You**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://safescript.cc/
+  - 链接: https://buildingbetter.tech/p/i-read-the-claude-code-source-code
 
-- **Show HN: The Two Pillars – A conceptual framework for post-AI software work**
+- **Show HN: Static-allocation MLP inference in ANSI C using a 2-slot ring buffer**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenodo.org/records/20371166
+  - 链接: https://github.com/GiorgosXou/MLPico
 
-- **Anthropic takes 8 spots in top 10 most secure LLMs**
+- **How to optimize your AI token usage**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.thedeepview.com/articles/anthropic-takes-8-spots-in-top-10-most-secure-llms
+  - 链接: https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0
 
-- **The Damned Human Race by Mark Twain**
+- **Can LLMs create lasting flashcards from readers' highlights?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://faculty.mtsac.edu/jmcfaul/thedamnedhumanrace.html
+  - 链接: https://memory-machines.com/report
 
-- **Your Future job will be to keep AI on task**
+- **ReadyToTalk – AI receptionist for small businesses, built solo with AI agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai
+  - 链接: https://readyto.talk/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
+- **LLM**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
