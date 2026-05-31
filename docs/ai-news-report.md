@@ -1,37 +1,24 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月30日 02:47
+**生成时间**: 2026年05月31日 03:31
 
 ---
 
 ## 🎯 核心动态
 
-- **US strike campaign against drug boats tops 200 deaths**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.independent.co.uk/news/world/americas/us-politics/drug-boat-strikes-cocaine-trafficking-b2986243.html
+- **The Home-Insurance Coin Flip: Nearly Half of Claims Result in Zero Payout**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.wsj.com/finance/the-home-insurance-coin-flip-nearly-half-of-claims-result-in-zero-payout-4b49acaf
 
-- **Measuring LLMs' ability to develop exploits**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://red.anthropic.com/2026/exploit-evals/
-
-- **Avai – your first AI antivirus**
+- **Show HN: OWASP Agent Memory Guard – Stop AI Agent Memory Poisoning**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/iklobato/avai
-
-- **Show HN: A Claude Code skill that scopes problems like Peter Naur**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/spinchange/cartographer-skill/blob/main/skills/cartographer/SKILL.md
-
-- **Tuning CPU-only Qwen3-30B inference with an IBM Quantum sampling loop**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/Shack870/qwen-air-qpu-mcp-lab
+  - 链接: https://github.com/OWASP/www-project-agent-memory-guard
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
+- **LLM**: 出现 2 次
 - **model**: 出现 2 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
