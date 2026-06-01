@@ -1,32 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年05月31日 03:31
+**生成时间**: 2026年06月01日 03:42
 
 ---
 
 ## 🎯 核心动态
 
-- **The Home-Insurance Coin Flip: Nearly Half of Claims Result in Zero Payout**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.wsj.com/finance/the-home-insurance-coin-flip-nearly-half-of-claims-result-in-zero-payout-4b49acaf
+- **xAI touts 10x performance gain while Ceramic has achieved 80 MFU**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved
 
-- **Show HN: OWASP Agent Memory Guard – Stop AI Agent Memory Poisoning**
+- **Instagram exploit allows you to use Meta AI to reset passwords to accounts**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://xcancel.com/DarkWebInformer/status/2061253599758315527
+
+- **The Grand Unified Model of DevOps/SRE Dynamics**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://sigbovik.org/2026/proceedings.pdf#page=897
+
+- **Nvidia GTC Taipei 2026 Keynote [video]**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.youtube.com/watch?v=wSp6AiNIrsY
+
+- **Ask HN: How do you solve AI's confused deputy problem?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/OWASP/www-project-agent-memory-guard
+  - 链接: https://news.ycombinator.com/item?id=48352369
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 2 次
+- **model**: 出现 3 次
+- **Claude**: 出现 2 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Physics Is All You Need? A Case Study in Physicist-Supervise...](http://arxiv.org/abs/2605.30353v1)
-- [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregr...](http://arxiv.org/abs/2605.30351v1)
-- [DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynam...](http://arxiv.org/abs/2605.30350v1)
+- [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous L...](http://arxiv.org/abs/2605.31603v1)
+- [KLIP: localized distribution shift detection via KL-divergen...](http://arxiv.org/abs/2605.31596v1)
+- [A Tight Theory of Error Feedback Algorithms in Distributed O...](http://arxiv.org/abs/2605.31594v1)
 
 ### 热门项目
 
