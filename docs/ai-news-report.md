@@ -1,45 +1,43 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月01日 03:42
+**生成时间**: 2026年06月02日 03:39
 
 ---
 
 ## 🎯 核心动态
 
-- **xAI touts 10x performance gain while Ceramic has achieved 80 MFU**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved
+- **Putin could pay a personal price for failure in Ukraine**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://www.ft.com/content/7b986a53-3f7b-40fc-99ef-953905963ce3
 
-- **Instagram exploit allows you to use Meta AI to reset passwords to accounts**
+- **Meta AI Support – full system prompt leaked**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://xcancel.com/DarkWebInformer/status/2061253599758315527
+  - 链接: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md
 
-- **The Grand Unified Model of DevOps/SRE Dynamics**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://sigbovik.org/2026/proceedings.pdf#page=897
-
-- **Nvidia GTC Taipei 2026 Keynote [video]**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.youtube.com/watch?v=wSp6AiNIrsY
-
-- **Ask HN: How do you solve AI's confused deputy problem?**
+- **AI can chart a course to disaster faster than humans can notice**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48352369
+  - 链接: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/
+
+- **Introducing The American AI Sovereign Wealth Fund Act [video]**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=VN4b4UCWMKI
+
+- **Building a Recurrent-Depth Transformer for Security Research on a 2013 MacBook**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/TushaeBXN/kerrigan-fantasma/blob/main/USE_POLICY.md
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **Claude**: 出现 2 次
-- **training**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous L...](http://arxiv.org/abs/2605.31603v1)
-- [KLIP: localized distribution shift detection via KL-divergen...](http://arxiv.org/abs/2605.31596v1)
-- [A Tight Theory of Error Feedback Algorithms in Distributed O...](http://arxiv.org/abs/2605.31594v1)
+- [The Role of Ambiguity in Error Prediction via Uncertainty Qu...](http://arxiv.org/abs/2606.02093v1)
+- [LALE: Lightweight-Transformer Architecture for Land-Cover Es...](http://arxiv.org/abs/2606.02092v1)
+- [DFlare: Scaling Up Draft Capacity for Block Diffusion Specul...](http://arxiv.org/abs/2606.02091v1)
 
 ### 热门项目
 
