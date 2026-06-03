@@ -1,43 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月02日 03:39
+**生成时间**: 2026年06月03日 03:46
 
 ---
 
 ## 🎯 核心动态
 
-- **Putin could pay a personal price for failure in Ukraine**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.ft.com/content/7b986a53-3f7b-40fc-99ef-953905963ce3
+- **Florida sues OpenAI and CEO Altman, claiming company concealed serious risks**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836
 
-- **Meta AI Support – full system prompt leaked**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md
-
-- **AI can chart a course to disaster faster than humans can notice**
+- **AI Overviews reduce clicks to the #1 result by 58%**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/
+  - 链接: https://twitter.com/timsoulo/status/2061796432534003866
 
-- **Introducing The American AI Sovereign Wealth Fund Act [video]**
+- **Lots of people want to try Claude Opus 4.8**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=VN4b4UCWMKI
+  - 链接: https://wisgate.ai/
 
-- **Building a Recurrent-Depth Transformer for Security Research on a 2013 MacBook**
+- **The Four Signals of AI Observability**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/TushaeBXN/kerrigan-fantasma/blob/main/USE_POLICY.md
+  - 链接: https://thoughtbot.com/blog/the-four-signals-of-ai-observability
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [The Role of Ambiguity in Error Prediction via Uncertainty Qu...](http://arxiv.org/abs/2606.02093v1)
-- [LALE: Lightweight-Transformer Architecture for Land-Cover Es...](http://arxiv.org/abs/2606.02092v1)
-- [DFlare: Scaling Up Draft Capacity for Block Diffusion Specul...](http://arxiv.org/abs/2606.02091v1)
 
 ### 热门项目
 
