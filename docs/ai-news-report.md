@@ -1,32 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月03日 03:46
+**生成时间**: 2026年06月04日 03:41
 
 ---
 
 ## 🎯 核心动态
 
-- **Florida sues OpenAI and CEO Altman, claiming company concealed serious risks**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836
+- **Top AI CEOs Call for Law Protecting Against Biological Weapons**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f
 
-- **AI Overviews reduce clicks to the #1 result by 58%**
+- **Show HN: Suture – a reverse proxy that repairs truncated JSON in LLM streams**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/timsoulo/status/2061796432534003866
+  - 链接: https://github.com/tensorhq/suture-stream-repair
 
-- **Lots of people want to try Claude Opus 4.8**
+- **Beware of infinite loops when using AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://wisgate.ai/
+  - 链接: https://github.com/shaftoe/pi-coding-agent-action/pull/260
 
-- **The Four Signals of AI Observability**
+- **Container Speed. VM-Level Security**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://thoughtbot.com/blog/the-four-signals-of-ai-observability
+  - 链接: https://edera.dev
+
+- **Jailbreaking the Lululemon Mirror [video]**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=_0gtiMi5AzI
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
-- **Claude**: 出现 1 次
+- **LLM**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
