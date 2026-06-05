@@ -1,36 +1,34 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月04日 03:41
+**生成时间**: 2026年06月05日 03:28
 
 ---
 
 ## 🎯 核心动态
 
-- **Top AI CEOs Call for Law Protecting Against Biological Weapons**
+- **'Please do not vibe f–- up this software': Broken backups spark AI coding row**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f
+  - 链接: https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189
 
-- **Show HN: Suture – a reverse proxy that repairs truncated JSON in LLM streams**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/tensorhq/suture-stream-repair
+- **Wslc: A native Linux container runtime for Windows**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.boxofcables.dev/wslc-a-native-linux-container-runtime-for-windows/
 
-- **Beware of infinite loops when using AI**
+- **The AI Treadmill**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/shaftoe/pi-coding-agent-action/pull/260
+  - 链接: https://debliu.substack.com/p/the-ai-treadmill
 
-- **Container Speed. VM-Level Security**
+- **Walmart investors reject AI workplace report as automation expands in the US**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://edera.dev
+  - 链接: https://www.reuters.com/legal/litigation/walmart-investors-reject-ai-workplace-report-automation-expands-us-2026-06-04/
 
-- **Jailbreaking the Lululemon Mirror [video]**
+- **NPM-Scan v1.1.0: Four New Detectors for June 2026 Supply Chain Attacks**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=_0gtiMi5AzI
+  - 链接: https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
