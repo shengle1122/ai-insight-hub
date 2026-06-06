@@ -1,39 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月05日 03:28
+**生成时间**: 2026年06月06日 02:50
 
 ---
 
 ## 🎯 核心动态
 
-- **'Please do not vibe f–- up this software': Broken backups spark AI coding row**
+- **Trump Signals Interest in US Owning Stakes in Top AI Labs**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says
+
+- **Why is the HN crowd so anti-AI?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189
+  - 链接: https://news.ycombinator.com/item?id=48420827
 
-- **Wslc: A native Linux container runtime for Windows**
+- **Show HN: Lite Agent redefines what an AI agent is**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.boxofcables.dev/wslc-a-native-linux-container-runtime-for-windows/
+  - 链接: https://liteagent.cloud
 
-- **The AI Treadmill**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://debliu.substack.com/p/the-ai-treadmill
+- **Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665
 
-- **Walmart investors reject AI workplace report as automation expands in the US**
+- **Show HN: Zedra – Mobile control plane for AI coding agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/legal/litigation/walmart-investors-reject-ai-workplace-report-automation-expands-us-2026-06-04/
-
-- **NPM-Scan v1.1.0: Four New Detectors for June 2026 Supply Chain Attacks**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md
+  - 链接: https://news.ycombinator.com/item?id=48420833
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 3 次
+- **LLM**: 出现 1 次
+- **training**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [TailLoR: Protecting Principal Components in Parameter-Effici...](http://arxiv.org/abs/2606.06494v1)
+- [HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via ...](http://arxiv.org/abs/2606.06493v1)
+- [Code2LoRA: Hypernetwork-Generated Adapters for Code Language...](http://arxiv.org/abs/2606.06492v1)
 
 ### 热门项目
 
