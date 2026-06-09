@@ -1,43 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月08日 03:40
+**生成时间**: 2026年06月09日 02:49
 
 ---
 
 ## 🎯 核心动态
 
-- **SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students**
+- **Unpaid telecom bill caused Bay Area transit card outage**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms
+  - 链接: https://www.sfchronicle.com/sf/article/clipper-outage-unpaid-bill-22290490.php
 
-- **Technical details of the attack described by Markoff in NYT**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: http://www.kohala.com/start/shimomura.95jan25.txt
-
-- **I built a domain registrar that shows renewal prices before you register**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://domainvetting.com/
-
-- **IMF warns inflation risks remain elevated ahead of Fed meeting**
+- **Malware Insights – Miasma Campaign**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/world/imf-urges-fed-caution-inflation-warsh-prepares-chair-first-policy-meeting-2026-06-04/
+  - 链接: https://cookie.engineer/weblog/articles/malware-insights-miasma-campaign.html
 
-- **Bumblebees have tiny brains but can solve problems like chimps and elephants**
+- **Configuring Agentic AI Coding Tools: An Exploratory Study**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.npr.org/2026/06/07/nx-s1-5846947/bumblebees-problem-solving-research
+  - 链接: https://arxiv.org/abs/2602.14690
+
+- **Bringing the latest Gemini models to Apple developers**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/
+
+- **Show HN: Deep Memory – Vocabulary-driven graph memory for AI agents**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/TjWheeler/deep-memory
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
+- **model**: 出现 2 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [How reliable are LLMs when it comes to playing dice?...](http://arxiv.org/abs/2606.07515v1)
-- [Agentopia: Long-Term Life Simulation and Learning in Agent S...](http://arxiv.org/abs/2606.07513v1)
-- [MemDreamer: Decoupling Perception and Reasoning for Long Vid...](http://arxiv.org/abs/2606.07512v1)
+- [MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Sp...](http://arxiv.org/abs/2606.09677v1)
+- [(Auto)formalization is supposed to be easy: Trellis process ...](http://arxiv.org/abs/2606.09674v1)
+- [Correlation Is Not Enough: Embedding Human Metadata for Indi...](http://arxiv.org/abs/2606.09672v1)
 
 ### 热门项目
 
