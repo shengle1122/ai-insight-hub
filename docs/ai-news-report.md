@@ -1,47 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月10日 03:26
+**生成时间**: 2026年06月11日 03:38
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Master – Rails-style full-stack productivity for Node.js**
+- **The backlash against AI, in 4 charts**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://bookbag.ai/blog/i-built-master-because-i-missed-rails
+  - 链接: https://www.fastcompany.com/91553925/the-backlash-against-ai-in-4-charts
 
-- **Comparing Email Address Validating Regular Expressions (2006)**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://fightingforalostcause.net/content/misc/2006/compare-email-regex.php
+- **Canada introduces legislation to ban social media U16, regulate AI chatbots**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://finance.yahoo.com/news/canada-introduces-legislation-ban-social-205633582.html
 
-- **SafeAgentDB – Isolated databases for every AI agent branch**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/Aidan945/SafeAgentDB
+- **Show HN: DocStreamAI – Automatic invoice/receipt collection for Quickbooks/Xero**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://docstreamai.com/
 
-- **Claude and ChatGPT are getting worse. It's not your imagination**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.artificialstudio.ai/blog/chatgpt-claude-getting-worse-compute-crisis
-
-- **Show HN: Guildly, a Slack like interface to run a company of AI employees**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.tryguildly.com/
+- **If LLMs are all persona, whose persona are they?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://persona.earthpilot.ai
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 3 次
 - **LLM**: 出现 2 次
-- **Claude**: 出现 2 次
-- **training**: 出现 1 次
-- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [When to Align, When to Predict: A Phase Diagram for Multimod...](http://arxiv.org/abs/2606.11190v1)
-- [A Unifying Lens on Supervised Fine-Tuning Through Target Dis...](http://arxiv.org/abs/2606.11189v1)
-- [EEVEE: Towards Test-time Prompt Learning in the Real World f...](http://arxiv.org/abs/2606.11182v1)
+- [Reroute, Don't Remove: Recoverable Visual Token Routing for ...](http://arxiv.org/abs/2606.12412v1)
+- [Context-Driven Incremental Compression for Multi-Turn Dialog...](http://arxiv.org/abs/2606.12411v1)
+- [FACTR 2: Learning External Force Sensing for Commodity Robot...](http://arxiv.org/abs/2606.12406v1)
 
 ### 热门项目
 
