@@ -1,37 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月12日 03:38
+**生成时间**: 2026年06月13日 03:25
 
 ---
 
 ## 🎯 核心动态
 
-- **Ex-Andreessen Horowitz partner: old firm, VCs 'political infiltration' on AI**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html
+- **Elon Musk becomes first trillionaire**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.bbc.com/news/articles/c4gypy3wwl7o
 
-- **Can I use Claude Design and Vercel Drop together?**
+- **China cracks down on Western AI models while US companies flock to DeepSeek**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek
+
+- **Forbes declares Elon Musk as the world’s first trillionaire**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://vercel.com/i/claude-design-and-vercel-drop
+  - 链接: https://www.forbes.com/sites/pr/2026/06/12/forbes-declares-elon-musk-as-the-worlds-first-trillionaire/
 
-- **Engineers aren't afraid of AI – they're afraid of becoming junior again**
+- **Charlie Dalin, Who Set a Sailing Record While Battling Cancer, Dies at 42**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/
+  - 链接: https://www.nytimes.com/2026/06/12/sports/sailing/charlie-dalin-dead.html
 
-- **Show HN: MandoCode – local-first AI coding agent (.NET and Ollama)**
+- **Text/Plain Blog**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/DevMando/MandoCode
-
-- **Iran-backed hackers claim breach of California water systems over US attacks**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://bsky.app/profile/shipwreck75.bsky.social/post/3mo2qvxsnjk2a
+  - 链接: https://textplain.blog/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
