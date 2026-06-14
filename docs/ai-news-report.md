@@ -1,36 +1,25 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月13日 03:25
+**生成时间**: 2026年06月14日 03:41
 
 ---
 
 ## 🎯 核心动态
 
-- **Elon Musk becomes first trillionaire**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.bbc.com/news/articles/c4gypy3wwl7o
+- **Making Claude a Chemist**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.anthropic.com/research/making-claude-a-chemist
 
-- **China cracks down on Western AI models while US companies flock to DeepSeek**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek
-
-- **Forbes declares Elon Musk as the world’s first trillionaire**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.forbes.com/sites/pr/2026/06/12/forbes-declares-elon-musk-as-the-worlds-first-trillionaire/
-
-- **Charlie Dalin, Who Set a Sailing Record While Battling Cancer, Dies at 42**
+- **UK announces $1.5B AI infrastructure plan**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.nytimes.com/2026/06/12/sports/sailing/charlie-dalin-dead.html
-
-- **Text/Plain Blog**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://textplain.blog/
+  - 链接: https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
 - **LLM**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
