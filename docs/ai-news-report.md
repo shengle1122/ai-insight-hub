@@ -1,18 +1,30 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月14日 03:41
+**生成时间**: 2026年06月15日 03:57
 
 ---
 
 ## 🎯 核心动态
 
-- **Making Claude a Chemist**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.anthropic.com/research/making-claude-a-chemist
+- **Anthropic's new Agent SDK pricing is a win for Codex**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://clor.com/blog/anthropics-new-agent-sdk-pricing
 
-- **UK announces $1.5B AI infrastructure plan**
+- **Nvidia Is the Federal Reserve of AI**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://ramansharma.substack.com/p/nvidia-is-the-federal-reserve-of
+
+- **Show HN: Dream Server – Turn your PC, Mac, or Linux box into a private AI server**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/Light-Heart-Labs/DreamServer
+
+- **You Can Game AI Peer Review with Presentation-Only Revisions**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/
+  - 链接: https://arxiv.org/abs/2606.13044
+
+- **Choose a Claude Plan**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://support.claude.com/en/articles/11049762-choose-a-claude-plan
 
 ## 📊 技术趋势
 
@@ -25,9 +37,9 @@
 ## 🔍 值得关注
 
 ### 最新论文
-- [EvoArena: Tracking Memory Evolution for Robust LLM Agents in...](http://arxiv.org/abs/2606.13681v1)
-- [Learning to Reason by Analogy via Retrieval-Augmented Reinfo...](http://arxiv.org/abs/2606.13680v1)
-- [Mana: Dexterous Manipulation of Articulated Tools...](http://arxiv.org/abs/2606.13677v1)
+- [Gaze Heads: How VLMs Look at What They Describe...](http://arxiv.org/abs/2606.14703v1)
+- [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinati...](http://arxiv.org/abs/2606.14697v1)
+- [Persona-Pruner: Sculpting Lightweight Models for Role-Playin...](http://arxiv.org/abs/2606.14695v1)
 
 ### 热门项目
 
