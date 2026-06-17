@@ -1,36 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月16日 03:44
+**生成时间**: 2026年06月17日 03:46
 
 ---
 
 ## 🎯 核心动态
 
-- **DOJ Lawyers Argue xAI Is 'Vital' for National Security in NAACP Lawsuit**
+- **Mastra compromised in supply chain attack**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js
+
+- **DOJ claims xAI's gas turbines are a matter of 'national and energy security'**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/
+  - 链接: https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/
 
-- **I built a notes app powered by the model that powers Apple Intelligence**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://apps.apple.com/us/app/fog-on-device-ai-notes/id6760272134
+- **Chrome Extension That Disguises Claude as a Google Doc**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://twitter.com/om_patel5/status/2066011171967127643
 
-- **In the Matter of OpenAI vs. LangGraph (2025)**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.latent.space/p/oai-v-langgraph
+- **Show HN: Loomcycle – a sidecar runtime for AI agents (Go binary, Apache-2.0)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/denn-gubsky/loomcycle
 
-- **EU AI: the fables we told ourselves**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://pleias.ai/blog/fable-eu
-
-- **AI efficiency gains come at a high energy cost**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.ft.com/content/7f1c81ac-775b-4f52-a650-7804e4734d5b
+- **Malaysia's AI agent-powered messaging app Respond.io raises $62.5M**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
-- **OpenAI**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
