@@ -1,43 +1,39 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月18日 03:37
+**生成时间**: 2026年06月19日 04:00
 
 ---
 
 ## 🎯 核心动态
 
-- **AI Agents for Contractors**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://dolfyn.ai/
+- **California 'billionaire tax' makes ballot despite opposition from tech moguls**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition
 
-- **The year designers stopped being just designers – AI in Design Report 2026**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.artificialstudio.ai/blog/ai-design-report-2026
+- **Applied AI Engineer/ Product Builder/ Data Science**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.ycombinator.com/item?id=48594452
 
-- **Companies question cost of AI as tokenmaxxing spending adds up**
+- **Show HN: Coding Tools MCP – Give any LLM agent the ability to code**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680
+  - 链接: https://github.com/xyTom/coding-tools-mcp
 
-- **Show HN: 150M Mandarin transcription model with real-time metadata detection**
+- **Place 24 rowers in 4 boats of 6 – how many days for every pair to meet?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://huggingface.co/WhissleAI/STT-meta-ZH-150m
-
-- **The Suicide Clusters That Threaten Mountain Towns**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.outsideonline.com/health/wellness/suicide-clusters-mountain-towns-durango/
+  - 链接: https://quirino.net/blog/4boats/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Native Active Perception as Reasoning for Omni-Modal Underst...](http://arxiv.org/abs/2606.19341v1)
-- [Learning User Simulators with Turing Rewards...](http://arxiv.org/abs/2606.19336v1)
-- [Freeing the Law with LOCUS: A Local Ordinance Corpus for the...](http://arxiv.org/abs/2606.19334v1)
+- [How Transparent is DiffusionGemma?...](http://arxiv.org/abs/2606.20560v1)
+- [UNIEGO: Proxies as Mediators for Unified Egocentric Video Re...](http://arxiv.org/abs/2606.20559v1)
+- [Optimal Deterministic Multicalibration and Omniprediction...](http://arxiv.org/abs/2606.20557v1)
 
 ### 热门项目
 
