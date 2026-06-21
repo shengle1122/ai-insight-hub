@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "indices": {
     "HSI": {
       "name": "恒生指数",
       "symbol": "^HSI",
-      "latest": 24312.16,
-      "change": -181.79,
-      "change_pct": -0.74,
+      "latest": 23924.81,
+      "change": -387.35,
+      "change_pct": -1.59,
       "history": [
         {
           "date": "2026-06-15",
@@ -22,16 +22,16 @@
         },
         {
           "date": "2026-06-18",
-          "close": null
+          "close": 23924.81
         }
       ]
     },
     "HSCEI": {
       "name": "恒生国企指数",
       "symbol": "^HSCE",
-      "latest": 8144.03,
-      "change": -96.02,
-      "change_pct": -1.17,
+      "latest": 7976.04,
+      "change": -167.99,
+      "change_pct": -2.06,
       "history": [
         {
           "date": "2026-06-15",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-06-18",
-          "close": null
+          "close": 7976.04
         }
       ]
     }
@@ -154,10 +154,11 @@
       "values": [
         24842.67,
         24493.95,
-        24312.16
+        24312.16,
+        23924.81
       ],
-      "latest": 24312.16,
-      "change_pct": -0.74
+      "latest": 23924.81,
+      "change_pct": -1.59
     },
     {
       "code": "HSCEI",
@@ -171,10 +172,11 @@
       "values": [
         8375.74,
         8240.05,
-        8144.03
+        8144.03,
+        7976.04
       ],
-      "latest": 8144.03,
-      "change_pct": -1.17
+      "latest": 7976.04,
+      "change_pct": -2.06
     }
   ]
 }
