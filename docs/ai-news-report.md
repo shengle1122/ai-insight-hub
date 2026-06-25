@@ -1,40 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月24日 02:55
+**生成时间**: 2026年06月25日 02:54
 
 ---
 
 ## 🎯 核心动态
 
-- **Woman with Alzheimer's starts conversing again after taking psilocybin**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/
-
-- **Qwen-AgentWorld: Language World Models for General Agents**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2606.24597
-
-- **You may be taking the wrong painkiller**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://dynomight.net/painkillers/
-
-- **DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/End2End-Diffusion/diffusion-bench
-
-- **Dataland, an intense new AI art museum**
+- **The Unbearable Cheapness of Open Weight Models**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.economist.com/culture/2026/06/23/are-you-having-fun-yet-dataland-an-intense-new-ai-art-museum
+  - 链接: https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/
+
+- **This One's Not AI**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blog.tacoda.dev/this-ones-not-ai-992c95537790
+
+- **Show HN: Drive your already-logged-in Chrome from any AI agent**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/leeguooooo/chrome-use
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **model**: 出现 4 次
+- **LLM**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Learning Action Priors for Cross-embodiment Robot Manipulati...](http://arxiv.org/abs/2606.26095v1)
+- [RevengeBench: Reverse Engineering Code-Space Policies from B...](http://arxiv.org/abs/2606.26094v1)
+- [On-Policy Self-Distillation with Sampled Demonstrations Redu...](http://arxiv.org/abs/2606.26091v1)
 
 ### 热门项目
 
