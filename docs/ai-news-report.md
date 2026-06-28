@@ -1,37 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月27日 02:49
+**生成时间**: 2026年06月28日 03:30
 
 ---
 
 ## 🎯 核心动态
 
-- **AI Erodes a Legacy of Reading**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading
+- **US Layoffs Skyrocket to Highest Level Since Pandemic AI Blamed for 40% of Cuts**
+  - 来源: Hacker News | 热度: 10分
+  - 链接: https://www.ibtimes.co.uk/us-layoffs-skyrocket-highest-level-since-pandemic-tech-giants-blame-ai-40-cuts-1805380
 
-- **Anatomy of a Failed (Nation-State?) Attack**
+- **Ford hired AI and sacked humans. It backfired badly**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
+
+- **Improved LLM as a Judge Techniques**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
+  - 链接: https://arxiv.org/abs/2606.27226
 
-- **Ukrainian Attacks Spur State of Emergency Declaration in Crimea**
+- **We can't retrain our way out of AI's economic disruption**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html
+  - 链接: https://mollykinder2.substack.com/p/we-cant-retrain-our-way-out-of-ais
 
-- **Thermodynamic gravity explains cosmic acceleration without dark energy**
+- **Show HN: Git-temp – scratchpad folder for AI agents; doesn't clutter Git status**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html
-
-- **Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://deep-reinforce.com/ornith_1_0.html
+  - 链接: https://github.com/sebmellen/git-temp
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **LLM**: 出现 3 次
-- **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
