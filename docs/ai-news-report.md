@@ -1,46 +1,32 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年06月29日 03:35
+**生成时间**: 2026年06月30日 02:58
 
 ---
 
 ## 🎯 核心动态
 
-- **Billionaire Jeremy Grantham says Bitcoin will 'dwindle away with a whimper'**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html
-
-- **Show HN: Self hosting a modern LLM stack**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/raiyanyahya/llmaker
-
-- **How can engineering leaders avoid becoming Bond villains?**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/
-
-- **Efficiency in LLMs – Part 1 – Columbia Machine Learning Summer School 2026 [video]**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.youtube.com/watch?v=zcWJCKsODZk
-
-- **OpenAI limits latest ChatGPT product to Trump-approved customers**
+- **Why AI is like a (Clever Hans) Horse [video]**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/
+  - 链接: https://www.youtube.com/watch?v=0GQ2RP-25gM
+
+- **Moonshot AI (kimi) launches a credit card**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.kimi.com/aicard
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **LLM**: 出现 2 次
-- **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
-- **GPT**: 出现 1 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [DexCompose: Reusing Dexterous Policies for Multi-Task Manipu...](http://arxiv.org/abs/2606.28323v1)
-- [Surprises in Proper Positive-Only Learning...](http://arxiv.org/abs/2606.28309v1)
-- [Which Nash Equilibrium? Solver-Dependent Selection on Zero-S...](http://arxiv.org/abs/2606.28308v1)
+- [Hybrid Active-Online Learning Framework for Label-Efficient ...](http://arxiv.org/abs/2606.30322v1)
+- [BrainJanus: A Unified Model for Understanding and Generation...](http://arxiv.org/abs/2606.30319v1)
+- [MCP Server Architecture Patterns for LLM-Integrated Applicat...](http://arxiv.org/abs/2606.30317v1)
 
 ### 热门项目
 
