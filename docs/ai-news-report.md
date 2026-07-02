@@ -1,46 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月01日 03:31
+**生成时间**: 2026年07月02日 02:56
 
 ---
 
 ## 🎯 核心动态
 
-- **Taiwanese Go Deep into Debt to Amp 100% Stock Rally**
+- **Fedora Council Seeks to Shutdown Current Discussions over AI Developer Desktop**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bloomberg.com/news/articles/2026-06-23/tsmc-fueled-ai-frenzy-makes-taiwan-capital-of-leveraged-stock-bets
+  - 链接: https://www.phoronix.com/news/Fedora-Council-AI-Desktop
 
-- **Kaist AI reads mouse gestures as language**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.nate.com/view/20260701n15527?mid=n1101
+- **Will AI spark a scientific Renaissance – or a diffuse monoculture?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.nature.com/articles/d41586-026-01954-2
 
-- **Claude Sonnet 5 is here**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://old.reddit.com/r/ClaudeAI/comments/1ujwggp/introducing_claude_sonnet_5_our_most_agentic/
-
-- **How to talk about "AI" without adding to the anthropomorphization**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/
-
-- **LLM-style scaling laws hold for sensor data**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/
+- **Reached 440+ stars: Auditable sandbox to record what AI agents did**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 5 次
-- **Claude**: 出现 3 次
-- **model**: 出现 2 次
-- **training**: 出现 1 次
+- **LLM**: 出现 2 次
+- **training**: 出现 2 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Introspective Coupling: Self-Explanation Training Tracks Beh...](http://arxiv.org/abs/2606.32038v1)
-- [QVal: Cheaply Evaluating Dense Supervision Signals for Long-...](http://arxiv.org/abs/2606.32034v1)
-- [Reinforcement Learning with Metacognitive Feedback Elicits F...](http://arxiv.org/abs/2606.32032v1)
+- [Measuring the Gap Between Human and LLM Research Ideas...](http://arxiv.org/abs/2607.01233v1)
+- [Is One Layer Enough? Training A Single Transformer Layer Can...](http://arxiv.org/abs/2607.01232v1)
+- [Language-Critique Imitation Learning from Suboptimal Demonst...](http://arxiv.org/abs/2607.01225v1)
 
 ### 热门项目
 
