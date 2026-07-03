@@ -1,29 +1,39 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月02日 02:56
+**生成时间**: 2026年07月03日 02:39
 
 ---
 
 ## 🎯 核心动态
 
-- **Fedora Council Seeks to Shutdown Current Discussions over AI Developer Desktop**
+- **'Humanity is a privilege': Umar Khalid on his six years in a jail without trial**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.phoronix.com/news/Fedora-Council-AI-Desktop
+  - 链接: https://www.theguardian.com/world/2026/jun/30/umar-khalid-interview-six-years-indian-jail-without-trial-modi-opposition-political-prisoner
 
-- **Will AI spark a scientific Renaissance – or a diffuse monoculture?**
+- **Open letter to Anthropic: keep Claude Fable 5 in existing paid plans**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.nature.com/articles/d41586-026-01954-2
+  - 链接: https://keepfable.org
 
-- **Reached 440+ stars: Auditable sandbox to record what AI agents did**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/
+- **Lotus: Optimized Agentic and LLM Bulk Processing**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/lotus-data/lotus
+
+- **GPT-5.5-Cyber built a zlib fuzzing lab in a day**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/
+
+- **Don't Train the Model, Evolve the Harness**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://huggingface.co/spaces/joelniklaus/harness-optimization
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
+- **LLM**: 出现 3 次
 - **training**: 出现 2 次
-- **model**: 出现 1 次
+- **model**: 出现 2 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
