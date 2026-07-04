@@ -1,47 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月03日 02:39
+**生成时间**: 2026年07月04日 02:36
 
 ---
 
 ## 🎯 核心动态
 
-- **'Humanity is a privilege': Umar Khalid on his six years in a jail without trial**
+- **How AI Made IKEA Workers 10x More Valuable (5 min video)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theguardian.com/world/2026/jun/30/umar-khalid-interview-six-years-indian-jail-without-trial-modi-opposition-political-prisoner
+  - 链接: https://www.youtube.com/watch?v=2ODq6IsmkhM
 
-- **Open letter to Anthropic: keep Claude Fable 5 in existing paid plans**
+- **You take AI, I'll take my iPod (if I can find it)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://keepfable.org
+  - 链接: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/
 
-- **Lotus: Optimized Agentic and LLM Bulk Processing**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/lotus-data/lotus
+- **Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
 
-- **GPT-5.5-Cyber built a zlib fuzzing lab in a day**
+- **Argentina's plan for AI-run companies can't avoid humans**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/
-
-- **Don't Train the Model, Evolve the Harness**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://huggingface.co/spaces/joelniklaus/harness-optimization
+  - 链接: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **training**: 出现 2 次
-- **model**: 出现 2 次
-- **GPT**: 出现 1 次
-- **Claude**: 出现 1 次
+- **LLM**: 出现 5 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Measuring the Gap Between Human and LLM Research Ideas...](http://arxiv.org/abs/2607.01233v1)
-- [Is One Layer Enough? Training A Single Transformer Layer Can...](http://arxiv.org/abs/2607.01232v1)
-- [Language-Critique Imitation Learning from Suboptimal Demonst...](http://arxiv.org/abs/2607.01225v1)
+- [Distributed Attacks in Persistent-State AI Control...](http://arxiv.org/abs/2607.02514v1)
+- [LACUNA: A Testbed for Evaluating Localization Precision for ...](http://arxiv.org/abs/2607.02513v1)
+- [Program-as-Weights: A Programming Paradigm for Fuzzy Functio...](http://arxiv.org/abs/2607.02512v1)
 
 ### 热门项目
 
