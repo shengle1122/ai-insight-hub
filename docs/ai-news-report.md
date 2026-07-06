@@ -1,39 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月05日 02:46
+**生成时间**: 2026年07月06日 02:53
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic performing prompt injection on its users**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://old.reddit.com/r/LLMDevs/comments/1udpw9h/just_got_this_response_from_claude_what_is_going/
+- **People Who Will Thrive in the AI Age**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/
 
-- **Record-breaking solo rower Kelsey Pfendler arrives in Hawaii**
+- **The White House Campaign to Overturn a World Cup Red Card**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/
+  - 链接: https://www.wsj.com/sports/soccer/white-house-fifa-balogun-red-card-world-cup-46276fc8
 
-- **Would You Let A.I. Michael Caine Read You the 'Odyssey'?**
+- **Technical Report on the Pangram AI-Generated Text Classifier (2024)**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.nytimes.com/2026/06/23/books/michael-caine-odyssey-ai.html
+  - 链接: https://arxiv.org/abs/2402.14873
 
-- **Deterministic AI Auditing**
+- **Show HN: Openleetcode – Run LeetCode solutions locally against open tests**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://claude.ai/new
-
-- **AI CLI that fixes broken dev tool installs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://murderszn.github.io/sprout/
+  - 链接: https://github.com/therepanic/openleetcode/releases/tag/v1.0.1
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 5 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Distributed Attacks in Persistent-State AI Control...](http://arxiv.org/abs/2607.02514v1)
+- [LACUNA: A Testbed for Evaluating Localization Precision for ...](http://arxiv.org/abs/2607.02513v1)
+- [Program-as-Weights: A Programming Paradigm for Fuzzy Functio...](http://arxiv.org/abs/2607.02512v1)
 
 ### 热门项目
 
