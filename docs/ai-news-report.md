@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月08日 02:25
+**生成时间**: 2026年07月09日 02:39
 
 ---
 
 ## 🎯 核心动态
 
-- **Defending OpenClaw against indirect prompt injection**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://compsec.snu.ac.kr/blog/dualview
+- **The AI Hype Reckoning Is Upon Us**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://karlbode.com/the-ai-hype-reckoning-is-upon-us/
 
-- **Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out**
+- **Nobel-winning chemist leaves US to direct AI materials lab in China**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.nature.com/articles/d41586-026-02143-x
+
+- **Show HN: I solved biggest issue for the mainatiners of GitHub**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/
+  - 链接: https://news.ycombinator.com/item?id=48840139
 
-- **Google Gemini Killed Perplexity AI**
+- **AI Stack Gap Map**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://fatjoe.com/blog/perplexity-ai-stats/
+  - 链接: https://www.currentai.org/blogs/introducing-the-gap-map-v0-1
 
-- **What if users start cloning SaaS using AI**
+- **I was tired of all false claims, so I built Atelier, honest 30% saving on CC.**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48826680
-
-- **Chinese researchers just mapped human brain 478 times faster than an Nvidia A100**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://indianexpress.com/article/technology/tech-news-technology/how-chinese-researchers-just-mapped-human-brain-478-times-faster-than-an-nvidia-a100-10775584/
+  - 链接: https://github.com/atelier-ws/atelier
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 2 次
-- **Gemini**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [ELSA3D: Elastic Semantic Anchoring for Unified 3D Understand...](http://arxiv.org/abs/2607.06565v1)
-- [Graph Convolutional Attention: A Spectral Perspective on Gra...](http://arxiv.org/abs/2607.06546v1)
-- [Rethinking Indic AI from a Lens of Cultural Heritage Preserv...](http://arxiv.org/abs/2607.06544v1)
+- [Accurate, Interdisciplinary and Transparent Structure-proper...](http://arxiv.org/abs/2607.07708v1)
+- [Co-LMLM: Continuous-Query Limited Memory Language Models...](http://arxiv.org/abs/2607.07707v1)
+- [The Key to Going Linear: Analysis-Driven Transformer Lineari...](http://arxiv.org/abs/2607.07706v1)
 
 ### 热门项目
 
