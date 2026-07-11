@@ -1,38 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月10日 02:41
+**生成时间**: 2026年07月11日 02:22
 
 ---
 
 ## 🎯 核心动态
 
-- **A plain-English guide to moving a Windows 10 PC to Linux Mint**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://tomadelstein.substack.com/p/chapter-one-linux-system-administration
-
-- **OpenAI's API can now keep reasoning across turns instead of discarding it**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://drop-05a4352b-803.sophisticated-stay.workers.dev
-
-- **Show HN: Debloat Slack – Get rid of Slackbot, AI upsells and other annoyances**
+- **OpenAI and Google sell AI models to blacklisted China groups**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/benri-ai/slack-debloat
+  - 链接: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f
 
-- **Ben Bernanke Joins Anthropic Oversight Trust**
+- **Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.anthropic.com/news/ben-bernanke
+  - 链接: https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit
 
-- **The ChatGPT browser is dead**
+- **AI models' values are different from most people's**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
+  - 链接: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples
+
+- **Show HN: Persistent Claude Code sessions you drive as a terminal or a chat**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/thrinz/agentpeek
+
+- **Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/amebahead/explain-like-iam-five-rules
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
+- **model**: 出现 3 次
+- **OpenAI**: 出现 2 次
+- **Claude**: 出现 2 次
 - **training**: 出现 1 次
-- **model**: 出现 1 次
-- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
