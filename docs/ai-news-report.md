@@ -1,38 +1,29 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月11日 02:22
+**生成时间**: 2026年07月12日 02:27
 
 ---
 
 ## 🎯 核心动态
 
-- **OpenAI and Google sell AI models to blacklisted China groups**
+- **AI notetakers promise easy meeting recaps, but some question their use**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f
+
+- **Show HN: Confessor – replay what private info Claude Code accessed on your PC**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f
+  - 链接: https://github.com/ninjahawk/Confessor
 
-- **Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit**
+- **I find AI roleplay therapeutic**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit
-
-- **AI models' values are different from most people's**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples
-
-- **Show HN: Persistent Claude Code sessions you drive as a terminal or a chat**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/thrinz/agentpeek
-
-- **Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/amebahead/explain-like-iam-five-rules
+  - 链接: https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **OpenAI**: 出现 2 次
-- **Claude**: 出现 2 次
 - **training**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
