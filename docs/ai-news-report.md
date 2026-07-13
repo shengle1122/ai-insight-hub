@@ -1,37 +1,28 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月12日 02:27
+**生成时间**: 2026年07月13日 02:28
 
 ---
 
 ## 🎯 核心动态
 
-- **AI notetakers promise easy meeting recaps, but some question their use**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f
-
-- **Show HN: Confessor – replay what private info Claude Code accessed on your PC**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/ninjahawk/Confessor
-
-- **I find AI roleplay therapeutic**
+- **People Can't Identify AI Poetry, but Enjoy It Less When Told It's by an AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks
+  - 链接: https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **training**: 出现 1 次
 - **model**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [UniClawBench: A Universal Benchmark for Proactive Agents on ...](http://arxiv.org/abs/2607.08768v1)
-- [OpenCoF: Learning to Reason Through Video Generation...](http://arxiv.org/abs/2607.08763v1)
-- [Ideas Have Genomes: Benchmarking Scientific Lineage Reasonin...](http://arxiv.org/abs/2607.08758v1)
+- [PHINN-EEG: Topological Time-Series Analysis of Dream-State E...](http://arxiv.org/abs/2607.09662v1)
+- [Scalable Visual Pretraining for Language Intelligence...](http://arxiv.org/abs/2607.09657v1)
+- [Evolution of Accuracy and Visual-Cognitive Errors in a Decad...](http://arxiv.org/abs/2607.09654v1)
 
 ### 热门项目
 
