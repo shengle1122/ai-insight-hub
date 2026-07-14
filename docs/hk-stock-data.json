@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "indices": {
     "HSI": {
       "name": "恒生指数",
@@ -8,10 +8,6 @@
       "change": 144.94,
       "change_pct": 0.6,
       "history": [
-        {
-          "date": "2026-07-06",
-          "close": 23616.32
-        },
         {
           "date": "2026-07-07",
           "close": 23496.89
@@ -42,10 +38,6 @@
       "change_pct": 0.52,
       "history": [
         {
-          "date": "2026-07-06",
-          "close": 7812.35
-        },
-        {
           "date": "2026-07-07",
           "close": 7770.26
         },
@@ -71,75 +63,75 @@
   "stocks": {
     "0700.HK": {
       "name": "腾讯控股",
-      "latest": 460.2,
-      "change": -9.4,
-      "change_pct": -2.0,
+      "latest": 460.0,
+      "change": 2.4,
+      "change_pct": 0.52,
       "week_high": 485.0,
-      "week_low": 425.4,
-      "volume": 0
+      "week_low": 456.2,
+      "volume": 24291942
     },
     "9988.HK": {
       "name": "阿里巴巴-SW",
-      "latest": 110.2,
-      "change": 2.2,
-      "change_pct": 2.04,
-      "week_high": 113.0,
-      "week_low": 92.5,
-      "volume": 0
+      "latest": 114.0,
+      "change": 3.3,
+      "change_pct": 2.98,
+      "week_high": 115.1,
+      "week_low": 95.3,
+      "volume": 100489636
     },
     "3690.HK": {
       "name": "美团-W",
-      "latest": 78.7,
-      "change": 0.2,
-      "change_pct": 0.25,
+      "latest": 78.95,
+      "change": 1.0,
+      "change_pct": 1.28,
       "week_high": 81.7,
-      "week_low": 70.2,
-      "volume": 0
+      "week_low": 75.1,
+      "volume": 40168127
     },
     "1810.HK": {
       "name": "小米集团-W",
-      "latest": 25.84,
-      "change": 0.84,
-      "change_pct": 3.36,
-      "week_high": 26.3,
-      "week_low": 22.58,
-      "volume": 0
+      "latest": 26.82,
+      "change": 0.98,
+      "change_pct": 3.79,
+      "week_high": 26.78,
+      "week_low": 23.02,
+      "volume": 206565061
     },
     "2318.HK": {
       "name": "中国平安",
-      "latest": 53.05,
-      "change": -0.2,
-      "change_pct": -0.38,
+      "latest": 53.95,
+      "change": 0.7,
+      "change_pct": 1.31,
       "week_high": 54.2,
-      "week_low": 51.95,
-      "volume": 0
+      "week_low": 52.0,
+      "volume": 27292276
     },
     "1299.HK": {
       "name": "友邦保险",
-      "latest": 72.65,
-      "change": 0.35,
-      "change_pct": 0.48,
-      "week_high": 74.6,
-      "week_low": 71.6,
-      "volume": 0
+      "latest": 68.0,
+      "change": -4.4,
+      "change_pct": -6.08,
+      "week_high": 74.5,
+      "week_low": 70.25,
+      "volume": 29271068
     },
     "0005.HK": {
       "name": "汇丰控股",
-      "latest": 153.5,
-      "change": 1.2,
-      "change_pct": 0.79,
+      "latest": 152.4,
+      "change": -1.4,
+      "change_pct": -0.91,
       "week_high": 154.6,
-      "week_low": 149.5,
-      "volume": 0
+      "week_low": 149.8,
+      "volume": 7634322
     },
     "0883.HK": {
       "name": "中国海洋石油",
-      "latest": 21.82,
-      "change": 0.02,
-      "change_pct": 0.09,
+      "latest": 22.5,
+      "change": 0.24,
+      "change_pct": 1.08,
       "week_high": 22.4,
-      "week_low": 20.72,
-      "volume": 0
+      "week_low": 20.78,
+      "volume": 51144717
     }
   },
   "market_summary": {
@@ -149,12 +141,12 @@
     "top_gainer": {
       "symbol": "1810.HK",
       "name": "小米集团-W",
-      "change_pct": 3.36
+      "change_pct": 3.79
     },
     "top_loser": {
-      "symbol": "0700.HK",
-      "name": "腾讯控股",
-      "change_pct": -2.0
+      "symbol": "1299.HK",
+      "name": "友邦保险",
+      "change_pct": -6.08
     }
   },
   "charts": [
@@ -162,7 +154,6 @@
       "code": "HSI",
       "name": "恒生指数",
       "labels": [
-        "07-06",
         "07-07",
         "07-08",
         "07-09",
@@ -170,7 +161,6 @@
         "07-13"
       ],
       "values": [
-        23616.32,
         23496.89,
         24199.46,
         24030.18,
@@ -183,7 +173,6 @@
       "code": "HSCEI",
       "name": "恒生国企指数",
       "labels": [
-        "07-06",
         "07-07",
         "07-08",
         "07-09",
@@ -191,7 +180,6 @@
         "07-13"
       ],
       "values": [
-        7812.35,
         7770.26,
         8084.22,
         7997.29,
