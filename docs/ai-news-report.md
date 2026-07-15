@@ -1,45 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月14日 02:08
+**生成时间**: 2026年07月15日 02:05
 
 ---
 
 ## 🎯 核心动态
 
-- **#793 – GPT 5.6 Sol solves it's third Erdos Problem – Two primitives gone**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://twitter.com/i/status/2076778478326653431
-
-- **Building Food Metadata with LLM Juries**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/
-
-- **Rubio announces campaign to 'dismantle' International Criminal Court**
+- **High-Bandwidth Flash offers efficient storage for model weights**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.upi.com/Top_News/US/2026/07/13/rubio-campaign-dismantle-international-criminal-court/4881783965041/
+  - 链接: https://spectrum.ieee.org/high-bandwidth-flash
 
-- **Show HN: Zenveil-Security scanning for AI-generated code**
+- **When AI gets a pass: the rise of 'AI Exceptionalism'**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenveil.dev
+  - 链接: https://www.magiclasso.co/insights/ai-exceptionalism/
 
-- **Georgia family says they're forced to sell home to power AI data centers**
+- **Show HN: Gomoku AI Edu – A Native macOS Gomoku Game with AI Opponent**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/
+  - 链接: https://gomoku.w3cub.com/
+
+- **Brazil's Pix payments system in Trump's crosshairs**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.ft.com/content/efbec9a7-a3d9-45e6-8ade-c0660f31ecc7
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 2 次
 - **LLM**: 出现 1 次
-- **model**: 出现 1 次
-- **GPT**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Bandit PCA with Minimax Optimal Regret...](http://arxiv.org/abs/2607.10936v1)
-- [Fast Whole-Brain, Geometry-Aware Functional Alignment for Cr...](http://arxiv.org/abs/2607.10931v1)
-- [The Singularity Space: A Generative Diffusion Framework for ...](http://arxiv.org/abs/2607.10930v1)
+- [Contrastive-Collapsed Loss for Flexible and Geometrically Op...](http://arxiv.org/abs/2607.12916v1)
+- [Real-time fall detection based on vision for low-power edge ...](http://arxiv.org/abs/2607.12909v1)
+- [Accelerated Mixing Time of Randomized Hamiltonian Monte Carl...](http://arxiv.org/abs/2607.12902v1)
 
 ### 热门项目
 
