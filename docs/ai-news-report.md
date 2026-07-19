@@ -1,45 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月18日 02:07
+**生成时间**: 2026年07月19日 02:24
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic in early talks with Meta to acquire compute power**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html
+- **AI Mania Is Eviscerating Global Decision-Making**
+  - 来源: Hacker News | 热度: 8分
+  - 链接: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
 
-- **AI hasn't shifted the bottleneck from coding to code review**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://thenewstack.io/ai-code-bottleneck-myth/
+- **Claude Is Painful**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://news.ycombinator.com/item?id=48964237
 
-- **PerceptionBench – Evaluating Atomic Visual Perception in Multimodal LLMs**
+- **China cracks down on AI companions, forcing millions to break up**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.kimi.com/blog/perception-bench
+  - 链接: https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352
 
-- **Face Value: How AI is reshaping trust, identity, and scams**
+- **University of Illinois is insuring itself against a drop in Chinese students**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.malwarebytes.com/ai-scams
+  - 链接: https://www.chicagobusiness.com/education/university-illinois-insurance-decline-chinese-enrollment/
 
-- **LLMs are like handwritten notes**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://dunkirk.sh/blog/llms/
+- **Jordan Ellenberg explains how geometry helps us understand the world**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.cbc.ca/lite/story/1.6448326
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **training**: 出现 2 次
-- **model**: 出现 1 次
+- **Claude**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Partition, Prompt, Aggregate: Statistical Self-Consistency i...](http://arxiv.org/abs/2607.15277v1)
-- [RoboTTT: Context Scaling for Robot Policies...](http://arxiv.org/abs/2607.15275v1)
-- [MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity...](http://arxiv.org/abs/2607.15273v1)
 
 ### 热门项目
 
