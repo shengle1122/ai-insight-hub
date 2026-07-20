@@ -1,40 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月19日 02:24
+**生成时间**: 2026年07月20日 02:40
 
 ---
 
 ## 🎯 核心动态
 
-- **AI Mania Is Eviscerating Global Decision-Making**
-  - 来源: Hacker News | 热度: 8分
-  - 链接: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
-
-- **Claude Is Painful**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://news.ycombinator.com/item?id=48964237
-
-- **China cracks down on AI companions, forcing millions to break up**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352
-
-- **University of Illinois is insuring itself against a drop in Chinese students**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.chicagobusiness.com/education/university-illinois-insurance-decline-chinese-enrollment/
-
-- **Jordan Ellenberg explains how geometry helps us understand the world**
+- **Dart Framework – Systems Thinking Skill for AI Agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cbc.ca/lite/story/1.6448326
+  - 链接: https://github.com/asofyan/dart-framework
+
+- **Ask HN: What paid AI tools are worth it for creative tech projects?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=48973671
+
+- **NoWreck-A deterministic verifier for AI coding assistants**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/AstralXVoid/NoWreck/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 2 次
+- **LLM**: 出现 2 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-...](http://arxiv.org/abs/2607.16184v1)
+- [A Blueprint for Equilibrium-Based Differentiable Continuous-...](http://arxiv.org/abs/2607.16183v1)
+- [Cluster-Aware Matching via Laplacian Optimal Transport...](http://arxiv.org/abs/2607.16178v1)
 
 ### 热门项目
 
