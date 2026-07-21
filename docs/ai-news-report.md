@@ -1,36 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月20日 02:40
+**生成时间**: 2026年07月21日 02:23
 
 ---
 
 ## 🎯 核心动态
 
-- **Dart Framework – Systems Thinking Skill for AI Agents**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/asofyan/dart-framework
+- **Anthropic's Landmark $1.5B Copyright Settlement Is Approved**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
 
-- **Ask HN: What paid AI tools are worth it for creative tech projects?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=48973671
+- **Cairn|personal finance your own AI can read over MCP, read-only by construction**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://cairn.nnnsightnnn.com/dashboard
 
-- **NoWreck-A deterministic verifier for AI coding assistants**
+- **Concentrate: LLM Gateway**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/AstralXVoid/NoWreck/
+  - 链接: https://concentrate.ai
+
+- **Show HN: AI meeting notes – no bot, insights and answers from your files (BYOK)**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://getaiassist.app/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 1 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-...](http://arxiv.org/abs/2607.16184v1)
-- [A Blueprint for Equilibrium-Based Differentiable Continuous-...](http://arxiv.org/abs/2607.16183v1)
-- [Cluster-Aware Matching via Laplacian Optimal Transport...](http://arxiv.org/abs/2607.16178v1)
 
 ### 热门项目
 
