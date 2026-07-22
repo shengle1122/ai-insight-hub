@@ -1,31 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月21日 02:23
+**生成时间**: 2026年07月22日 02:22
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic's Landmark $1.5B Copyright Settlement Is Approved**
+- **A live graph of AI memory anyone can add to**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
+  - 链接: https://demo.mentedb.com
 
-- **Cairn|personal finance your own AI can read over MCP, read-only by construction**
+- **Kimi K3 first open model in ErrataBench Top 10**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://cairn.nnnsightnnn.com/dashboard
+  - 链接: https://revise.io/blog/07-22-2026/kimi-k3-broke-90-on-erratabench
 
-- **Concentrate: LLM Gateway**
+- **Atomic File Mailboxes: How Agents Message Each Other**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://concentrate.ai
+  - 链接: https://munderdiffl.in/blog/atomic-file-mailboxes-for-agents/
 
-- **Show HN: AI meeting notes – no bot, insights and answers from your files (BYOK)**
+- **An off switch for dual use knowledge in AI models**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://getaiassist.app/
+  - 链接: https://www.anthropic.com/research/off-switch-dual-use
+
+- **Using Maildir Format**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://cr.yp.to/proto/maildir.html
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
