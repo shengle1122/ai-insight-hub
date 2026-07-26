@@ -1,35 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月25日 02:22
+**生成时间**: 2026年07月26日 02:29
 
 ---
 
 ## 🎯 核心动态
 
-- **Reddit Calls Anthropic a 'Freeriding Pirate'**
+- **NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://runtimewire.com/article/reddit-calls-anthropic-a-freeriding-pirate-and-cites-ruling-behind-1-5b-settleme
+  - 链接: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/
 
-- **"We removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5"**
+- **Multiple LLMs trying to reach a consensus**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/trq212/status/2080710971228918066
+  - 链接: https://trekhleb.dev/blog/2026/yesbrainer/
 
-- **Show HN: AI Meter – Local token usage with energy and water estimates**
+- **Dartmouth Workshop on Artificial Intelligence (1956)**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://ai-meter.app
+  - 链接: https://en.wikipedia.org/wiki/Dartmouth_workshop
 
-- **Can AI Run a Food Truck Business?**
+- **The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://foodtruckbench.com
+  - 链接: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/
 
-- **Japanese Firm to Train Robot with AI to Reproduce Runners' Movements**
+- **An automated website audit tool using Gemini and n8n**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/
+  - 链接: https://www.aiwebsitecritic.com/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 1 次
+- **LLM**: 出现 1 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
