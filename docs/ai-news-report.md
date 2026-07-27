@@ -1,36 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月26日 02:29
+**生成时间**: 2026年07月27日 02:36
 
 ---
 
 ## 🎯 核心动态
 
-- **NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/
+- **He Was Right About AI. What About the Fate of Mankind?**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://nymag.com/intelligencer/article/hans-moravec-interview.html
 
-- **Multiple LLMs trying to reach a consensus**
+- **How Dubai, New York, Paris and Shenzhen are building their flying-taxi networks**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://trekhleb.dev/blog/2026/yesbrainer/
+  - 链接: https://monocle.com/business/transport/which-cities-flying-taxis-companies/
 
-- **Dartmouth Workshop on Artificial Intelligence (1956)**
+- **Modeling Facts and Reactions with Domain Events**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://en.wikipedia.org/wiki/Dartmouth_workshop
+  - 链接: https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/
 
-- **The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft**
+- **"Zuzai" is to AI what vegan is to animal products**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/
+  - 链接: https://zuzai.org/
 
-- **An automated website audit tool using Gemini and n8n**
+- **The Model Writes, the Judge Measures: Anatomy of an LLM Judge**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.aiwebsitecritic.com/
+  - 链接: https://xinfer.ai/home/md/the-model-writes-the-judge-measures
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 2 次
 - **LLM**: 出现 1 次
-- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
