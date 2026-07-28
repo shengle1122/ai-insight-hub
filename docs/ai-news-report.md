@@ -1,41 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月27日 02:36
+**生成时间**: 2026年07月28日 02:11
 
 ---
 
 ## 🎯 核心动态
 
-- **He Was Right About AI. What About the Fate of Mankind?**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://nymag.com/intelligencer/article/hans-moravec-interview.html
+- **Families in London temporary housing told they cant use inbuilt air conditioning**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning
 
-- **How Dubai, New York, Paris and Shenzhen are building their flying-taxi networks**
+- **Gemini Distillation Service**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://monocle.com/business/transport/which-cities-flying-taxis-companies/
+  - 链接: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation
 
-- **Modeling Facts and Reactions with Domain Events**
+- **Show HN: Gemma 4 26B A4B running on an iPhone 17 Pro via model paging**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/
+  - 链接: https://noemaai.com/
 
-- **"Zuzai" is to AI what vegan is to animal products**
+- **First Genesis Mission Projects Selected to Boost AI-Driven Scientific Discovery**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://zuzai.org/
-
-- **The Model Writes, the Judge Measures: Anatomy of an LLM Judge**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://xinfer.ai/home/md/the-model-writes-the-judge-measures
+  - 链接: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
 - **LLM**: 出现 1 次
+- **model**: 出现 1 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [On the post-hoc Evaluation of PDE Discovery: A Multifaceted ...](http://arxiv.org/abs/2607.23753v1)
+- [Soft-Constrained Optimization of Latent Space in Variational...](http://arxiv.org/abs/2607.23751v1)
+- [Zing: Social Mind for LLMs...](http://arxiv.org/abs/2607.23740v1)
 
 ### 热门项目
 
