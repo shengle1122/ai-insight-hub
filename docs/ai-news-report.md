@@ -1,41 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年07月28日 02:11
+**生成时间**: 2026年07月29日 02:21
 
 ---
 
 ## 🎯 核心动态
 
-- **Families in London temporary housing told they cant use inbuilt air conditioning**
+- **LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences**
+  - 来源: Hacker News | 热度: 12分
+  - 链接: https://learnvector.ai/
+
+- **Revealed: The Authors Whose Pirated Books Are Powering Generative AI (2023)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning
+  - 链接: https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/
 
-- **Gemini Distillation Service**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation
+- **The tired you can't explain**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://nathanielfishel.substack.com/p/the-tiredness-you-cant-explain-to
 
-- **Show HN: Gemma 4 26B A4B running on an iPhone 17 Pro via model paging**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://noemaai.com/
+- **Chip stocks slide in US and Asia as AI jitters rattle investors**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.bbc.com/news/articles/cly8zng43npo
 
-- **First Genesis Mission Projects Selected to Boost AI-Driven Scientific Discovery**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate
+- **Ask HN: How many AI agents do you actively use?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.ycombinator.com/item?id=49092442
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
+- **GPT**: 出现 2 次
 - **model**: 出现 1 次
-- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [On the post-hoc Evaluation of PDE Discovery: A Multifaceted ...](http://arxiv.org/abs/2607.23753v1)
-- [Soft-Constrained Optimization of Latent Space in Variational...](http://arxiv.org/abs/2607.23751v1)
-- [Zing: Social Mind for LLMs...](http://arxiv.org/abs/2607.23740v1)
 
 ### 热门项目
 
