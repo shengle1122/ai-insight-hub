@@ -1,37 +1,32 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月01日 02:30
+**生成时间**: 2026年08月02日 02:28
 
 ---
 
 ## 🎯 核心动态
 
-- **The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI**
+- **DeepMind Disbands AlphaFold Team, Pivots to Gemini**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79
+  - 链接: https://unusualwhales.com/news/deepmind-disbands-alphafold-team-gemini-pivot
 
-- **Urldn – A URL shortener with analytics and an AI data analyst**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://waitlist.urldn.com/
-
-- **Snapchat joins other popular platforms in fight against 'AI slop'**
+- **Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bbc.com/news/articles/c77g6dm5pr8o
+  - 链接: https://costperprompt.com/
 
-- **Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM**
+- **Hiring FDE's (full stack software eng) // 100K+ & equity // AI for Manufacturing**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://provexar.ai/sanitizer
+  - 链接: https://www.tryharmony.ai/
 
-- **Cdbx – an AI coding IDE where you can bring your own API key and own the code**
+- **Token diplomacy: How China is shaping the AI future**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://cdbx.ai/
+  - 链接: https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 5 次
-- **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
