@@ -1,40 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月02日 02:28
+**生成时间**: 2026年08月03日 02:30
 
 ---
 
 ## 🎯 核心动态
 
-- **DeepMind Disbands AlphaFold Team, Pivots to Gemini**
+- **Ask HN: Have LLMs Plateaued?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://unusualwhales.com/news/deepmind-disbands-alphafold-team-gemini-pivot
+  - 链接: https://news.ycombinator.com/item?id=49150433
 
-- **Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://costperprompt.com/
+- **Amazon completes $50B investment in OpenAI**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9
 
-- **Hiring FDE's (full stack software eng) // 100K+ & equity // AI for Manufacturing**
+- **FastJSON Broke Again. Why?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.tryharmony.ai/
+  - 链接: https://blog.vonng.com/en/cloud/fastjson-boom/
 
-- **Token diplomacy: How China is shaping the AI future**
+- **AI Can Design Parts but It Can't Do This [video]**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future
+  - 链接: https://www.youtube.com/watch?v=K99LtENdQjA
+
+- **Zenith – AI that parses 2D blueprints into instant quote breakdowns**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://zenithquoting.com/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 5 次
-- **Gemini**: 出现 1 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Learning to Trace Seiberg Dualities...](http://arxiv.org/abs/2607.28628v1)
-- [ReToken: One Token to Improve Vision-Language Models for Vis...](http://arxiv.org/abs/2607.28627v1)
-- [PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Hu...](http://arxiv.org/abs/2607.28623v1)
 
 ### 热门项目
 
