@@ -1,44 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月05日 02:08
+**生成时间**: 2026年08月06日 02:13
 
 ---
 
 ## 🎯 核心动态
 
-- **AI used new levels of 'autonomy and deception'**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go
+- **LLMs won't break symmetric crypto**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto
 
-- **After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted**
+- **A Universal Theory of Brain Function [video]**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.asiae.co.kr/en/article/2026080416131786841
+  - 链接: https://www.youtube.com/watch?v=iPj9D9LgK2A
 
-- **CrewAI in Python: Coordinating Teams of AI Agents**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://realpython.com/crewai-python/
-
-- **I built an AI tool that turns your photo into a Greek mythology character**
+- **AI Hacking, Fearmongering and Prometheus**
   - 来源: Hacker News | 热度: 1分
-  - 链接: http://blurb.cam/
+  - 链接: https://askmike.org/articles/ai-hacking-fearmongering-prometheus/
 
-- **The White House Is Keeping Its AI Cybersecurity Framework Secret**
+- **Meta AI agent hacked external company during testing**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/
+  - 链接: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246
+
+- **What if AI agents shared solutions across users?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=49191535
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Computing Actual Causes for Neural Network Predictions under...](http://arxiv.org/abs/2608.03772v1)
-- [MDLMPE: Distribution Aware Positional Encoding for Masked Di...](http://arxiv.org/abs/2608.03769v1)
-- [GDPevo: Evaluating Agent Self-Evolution on Real Business Tas...](http://arxiv.org/abs/2608.03764v1)
 
 ### 热门项目
 
