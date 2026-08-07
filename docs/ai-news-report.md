@@ -1,40 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月06日 02:13
+**生成时间**: 2026年08月07日 02:29
 
 ---
 
 ## 🎯 核心动态
 
-- **LLMs won't break symmetric crypto**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto
-
-- **A Universal Theory of Brain Function [video]**
+- **EU AI Act Content Labelling: Fake Around and Find Out**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.youtube.com/watch?v=iPj9D9LgK2A
+  - 链接: https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/
 
-- **AI Hacking, Fearmongering and Prometheus**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://askmike.org/articles/ai-hacking-fearmongering-prometheus/
+- **How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/
 
-- **Meta AI agent hacked external company during testing**
+- **Built an exclusion engine and it might be what comes after AI slop**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246
+  - 链接: https://uncoverroads.com/
 
-- **What if AI agents shared solutions across users?**
+- **Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49191535
+  - 链接: https://news.ycombinator.com/item?id=49205192
+
+- **SciCode-Verified: How Benchmark Defects Underestimated LLM Scientific-Coding**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2608.04975
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 2 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Stochastic Dynamics on Persistence Diagram Space via Reinfor...](http://arxiv.org/abs/2608.06276v1)
+- [The Illusion of Visual Tool-Use: A Causal Audit of Thinking ...](http://arxiv.org/abs/2608.06270v1)
+- [Improving the Realism of Synthetic Clinical Benchmarks Under...](http://arxiv.org/abs/2608.06265v1)
 
 ### 热门项目
 
