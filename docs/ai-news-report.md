@@ -1,45 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月07日 02:29
+**生成时间**: 2026年08月08日 01:18
 
 ---
 
 ## 🎯 核心动态
 
-- **EU AI Act Content Labelling: Fake Around and Find Out**
+- **Message your other Claude Code sessions**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://code.claude.com/docs/en/cross-session-messaging
+
+- **Black Hat USA 2026: The OpenAI–Hugging Face Incident [video]**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/
+  - 链接: https://www.youtube.com/watch?v=87DyyMV0kCY
 
-- **How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/
-
-- **Built an exclusion engine and it might be what comes after AI slop**
+- **Mirai 98: Boot the NEC PC-9801 environment from a USB flash drive**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://uncoverroads.com/
+  - 链接: https://github.com/awemorris/linux-pc98
 
-- **Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?**
+- **Robust AI Security and Alignment: A Sisyphean Endeavor?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49205192
+  - 链接: https://arxiv.org/abs/2512.10100
 
-- **SciCode-Verified: How Benchmark Defects Underestimated LLM Scientific-Coding**
+- **Hacked Amazon Echo Dot 2 and can run LLMs locally**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2608.04975
+  - 链接: https://www.reddit.com/r/homeassistant/s/X13006g0tS
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
-- **training**: 出现 1 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Stochastic Dynamics on Persistence Diagram Space via Reinfor...](http://arxiv.org/abs/2608.06276v1)
-- [The Illusion of Visual Tool-Use: A Causal Audit of Thinking ...](http://arxiv.org/abs/2608.06270v1)
-- [Improving the Realism of Synthetic Clinical Benchmarks Under...](http://arxiv.org/abs/2608.06265v1)
+- [Learning When to Trust via Selective Context Preference Opti...](http://arxiv.org/abs/2608.06377v1)
+- [The Bitter Lesson of Tool Calling...](http://arxiv.org/abs/2608.06370v1)
+- [Tracing the Heart: An Evidence-Linked Pipeline for Heart-Fai...](http://arxiv.org/abs/2608.06366v1)
 
 ### 热门项目
 
