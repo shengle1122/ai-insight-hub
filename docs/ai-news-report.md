@@ -1,36 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月10日 01:24
+**生成时间**: 2026年08月11日 01:22
 
 ---
 
 ## 🎯 核心动态
 
-- **Blender MCP maintainer GitHub account hacked**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://twitter.com/sidahuj/status/2086445625147793503
+- **Sergey Brin has now spent $100M to fight the billionaire tax**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/
 
-- **LLMs Get Lost in Evolving User Intent**
+- **Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2607.20734
+  - 链接: https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable
 
-- **MatrAIx: Simulating the World with 8.3B Persona Agents**
+- **Antirez/h3.c: MiniMax H3 inference engine for Mac computers**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2608.04205
+  - 链接: https://github.com/antirez/h3.c
+
+- **Insidedb, an interactive, animated explainer of database internals**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://david-g-3654.github.io/insidedb/
+
+- **Predicting AI Job Exposure**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
-- **LLM**: 出现 1 次
+- **LLM**: 出现 2 次
+- **OpenAI**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Learning When to Trust via Selective Context Preference Opti...](http://arxiv.org/abs/2608.06377v1)
-- [The Bitter Lesson of Tool Calling...](http://arxiv.org/abs/2608.06370v1)
-- [Tracing the Heart: An Evidence-Linked Pipeline for Heart-Fai...](http://arxiv.org/abs/2608.06366v1)
+- [MirrorWorld: Taming Video Diffusion Models for Mirror Reflec...](http://arxiv.org/abs/2608.07463v1)
+- [CreativeInstruct: Scalably Teaching LLMs to Balance Quality,...](http://arxiv.org/abs/2608.07460v1)
+- [CoinRAG: Contextualized Information Nugget KV Cache Reuse fo...](http://arxiv.org/abs/2608.07458v1)
 
 ### 热门项目
 
