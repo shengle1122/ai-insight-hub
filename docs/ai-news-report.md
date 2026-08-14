@@ -1,45 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月13日 01:42
+**生成时间**: 2026年08月14日 01:40
 
 ---
 
 ## 🎯 核心动态
 
-- **Apple and AI: Siri the Early Years**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years
+- **The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79
 
-- **When the Denominator Disappears: FDA's Next Evolution Should Be Causal Inference**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.realclearhealth.com/articles/2026/08/05/when_the_denominator_disappears_1198625.html
+- **Trump orders Navy to return to old system launching jets off aircraft carriers**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://apnews.com/article/trump-aircraft-carriers-steam-catapults-ffa9f3ce102ecd5d6126db03e901a56f
 
-- **Show HN: Chatlens – Search and browse your ChatGPT and Claude chats offline**
+- **Hacking xAI for unreleased models and confidential documents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/david-g-3654/chatlens
+  - 链接: https://schizo.org/blog/hacking-xai
 
-- **The web's newest weapon against AI scrapers is a font**
+- **Silicon Valley's AI boom is remaking American charity**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/
+  - 链接: https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity
 
-- **NagaAI – Cheaper AI Aggregator (Like Poe, OpenRouter, etc.)**
+- **Agentrove: Self-hosted AI workspace for orchestrating coding agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://naga.ac
+  - 链接: https://github.com/Mng-dev-ai/agentrove
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **OpenAI**: 出现 1 次
 - **model**: 出现 1 次
-- **GPT**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Surgical WAM: A World-Action Model for Data-Efficient Surgic...](http://arxiv.org/abs/2608.11204v1)
-- [ConVAWG: A Retrieval-Grounded Framework for Controlled Synth...](http://arxiv.org/abs/2608.11200v1)
-- [Beyond a Bag of Features: Set-Level Instability in Sparse Au...](http://arxiv.org/abs/2608.11197v1)
 
 ### 热门项目
 
