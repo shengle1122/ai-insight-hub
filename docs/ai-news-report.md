@@ -1,41 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月14日 01:40
+**生成时间**: 2026年08月15日 01:01
 
 ---
 
 ## 🎯 核心动态
 
-- **The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79
-
-- **Trump orders Navy to return to old system launching jets off aircraft carriers**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://apnews.com/article/trump-aircraft-carriers-steam-catapults-ffa9f3ce102ecd5d6126db03e901a56f
-
-- **Hacking xAI for unreleased models and confidential documents**
+- **Show HN: Dictata – Local Whisper dictation with LLM cleanup**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://schizo.org/blog/hacking-xai
+  - 链接: https://github.com/AntoineChatry/Dictata
 
-- **Silicon Valley's AI boom is remaking American charity**
+- **Can LLMs work in the wet lab?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity
+  - 链接: https://www.benchling.com/blog/can-llms-work-in-the-wet-lab
 
-- **Agentrove: Self-hosted AI workspace for orchestrating coding agents**
+- **Show HN: Nikon F100 Film Camera Repair Notes**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/Mng-dev-ai/agentrove
+  - 链接: https://github.com/enthdegree/f100
+
+- **The Commons – experiments in inherited knowledge and errors between LLM agents**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/coladul/the_commons/tree/main
+
+- **ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
+- **LLM**: 出现 3 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [AutoDesign: Meta-Harness Optimization for Long-Horizon Agent...](http://arxiv.org/abs/2608.13560v1)
+- [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist...](http://arxiv.org/abs/2608.13558v1)
+- [HumanTracker: Towards Comprehensive and Human-Aligned Motion...](http://arxiv.org/abs/2608.13555v1)
 
 ### 热门项目
 
