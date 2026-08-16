@@ -1,36 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月15日 01:01
+**生成时间**: 2026年08月16日 01:05
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Dictata – Local Whisper dictation with LLM cleanup**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/AntoineChatry/Dictata
+- **ChatGPT lost 22 points of web share in a year**
+  - 来源: Hacker News | 热度: 9分
+  - 链接: https://aicharts.grok.me/c/market-share
 
-- **Can LLMs work in the wet lab?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.benchling.com/blog/can-llms-work-in-the-wet-lab
+- **Parts Pairing Kills Independent Repair (2023)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.ifixit.com/News/69320/how-parts-pairing-kills-independent-repair
 
-- **Show HN: Nikon F100 Film Camera Repair Notes**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/enthdegree/f100
+- **The complete AI SEO playbook: from zero to 4.6M impressions in 3 months**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/TraceCohenTech/ai-seo-playbook
 
-- **The Commons – experiments in inherited knowledge and errors between LLM agents**
+- **Snap Chart AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/coladul/the_commons/tree/main
+  - 链接: https://www.snap-chart.ai/
 
-- **ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt**
+- **Local+privacy+focus on cache AI CLI and llama.cpp branch + Qwen3.x**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/
+  - 链接: https://github.com/alainnothere/privibe/tree/main
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
 - **model**: 出现 1 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
