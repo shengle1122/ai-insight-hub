@@ -1,39 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月17日 01:02
+**生成时间**: 2026年08月18日 01:00
 
 ---
 
 ## 🎯 核心动态
 
-- **Rhombus 1.1 is now available**
+- **Google wins bankruptcy auction for Spirit Airlines emails, chats, documents**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy
+
+- **CRTC allows Canadian carriers to lock phones again, with a catch**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://mobilesyrup.com/2026/08/17/crtc-brings-back-phone-locking/
+
+- **Consumers Prefer AI Music Until They're Told It's AI**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/
+
+- **Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+  - 链接: https://getcogni.io/
 
-- **Show HN: Continuum – Financial simulations for DIY multimillionaires**
+- **Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://continuum-app.xyz/
-
-- **The CLI your AI agent drives to manage your knowledge graph**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://useokf.com/
-
-- **Hawaii flooded by Lala with thousands without power [video]**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=gKzA4zDHyUc
+  - 链接: https://github.com/alainnothere/privibe/tree/main
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 4 次
+- **training**: 出现 1 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [AutoDesign: Meta-Harness Optimization for Long-Horizon Agent...](http://arxiv.org/abs/2608.13560v1)
-- [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist...](http://arxiv.org/abs/2608.13558v1)
-- [HumanTracker: Towards Comprehensive and Human-Aligned Motion...](http://arxiv.org/abs/2608.13555v1)
+- [Decoding the Past: An Uncertainty-Aware Deep Learning Framew...](http://arxiv.org/abs/2608.14539v1)
+- [Marionette: Predicting World States, Rendering Geometry, Pai...](http://arxiv.org/abs/2608.14530v1)
+- [Handover of In-Context Learning State Across Session Boundar...](http://arxiv.org/abs/2608.14528v1)
 
 ### 热门项目
 
