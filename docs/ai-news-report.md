@@ -1,45 +1,31 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月18日 01:00
+**生成时间**: 2026年08月19日 01:01
 
 ---
 
 ## 🎯 核心动态
 
-- **Google wins bankruptcy auction for Spirit Airlines emails, chats, documents**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy
-
-- **CRTC allows Canadian carriers to lock phones again, with a catch**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://mobilesyrup.com/2026/08/17/crtc-brings-back-phone-locking/
-
-- **Consumers Prefer AI Music Until They're Told It's AI**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/
-
-- **Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://getcogni.io/
-
-- **Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x**
+- **SecIT Bench A frontier benchmark for AI agents in IT and security workflows**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/alainnothere/privibe/tree/main
+  - 链接: https://secitbench.cribl.io/
+
+- **Testing Claude-designed proteins in the wet lab**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.adaptyvbio.com/blog/anthropic-1
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 4 次
-- **training**: 出现 1 次
-- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Decoding the Past: An Uncertainty-Aware Deep Learning Framew...](http://arxiv.org/abs/2608.14539v1)
-- [Marionette: Predicting World States, Rendering Geometry, Pai...](http://arxiv.org/abs/2608.14530v1)
-- [Handover of In-Context Learning State Across Session Boundar...](http://arxiv.org/abs/2608.14528v1)
+- [Don't Drop the BATON: Long-Horizon Robot Manipulation via Ag...](http://arxiv.org/abs/2608.16889v1)
+- [Q-based Variational Inverse Reinforcement Learning...](http://arxiv.org/abs/2608.16888v1)
+- [Improving the matrix multiplication exponent with modern opt...](http://arxiv.org/abs/2608.16884v1)
 
 ### 热门项目
 
