@@ -1,45 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月20日 01:01
+**生成时间**: 2026年08月21日 01:05
 
 ---
 
 ## 🎯 核心动态
 
-- **Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://fetzu.ch/blog/20260819_claudevsdrobo/
-
-- **Chatgpt.com is down – all signups and logins are down as of**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://status.openai.com/incidents/01M0E7K87VJNMGW0QTMHPEQQ39
-
-- **Call-buying near Trump's Hyperliquid comments shows some eyebrow-raising trades**
+- **AI and Consciousness – A Skeptical Overview**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.msn.com/en-us/money/economy/call-buying-bonanza-around-trump-s-hyperliquid-comments-includes-some-eyebrow-raising-trades/ar-AA2avTM9
+  - 链接: https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896
 
-- **'Success story' hailed as bluefin tuna caught off Yorkshire first time since 60s**
+- **It is a sign of the times that Amazon gets to call this fair use**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theguardian.com/environment/2026/aug/19/first-bluefin-tunas-caught-off-yorkshire-since-1960s-success-story-for-marine-conservation
+  - 链接: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html
 
-- **Make shareable software for free using Gemini 3.7 flash on Reachpad**
+- **How A Texas student blew the whistle on a rogue AI hacking attempt**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://reachpad.dev/blog/gemini-3-7-flash
+  - 链接: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+
+- **How Much of the Internet Is Written with AI?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
+
+- **ChatGPT's Computer History tracks your clicks and keystrokes**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 1 次
 - **GPT**: 出现 1 次
-- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [From Corpora to Co-Evolving Capabilities: Capability-Centric...](http://arxiv.org/abs/2608.18076v1)
-- [Multi-Agent AI System for Radiology Report Structuring and Q...](http://arxiv.org/abs/2608.18072v1)
-- [On the Fragility of Self-Improving Agents: Variance, Task Or...](http://arxiv.org/abs/2608.18066v1)
 
 ### 热门项目
 
