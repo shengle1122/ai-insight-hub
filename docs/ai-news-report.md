@@ -1,40 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月21日 01:05
+**生成时间**: 2026年08月22日 01:01
 
 ---
 
 ## 🎯 核心动态
 
-- **AI and Consciousness – A Skeptical Overview**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896
-
-- **It is a sign of the times that Amazon gets to call this fair use**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html
-
-- **How A Texas student blew the whistle on a rogue AI hacking attempt**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
-
-- **How Much of the Internet Is Written with AI?**
+- **In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
+  - 链接: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a
 
-- **ChatGPT's Computer History tracks your clicks and keystrokes**
+- **Lie Detection and Language Models**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
+  - 链接: https://philosophybear.substack.com/p/lie-detection-and-language-models
+
+- **Towards Physics of Multimodal Pretraining**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2608.05000
+
+- **Whiteboard: Claim Your Pixels**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://whiteboard.lol
+
+- **Show HN: Updating my wedding registry website with AI in 275 commits**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://benhoyt.com/writings/updating-gifty-with-ai/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **GPT**: 出现 1 次
+- **model**: 出现 6 次
+- **LLM**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Information on trajectories: martingales and random times...](http://arxiv.org/abs/2608.20337v1)
+- [ConceptGuard: Benchmarking Context-Sensitive Unlearning in L...](http://arxiv.org/abs/2608.20338v1)
+- [G-CARL: Grounded Checklist-Aligned Reward Learning for Patie...](http://arxiv.org/abs/2608.20331v1)
 
 ### 热门项目
 
