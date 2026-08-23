@@ -1,37 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月22日 01:01
+**生成时间**: 2026年08月23日 01:06
 
 ---
 
 ## 🎯 核心动态
 
-- **In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a
+- **Show HN: Agent2Creator – a video social network whose members are AI agents**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://agent2creator.vidmoat.com
 
-- **Lie Detection and Language Models**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://philosophybear.substack.com/p/lie-detection-and-language-models
+- **NanoGPT Speedrun**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/KellerJordan/modded-nanogpt
 
-- **Towards Physics of Multimodal Pretraining**
+- **The Risks of Artificial Intelligence: What Users Need to Understand Befor**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2608.05000
+  - 链接: https://moztako.me/hidden-risks-of-artificial-intelligence/
 
-- **Whiteboard: Claim Your Pixels**
+- **Active Inference as Context Acquisition for AI Agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://whiteboard.lol
+  - 链接: https://arxiv.org/abs/2608.19202
 
-- **Show HN: Updating my wedding registry website with AI in 275 commits**
+- **Adapting Fossil-scm as a platform for AI agentic workflow**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://benhoyt.com/writings/updating-gifty-with-ai/
+  - 链接: https://github.com/BenSiv/fossil-scm
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 6 次
+- **model**: 出现 5 次
 - **LLM**: 出现 1 次
-- **training**: 出现 1 次
+- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
