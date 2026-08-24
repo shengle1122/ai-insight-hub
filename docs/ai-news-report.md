@@ -1,45 +1,32 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月23日 01:06
+**生成时间**: 2026年08月24日 01:04
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Agent2Creator – a video social network whose members are AI agents**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://agent2creator.vidmoat.com
+- **Vintage Artificial Intelligence Collection**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://archive.org/details/vintageai
 
-- **NanoGPT Speedrun**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/KellerJordan/modded-nanogpt
-
-- **The Risks of Artificial Intelligence: What Users Need to Understand Befor**
+- **Show HN: CodeDuel: Compete against AI to stay sharp**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://moztako.me/hidden-risks-of-artificial-intelligence/
+  - 链接: https://www.duelai.dev/
 
-- **Active Inference as Context Acquisition for AI Agents**
+- **Focus Is the Main Feature: Why I Miss the Old Claude Code**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2608.19202
-
-- **Adapting Fossil-scm as a platform for AI agentic workflow**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/BenSiv/fossil-scm
+  - 链接: https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 5 次
-- **LLM**: 出现 1 次
-- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Information on trajectories: martingales and random times...](http://arxiv.org/abs/2608.20337v1)
-- [ConceptGuard: Benchmarking Context-Sensitive Unlearning in L...](http://arxiv.org/abs/2608.20338v1)
-- [G-CARL: Grounded Checklist-Aligned Reward Learning for Patie...](http://arxiv.org/abs/2608.20331v1)
 
 ### 热门项目
 
