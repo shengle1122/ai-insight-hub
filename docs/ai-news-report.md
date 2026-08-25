@@ -1,32 +1,28 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月24日 01:04
+**生成时间**: 2026年08月25日 01:03
 
 ---
 
 ## 🎯 核心动态
 
-- **Vintage Artificial Intelligence Collection**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://archive.org/details/vintageai
-
-- **Show HN: CodeDuel: Compete against AI to stay sharp**
+- **Flex: Let the Model Write the Code**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.duelai.dev/
-
-- **Focus Is the Main Feature: Why I Miss the Old Claude Code**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/
+  - 链接: https://www.cmpnd.ai/blog/let-the-model-write-the-code.html
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 1 次
+- **LLM**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Primal Acceleration of Newton's Method...](http://arxiv.org/abs/2608.21359v1)
+- [VIALS: A Benchmark for Visual Interpretation of Artifacts in...](http://arxiv.org/abs/2608.21357v1)
+- [AI with Authority, from Application to Silicon...](http://arxiv.org/abs/2608.21356v1)
 
 ### 热门项目
 
