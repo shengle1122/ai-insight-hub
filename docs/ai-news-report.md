@@ -1,46 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月26日 01:05
+**生成时间**: 2026年08月27日 07:07
 
 ---
 
 ## 🎯 核心动态
 
-- **The brain may be about to have its Ozempic moment**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment
-
-- **How I Automated CodeWarrior with Claude, AppleScript, and SSH**
+- **Years Late, Billions over Budget: California High-Speed Rail Hasn't Laid a Track**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.patreon.com/MacSurf/posts/how-i-automated-167688725
+  - 链接: https://www.wsj.com/us-news/years-late-billions-over-budget-californias-high-speed-rail-hasnt-laid-a-track-bac525ee
 
-- **Read your writes: WAIT FOR in PostgreSQL 19**
+- **PlainInvoice – Free Invoice Generator, No Signup Required**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes
+  - 链接: https://plaininvoice.com
 
-- **Utilities Break California Lobbying Record Under Newsom While Former Aides Lead**
+- **Junior consultants called back to office as AI increases need for human skills**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://consumerwatchdog.org/energy/utilities-break-california-lobbying-record-under-newsom-while-former-aides-lead-utility-backed-wildfire-coalition/
+  - 链接: https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52
 
-- **Microsoft's Maia 200 AI Accelerator at Hot Chips 2026**
+- **What RTO Means for AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/
+  - 链接: https://jasondoyle.ie/whitepapers/what-return-to-office-removes/
+
+- **Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 5 次
+- **model**: 出现 4 次
+- **LLM**: 出现 1 次
 - **training**: 出现 1 次
-- **GPT**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [How to Train a Critic Stably and Efficiently...](http://arxiv.org/abs/2608.23566v1)
-- [ReWorld: An Interactive World Model with Long-Horizon Memory...](http://arxiv.org/abs/2608.23565v1)
-- [SWE Refactor Bench: Can Coding Agents Complete a Long-Horizo...](http://arxiv.org/abs/2608.23564v1)
+- [VBVR-Pro: A Scalable and Verifiable Suite for Native Visual ...](http://arxiv.org/abs/2608.26105v1)
+- [A Visual Dependence-Aware Framework for Multimodal Unsupervi...](http://arxiv.org/abs/2608.26095v1)
+- [MyoMechanix: Biomechanically-Grounded Compositional Skilled ...](http://arxiv.org/abs/2608.26094v1)
 
 ### 热门项目
 
