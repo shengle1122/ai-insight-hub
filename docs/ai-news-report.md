@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月27日 07:07
+**生成时间**: 2026年08月28日 08:54
 
 ---
 
 ## 🎯 核心动态
 
-- **Years Late, Billions over Budget: California High-Speed Rail Hasn't Laid a Track**
+- **Elon Musk's xAI used child porn to train Grok models, lawsuit says**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/
+
+- **AMD Jumps from ROCm 7.14 to ROCm 10.0 with Rocm.ai**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.wsj.com/us-news/years-late-billions-over-budget-californias-high-speed-rail-hasnt-laid-a-track-bac525ee
+  - 链接: https://www.phoronix.com/news/AMD-ROCm-10.0
 
-- **PlainInvoice – Free Invoice Generator, No Signup Required**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://plaininvoice.com
+- **Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/
 
-- **Junior consultants called back to office as AI increases need for human skills**
+- **Overcooked? Why robotic pizza makers are failing**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52
+  - 链接: https://www.bbc.com/news/articles/czxq0wgkkdjo
 
-- **What RTO Means for AI**
+- **Agnes AI Releases Agnes 2.5 Pro Beta**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://jasondoyle.ie/whitepapers/what-return-to-office-removes/
-
-- **Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/
+  - 链接: https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-beta
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 4 次
 - **LLM**: 出现 1 次
-- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [VBVR-Pro: A Scalable and Verifiable Suite for Native Visual ...](http://arxiv.org/abs/2608.26105v1)
-- [A Visual Dependence-Aware Framework for Multimodal Unsupervi...](http://arxiv.org/abs/2608.26095v1)
-- [MyoMechanix: Biomechanically-Grounded Compositional Skilled ...](http://arxiv.org/abs/2608.26094v1)
+- [CritICL: Inference-Time Weak-to-Strong Generalization from S...](http://arxiv.org/abs/2608.27455v1)
+- [WikiSkill: Compiling Agent Experience into Persistent Knowle...](http://arxiv.org/abs/2608.27454v1)
+- [SWE-Prime: Fewer Trajectories, Better Performance...](http://arxiv.org/abs/2608.27449v1)
 
 ### 热门项目
 
