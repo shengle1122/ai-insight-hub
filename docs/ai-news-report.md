@@ -1,36 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月28日 08:54
+**生成时间**: 2026年08月29日 05:29
 
 ---
 
 ## 🎯 核心动态
 
-- **Elon Musk's xAI used child porn to train Grok models, lawsuit says**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/
+- **Debian has published the official results for the 2026 GR on LLM usage**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://vote.debian.org/~secretary/gr_llm/results.txt
 
-- **AMD Jumps from ROCm 7.14 to ROCm 10.0 with Rocm.ai**
+- **Yes, We're in an AI Bubble. Just Look to 1980s Japan**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.phoronix.com/news/AMD-ROCm-10.0
+  - 链接: https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/
 
-- **Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/
-
-- **Overcooked? Why robotic pizza makers are failing**
+- **OpenAI to end agreement with SpaceX's AI coding tool Cursor**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bbc.com/news/articles/czxq0wgkkdjo
+  - 链接: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/
 
-- **Agnes AI Releases Agnes 2.5 Pro Beta**
+- **Taiwan prosecutors search Unimicron in suspected China fraud case**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-beta
+  - 链接: https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/
+
+- **Explainer: What is visual verification and why does Reuters practice it?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.reuters.com/business/media-telecom/what-is-visual-verification-why-does-reuters-practice-it-2026-08-28/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
-- **LLM**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 2 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
