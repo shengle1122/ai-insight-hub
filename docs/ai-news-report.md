@@ -1,45 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月29日 05:29
+**生成时间**: 2026年08月30日 03:27
 
 ---
 
 ## 🎯 核心动态
 
-- **Debian has published the official results for the 2026 GR on LLM usage**
+- **Popular code generator for TanStack Query hit by supply chain worm**
   - 来源: Hacker News | 热度: 4分
-  - 链接: https://vote.debian.org/~secretary/gr_llm/results.txt
+  - 链接: https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm
 
-- **Yes, We're in an AI Bubble. Just Look to 1980s Japan**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/
-
-- **OpenAI to end agreement with SpaceX's AI coding tool Cursor**
+- **I ran out of AI tokens in one app while holding unused tokens in another**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/
+  - 链接: https://news.ycombinator.com/item?id=49495398
 
-- **Taiwan prosecutors search Unimicron in suspected China fraud case**
+- **You have to beat the models at something**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/
+  - 链接: https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/
 
-- **Explainer: What is visual verification and why does Reuters practice it?**
+- **Ask HN: Hard Mode for LLMs**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/media-telecom/what-is-visual-verification-why-does-reuters-practice-it-2026-08-28/
+  - 链接: https://news.ycombinator.com/item?id=49495324
+
+- **Show HN: Memnest, local-first memory shared by pi, Claude Code and Codex**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/Blue-B/memnest
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **LLM**: 出现 2 次
-- **OpenAI**: 出现 1 次
+- **LLM**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [CritICL: Inference-Time Weak-to-Strong Generalization from S...](http://arxiv.org/abs/2608.27455v1)
-- [WikiSkill: Compiling Agent Experience into Persistent Knowle...](http://arxiv.org/abs/2608.27454v1)
-- [SWE-Prime: Fewer Trajectories, Better Performance...](http://arxiv.org/abs/2608.27449v1)
 
 ### 热门项目
 
