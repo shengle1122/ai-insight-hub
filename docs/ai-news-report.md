@@ -1,42 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月30日 03:27
+**生成时间**: 2026年08月31日 03:25
 
 ---
 
 ## 🎯 核心动态
 
-- **Popular code generator for TanStack Query hit by supply chain worm**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm
+- **Show HN: Prove your code produced your claims without making reviewers rerun it**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/27-GROUP/kveritas-go/
 
-- **I ran out of AI tokens in one app while holding unused tokens in another**
+- **P99 0 ms* autocomplete for 240M domain names**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49495398
+  - 链接: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
 
-- **You have to beat the models at something**
+- **Show HN: Growtics – an AI growth agent that tells you what to do next**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/
-
-- **Ask HN: Hard Mode for LLMs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49495324
-
-- **Show HN: Memnest, local-first memory shared by pi, Claude Code and Codex**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/Blue-B/memnest
+  - 链接: https://growtics.io
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
 - **model**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [QGPINNs: A Physics-Informed Neural Network Framework for Non...](http://arxiv.org/abs/2608.28589v1)
+- [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for De...](http://arxiv.org/abs/2608.28578v1)
+- [Learning a Size-Weight Frontier for Synthetic-Augmented Infe...](http://arxiv.org/abs/2608.28576v1)
 
 ### 热门项目
 
