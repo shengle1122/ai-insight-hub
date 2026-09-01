@@ -1,35 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年08月31日 03:25
+**生成时间**: 2026年09月01日 03:25
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: Prove your code produced your claims without making reviewers rerun it**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/27-GROUP/kveritas-go/
-
-- **P99 0 ms* autocomplete for 240M domain names**
+- **Running a personal AI agent on an old Android phone instead of a server**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
+  - 链接: https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8
 
-- **Show HN: Growtics – an AI growth agent that tells you what to do next**
+- **Anthropic signs $35B cloud deal with Nvidia-backed Lambda, source says**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://growtics.io
+  - 链接: https://www.thestar.com.my/tech/tech-news/2026/09/01/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda-source-says
+
+- **I was sick of $99 directory scams, so I built a fair 10-min rotation launchpad**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://spotmy.app/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [QGPINNs: A Physics-Informed Neural Network Framework for Non...](http://arxiv.org/abs/2608.28589v1)
-- [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for De...](http://arxiv.org/abs/2608.28578v1)
-- [Learning a Size-Weight Frontier for Synthetic-Augmented Infe...](http://arxiv.org/abs/2608.28576v1)
+- [MURANO: Design, Run, and Reproduce Mechanistic Interpretabil...](http://arxiv.org/abs/2608.30662v1)
+- [SwarmBench: Can Large Language Models Act as Agent Swarm Orc...](http://arxiv.org/abs/2608.30661v1)
+- [Season-Aware Hybrid Convolutional-Transformer for Antarctic ...](http://arxiv.org/abs/2608.30654v1)
 
 ### 热门项目
 
