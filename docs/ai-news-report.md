@@ -1,35 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月02日 02:43
+**生成时间**: 2026年09月03日 02:49
 
 ---
 
 ## 🎯 核心动态
 
-- **EngineRed: Asymmetric AI Warfare**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare
+- **Show HN: 58% US County fail PDF Accessibility**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://accesslumens.com/research/state-of-us-county-pdf-accessibility-2026
 
-- **Insightify – AI review analytics for Shopify**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://apps.shopify.com/aireview-analyzer
+- **Language Models Can Control Their Own Attention**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://arxiv.org/abs/2609.02737
 
-- **A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf
+- **Researchers fear safety disaster ahead of OpenAI's Astra release**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety
 
-- **3D Spatial Transformer Network (2016)**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/shubhtuls/stn3d
+- **Does anyone know if something happened to stallman.org?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.ycombinator.com/item?id=49545206
 
-- **AI wealth is creating a 'mansion shortage' upending San Francisco housing market**
+- **Post-Training Language Models for Gold-Medal Performance in Coding Competitions**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://text.npr.org/nx-s1-5930432
+  - 链接: https://arxiv.org/abs/2609.02849
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
