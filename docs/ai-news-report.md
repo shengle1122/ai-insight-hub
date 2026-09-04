@@ -1,43 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月03日 02:49
+**生成时间**: 2026年09月04日 02:46
 
 ---
 
 ## 🎯 核心动态
 
-- **Show HN: 58% US County fail PDF Accessibility**
+- **Why I am so against volunteering in academia (ecology-edition)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://accesslumens.com/research/state-of-us-county-pdf-accessibility-2026
+  - 链接: https://statmodeling.stat.columbia.edu/2026/08/19/why-i-am-so-against-volunteering-in-academia-ecology-edition/
 
-- **Language Models Can Control Their Own Attention**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2609.02737
-
-- **Researchers fear safety disaster ahead of OpenAI's Astra release**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety
-
-- **Does anyone know if something happened to stallman.org?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=49545206
-
-- **Post-Training Language Models for Gold-Medal Performance in Coding Competitions**
+- **How to Parallelize a Transformer for Training**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2609.02849
+  - 链接: https://ezyang.github.io/interactive-parallelize-transformer/
+
+- **Show HN: Jetway, a working airline GDS and message router**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/adamf/jetway
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
 - **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Headroom-Drift Replay: A Primitive for Principled Replay Con...](http://arxiv.org/abs/2609.03941v1)
+- [Masked Autoregressive Speech Enhancement with Continuous Neu...](http://arxiv.org/abs/2609.03940v1)
+- [Towards Numerical TOHTN Planning with SMT-based HTN-SAT Enco...](http://arxiv.org/abs/2609.03938v1)
 
 ### 热门项目
 
