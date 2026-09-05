@@ -1,37 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月04日 02:46
+**生成时间**: 2026年09月05日 02:49
 
 ---
 
 ## 🎯 核心动态
 
-- **Why I am so against volunteering in academia (ecology-edition)**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://statmodeling.stat.columbia.edu/2026/08/19/why-i-am-so-against-volunteering-in-academia-ecology-edition/
+- **Personal AI Router for Local Inference**
+  - 来源: Hacker News | 热度: 7分
+  - 链接: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/
 
-- **How to Parallelize a Transformer for Training**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://ezyang.github.io/interactive-parallelize-transformer/
+- **GitSpawn: Untrusted repos can execute code via AI coding agents**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.manifold.security/blog/ai-coding-agents-git-hijack
 
-- **Show HN: Jetway, a working airline GDS and message router**
+- **Lenexus – dependency graph with deterministic risk engine and AI layer**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/adamf/jetway
+  - 链接: https://lenexux.com/welcome
+
+- **Learn Neuralese: a small field guide to talking like the swarm**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://shimmermathlabs.com/neuralese.html
+
+- **Making GPUs Fast: A Deep Dive into Training Performance (2025)**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=pHqcHzxx6I8
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **training**: 出现 4 次
 - **LLM**: 出现 1 次
-- **training**: 出现 1 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Headroom-Drift Replay: A Primitive for Principled Replay Con...](http://arxiv.org/abs/2609.03941v1)
-- [Masked Autoregressive Speech Enhancement with Continuous Neu...](http://arxiv.org/abs/2609.03940v1)
-- [Towards Numerical TOHTN Planning with SMT-based HTN-SAT Enco...](http://arxiv.org/abs/2609.03938v1)
+- [Compile by Training: Turning Natural-Language Specifications...](http://arxiv.org/abs/2609.04199v1)
+- [Clean Engineering, Unstable Measurement: A Preregistered Rel...](http://arxiv.org/abs/2609.04198v1)
+- [ESPO: Error-Structured Prompt Optimization via Diagnose, Div...](http://arxiv.org/abs/2609.04197v1)
 
 ### 热门项目
 
