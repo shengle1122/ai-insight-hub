@@ -1,45 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月05日 02:49
+**生成时间**: 2026年09月06日 02:47
 
 ---
 
 ## 🎯 核心动态
 
-- **Personal AI Router for Local Inference**
-  - 来源: Hacker News | 热度: 7分
-  - 链接: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/
+- **GPT-6 Astra on robot arms**
+  - 来源: Hacker News | 热度: 17分
+  - 链接: https://openai.robocurve.org/gpt-6-astra/
 
-- **GitSpawn: Untrusted repos can execute code via AI coding agents**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.manifold.security/blog/ai-coding-agents-git-hijack
+- **Disruption of the OTP in the adult male forebrain reveals its diverse functions**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://academic.oup.com/endo/article-abstract/167/4/bqag029/8525632?redirectedFrom=fulltext&login=false
 
-- **Lenexus – dependency graph with deterministic risk engine and AI layer**
+- **Release containerd 2.3.5 · containerd/containerd**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/containerd/containerd/releases/tag/v2.3.5
+
+- **EvoMind: A local-first cognitive AI architecture with runtime safety gates**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://lenexux.com/welcome
+  - 链接: https://zenodo.org/records/20580153
 
-- **Learn Neuralese: a small field guide to talking like the swarm**
+- **AI, Tools and Transformation**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://shimmermathlabs.com/neuralese.html
-
-- **Making GPUs Fast: A Deep Dive into Training Performance (2025)**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=pHqcHzxx6I8
+  - 链接: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 4 次
-- **LLM**: 出现 1 次
-- **model**: 出现 1 次
+- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Compile by Training: Turning Natural-Language Specifications...](http://arxiv.org/abs/2609.04199v1)
-- [Clean Engineering, Unstable Measurement: A Preregistered Rel...](http://arxiv.org/abs/2609.04198v1)
-- [ESPO: Error-Structured Prompt Optimization via Diagnose, Div...](http://arxiv.org/abs/2609.04197v1)
 
 ### 热门项目
 
