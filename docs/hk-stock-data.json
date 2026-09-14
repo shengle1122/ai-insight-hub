@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "indices": {
     "HSI": {
       "name": "恒生指数",
       "symbol": "^HSI",
-      "latest": 24805.63,
-      "change": -148.84,
-      "change_pct": -0.6,
+      "latest": 24684.5,
+      "change": -121.13,
+      "change_pct": -0.49,
       "history": [
         {
           "date": "2026-09-07",
@@ -27,15 +27,19 @@
         {
           "date": "2026-09-11",
           "close": 24805.63
+        },
+        {
+          "date": "2026-09-14",
+          "close": 24684.5
         }
       ]
     },
     "HSCEI": {
       "name": "恒生国企指数",
       "symbol": "^HSCE",
-      "latest": 8246.33,
-      "change": -28.45,
-      "change_pct": -0.34,
+      "latest": 8210.79,
+      "change": -35.54,
+      "change_pct": -0.43,
       "history": [
         {
           "date": "2026-09-07",
@@ -56,6 +60,10 @@
         {
           "date": "2026-09-11",
           "close": 8246.33
+        },
+        {
+          "date": "2026-09-14",
+          "close": 8210.79
         }
       ]
     }
@@ -63,90 +71,90 @@
   "stocks": {
     "0700.HK": {
       "name": "腾讯控股",
-      "latest": 428.4,
-      "change": 2.8,
-      "change_pct": 0.66,
+      "latest": 429.4,
+      "change": 1.0,
+      "change_pct": 0.23,
       "week_high": 442.6,
       "week_low": 419.4,
-      "volume": 15628379
+      "volume": 3506476
     },
     "9988.HK": {
       "name": "阿里巴巴-SW",
-      "latest": 107.5,
-      "change": 0.6,
-      "change_pct": 0.56,
+      "latest": 105.1,
+      "change": -2.4,
+      "change_pct": -2.23,
       "week_high": 111.7,
       "week_low": 104.7,
-      "volume": 56226973
+      "volume": 12242547
     },
     "3690.HK": {
       "name": "美团-W",
-      "latest": 75.1,
-      "change": 0.35,
-      "change_pct": 0.47,
+      "latest": 74.0,
+      "change": -1.1,
+      "change_pct": -1.46,
       "week_high": 82.4,
       "week_low": 73.4,
-      "volume": 25980880
+      "volume": 3585106
     },
     "1810.HK": {
       "name": "小米集团-W",
-      "latest": 26.36,
-      "change": 0.44,
-      "change_pct": 1.7,
+      "latest": 26.9,
+      "change": 0.54,
+      "change_pct": 2.05,
       "week_high": 28.4,
       "week_low": 25.44,
-      "volume": 113533443
+      "volume": 33962530
     },
     "2318.HK": {
       "name": "中国平安",
-      "latest": 54.0,
-      "change": -0.85,
-      "change_pct": -1.55,
+      "latest": 53.3,
+      "change": -0.7,
+      "change_pct": -1.3,
       "week_high": 57.6,
       "week_low": 53.25,
-      "volume": 47856853
+      "volume": 5333115
     },
     "1299.HK": {
       "name": "友邦保险",
-      "latest": 75.05,
-      "change": -0.25,
-      "change_pct": -0.33,
+      "latest": 73.65,
+      "change": -1.4,
+      "change_pct": -1.87,
       "week_high": 77.95,
-      "week_low": 73.7,
-      "volume": 23045025
+      "week_low": 73.25,
+      "volume": 4548984
     },
     "0005.HK": {
       "name": "汇丰控股",
-      "latest": 163.3,
-      "change": -1.4,
-      "change_pct": -0.85,
+      "latest": 163.5,
+      "change": 0.2,
+      "change_pct": 0.12,
       "week_high": 167.9,
       "week_low": 161.5,
-      "volume": 9758966
+      "volume": 951794
     },
     "0883.HK": {
       "name": "中国海洋石油",
       "latest": 24.38,
-      "change": -0.64,
-      "change_pct": -2.56,
+      "change": 0.0,
+      "change_pct": 0.0,
       "week_high": 26.0,
       "week_low": 24.28,
-      "volume": 87290204
+      "volume": 15428827
     }
   },
   "market_summary": {
-    "up_count": 4,
+    "up_count": 3,
     "down_count": 4,
-    "flat_count": 0,
+    "flat_count": 1,
     "top_gainer": {
       "symbol": "1810.HK",
       "name": "小米集团-W",
-      "change_pct": 1.7
+      "change_pct": 2.05
     },
     "top_loser": {
-      "symbol": "0883.HK",
-      "name": "中国海洋石油",
-      "change_pct": -2.56
+      "symbol": "9988.HK",
+      "name": "阿里巴巴-SW",
+      "change_pct": -2.23
     }
   },
   "charts": [
@@ -158,17 +166,19 @@
         "09-08",
         "09-09",
         "09-10",
-        "09-11"
+        "09-11",
+        "09-14"
       ],
       "values": [
         25413.12,
         25317.18,
         25274.96,
         24954.47,
-        24805.63
+        24805.63,
+        24684.5
       ],
-      "latest": 24805.63,
-      "change_pct": -0.6
+      "latest": 24684.5,
+      "change_pct": -0.49
     },
     {
       "code": "HSCEI",
@@ -178,17 +188,19 @@
         "09-08",
         "09-09",
         "09-10",
-        "09-11"
+        "09-11",
+        "09-14"
       ],
       "values": [
         8429.73,
         8397.32,
         8369.05,
         8274.78,
-        8246.33
+        8246.33,
+        8210.79
       ],
-      "latest": 8246.33,
-      "change_pct": -0.34
+      "latest": 8210.79,
+      "change_pct": -0.43
     }
   ]
 }
