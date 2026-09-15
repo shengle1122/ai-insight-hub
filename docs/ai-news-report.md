@@ -1,31 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月14日 03:13
+**生成时间**: 2026年09月15日 03:15
 
 ---
 
 ## 🎯 核心动态
 
-- **Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bbc.com/news/articles/cpve191wy47o
+- **METR Anthropic Network**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://twitter.com/kevinnbass/status/2099621874279817638
 
-- **AI versus Throughput**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.michaelnygard.com/blog/2026/05/ai-versus-throughput/
+- **Does Scaling Web-Video Pre-Training Help Real Robots Do Real Work?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.rhoda.ai/research/scaling-web-video-pretraining
 
-- **Notes on Dario, Altman, Elmo, and matters frontier models**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://gist.github.com/bg50/23bdbf4f7032024c71d7585e53a4be69
+- **Air Force secretary acknowledges the US has weapons in space**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://abcnews.com/Politics/air-force-secretary-acknowledges-us-weapons-space/story?id=136437923
 
-- **Google Artemis: Let AI assistants and test suites use real phones like a human**
+- **Microsoft AI Publishes Its Humanist AI Code of Conduct**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/google/artemis
+  - 链接: https://microsoft.ai/code-of-conduct/
+
+- **CrofAI Is an OpenRouter Wrapper**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://kendell.dev/blog/crofaifalse/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
