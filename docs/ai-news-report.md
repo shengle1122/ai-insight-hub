@@ -1,40 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月15日 03:15
+**生成时间**: 2026年09月16日 03:11
 
 ---
 
 ## 🎯 核心动态
 
-- **METR Anthropic Network**
+- **Musk's companies must explain why they dropped antitrust claims against Apple**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840
+
+- **AI is not going to kill you**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://twitter.com/kevinnbass/status/2099621874279817638
+  - 链接: https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/
 
-- **Does Scaling Web-Video Pre-Training Help Real Robots Do Real Work?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.rhoda.ai/research/scaling-web-video-pretraining
-
-- **Air Force secretary acknowledges the US has weapons in space**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://abcnews.com/Politics/air-force-secretary-acknowledges-us-weapons-space/story?id=136437923
-
-- **Microsoft AI Publishes Its Humanist AI Code of Conduct**
+- **Paying for frontier AI models buys 4-month head start at 5x the cost**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://microsoft.ai/code-of-conduct/
+  - 链接: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
 
-- **CrofAI Is an OpenRouter Wrapper**
+- **Anthropic 25x CI in six months**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://kendell.dev/blog/crofaifalse/
+  - 链接: https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic
+
+- **Every US Electrical Outlet Explained**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://practical.engineering/blog/2026/9/15/every-us-electrical-outlet-explained
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **training**: 出现 1 次
+- **LLM**: 出现 3 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Agentic Societies Need a Social Harness...](http://arxiv.org/abs/2609.17527v1)
+- [ScienceBuddy: Recursive-in-Recursive Self-Improvement for In...](http://arxiv.org/abs/2609.17523v1)
+- [PhysStream: Streaming Physics-Grounded Video Generation with...](http://arxiv.org/abs/2609.17521v1)
 
 ### 热门项目
 
