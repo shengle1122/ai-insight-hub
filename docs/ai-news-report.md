@@ -1,44 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月16日 03:11
+**生成时间**: 2026年09月17日 03:16
 
 ---
 
 ## 🎯 核心动态
 
-- **Musk's companies must explain why they dropped antitrust claims against Apple**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840
+- **Holy Grail of Rocketry**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.spacex.com/content/starship/holy-grail-of-rocketry
 
-- **AI is not going to kill you**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/
+- **Integer Palindromes – 2026 AIME I Problems/Problem 2**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/norvig/pytudes/blob/main/ipynb/palsum.ipynb
 
-- **Paying for frontier AI models buys 4-month head start at 5x the cost**
+- **AI models chatting in 'surreal' dialect mixing poetic language and techbrojargon**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight
+
+- **Scientists create mice with part-human brains**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
+  - 链接: https://www.theguardian.com/science/2026/sep/16/mice-part-human-brains-research
 
-- **Anthropic 25x CI in six months**
+- **Pangram AI Detection API**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic
-
-- **Every US Electrical Outlet Explained**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://practical.engineering/blog/2026/9/15/every-us-electrical-outlet-explained
+  - 链接: https://www.pangram.com/solutions/api
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 3 次
-- **model**: 出现 1 次
+- **LLM**: 出现 2 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Agentic Societies Need a Social Harness...](http://arxiv.org/abs/2609.17527v1)
-- [ScienceBuddy: Recursive-in-Recursive Self-Improvement for In...](http://arxiv.org/abs/2609.17523v1)
-- [PhysStream: Streaming Physics-Grounded Video Generation with...](http://arxiv.org/abs/2609.17521v1)
+- [Revisiting Distributed Sign-Based Variance Reduction...](http://arxiv.org/abs/2609.18656v1)
+- [Learning to Program Adaptive Non-Local Observables for Machi...](http://arxiv.org/abs/2609.18655v1)
+- [DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in Us...](http://arxiv.org/abs/2609.18649v1)
 
 ### 热门项目
 
