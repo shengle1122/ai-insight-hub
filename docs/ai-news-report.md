@@ -1,44 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月17日 03:16
+**生成时间**: 2026年09月18日 03:03
 
 ---
 
 ## 🎯 核心动态
 
-- **Holy Grail of Rocketry**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.spacex.com/content/starship/holy-grail-of-rocketry
+- **Hacking OpenAI**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.hacktron.ai/blog/hacking-openai
 
-- **Integer Palindromes – 2026 AIME I Problems/Problem 2**
+- **Low-Cost Servers for AI and Developers**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/norvig/pytudes/blob/main/ipynb/palsum.ipynb
+  - 链接: https://rawhq.io
 
-- **AI models chatting in 'surreal' dialect mixing poetic language and techbrojargon**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight
-
-- **Scientists create mice with part-human brains**
+- **A DeepSeek engineer just said the thing I've been feeling about AI for months**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theguardian.com/science/2026/sep/16/mice-part-human-brains-research
+  - 链接: https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/
 
-- **Pangram AI Detection API**
+- **Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.pangram.com/solutions/api
+  - 链接: https://asiaai.fyi/tech-index/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 2 次
+- **model**: 出现 4 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Revisiting Distributed Sign-Based Variance Reduction...](http://arxiv.org/abs/2609.18656v1)
-- [Learning to Program Adaptive Non-Local Observables for Machi...](http://arxiv.org/abs/2609.18655v1)
-- [DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in Us...](http://arxiv.org/abs/2609.18649v1)
+- [Coding Agents with an Obstacle-Aware Harness for Safe Robot ...](http://arxiv.org/abs/2609.20822v1)
+- [Embedding Models Measure in Peculiar Ways...](http://arxiv.org/abs/2609.20821v1)
+- [Workspace Models: Lightweight Robotic Memory via Saliency-Dr...](http://arxiv.org/abs/2609.20820v1)
 
 ### 热门项目
 
