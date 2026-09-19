@@ -1,33 +1,16 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月18日 03:03
+**生成时间**: 2026年09月19日 02:59
 
 ---
 
 ## 🎯 核心动态
-
-- **Hacking OpenAI**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.hacktron.ai/blog/hacking-openai
-
-- **Low-Cost Servers for AI and Developers**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://rawhq.io
-
-- **A DeepSeek engineer just said the thing I've been feeling about AI for months**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/
-
-- **Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://asiaai.fyi/tech-index/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 4 次
 - **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
 - **training**: 出现 1 次
 
 
