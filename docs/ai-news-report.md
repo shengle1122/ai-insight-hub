@@ -1,41 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月20日 03:14
+**生成时间**: 2026年09月21日 03:10
 
 ---
 
 ## 🎯 核心动态
 
-- **TanStack supply-chain attack exposed ~170 private CrowdSec repos**
-  - 来源: Hacker News | 热度: 6分
-  - 链接: https://www.crowdsec.net/blog/tanstack-supply-chain-attack-analysis
-
-- **AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.youtube.com/watch?v=0YIczZDCgsM
-
-- **The Ethics Issue of AI-Assisted Creation**
+- **Art of the Problem Launches $99 AI bot**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://im.not.ci/ai-creator-ethic/
+  - 链接: https://artoftheproblem.com/pages/growbot-preview
 
-- **Using system-one models inside high-throughput data pipelines**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.southbridge.ai/blog/jev-entity-resolution
+- **Chemical and Biological Weapons Explained – Brett Edwards (2024) [video]**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=x3J2w7-9XC8
 
-- **Is It a Flatpak? Is It an AppImage? No It's AppJail**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.youtube.com/watch?v=EBSMHBC0Phc
+- **Scammers found a way to make people drain their own wallets**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://twitter.com/wyckoffweb/status/2101671671727898870
+
+- **AI Weekly Warns Firms on Google AI Studio Data Retention Fraud**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **Claude**: 出现 2 次
+- **LLM**: 出现 1 次
+- **training**: 出现 1 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Designer-RSI: Evolving Procedural Memory from User Traffic f...](http://arxiv.org/abs/2609.22086v1)
+- [Cross-sector generalization of accident-process role classif...](http://arxiv.org/abs/2609.22081v1)
+- [CodeMidas: Scaling Agentic Coding RL Environments from Code ...](http://arxiv.org/abs/2609.22068v1)
 
 ### 热门项目
 
