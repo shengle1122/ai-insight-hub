@@ -1,41 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月21日 03:10
+**生成时间**: 2026年09月22日 03:10
 
 ---
 
 ## 🎯 核心动态
 
-- **Art of the Problem Launches $99 AI bot**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://artoftheproblem.com/pages/growbot-preview
+- **Turn ad-hoc subagents into durable, accountable AI teams**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://github.com/ringlochid/oh-my-subagents
 
-- **Chemical and Biological Weapons Explained – Brett Edwards (2024) [video]**
+- **Amazon blocks Meta's Muse AI assistant**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=x3J2w7-9XC8
+  - 链接: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
 
-- **Scammers found a way to make people drain their own wallets**
+- **China's AI Realism Is Not Conspiracy**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/wyckoffweb/status/2101671671727898870
+  - 链接: https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy
 
-- **AI Weekly Warns Firms on Google AI Studio Data Retention Fraud**
+- **Francis Fukuyama: Why I Changed My Mind About AI Risk**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google
+  - 链接: https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk
+
+- **OpenAI president and MAGA Inc. donor to attend Trump-Xi state dinner**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.politico.com/news/2026/09/21/openai-maga-donor-trump-xi-dinner-01086456
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **training**: 出现 1 次
-- **model**: 出现 1 次
+- **LLM**: 出现 2 次
+- **model**: 出现 2 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Designer-RSI: Evolving Procedural Memory from User Traffic f...](http://arxiv.org/abs/2609.22086v1)
-- [Cross-sector generalization of accident-process role classif...](http://arxiv.org/abs/2609.22081v1)
-- [CodeMidas: Scaling Agentic Coding RL Environments from Code ...](http://arxiv.org/abs/2609.22068v1)
+- [GameHorizon Suite: Multi-Horizon Data and Evaluation in Game...](http://arxiv.org/abs/2609.25001v1)
+- [Critical-State RL: Diagnosing Trainable States for Multi-Tur...](http://arxiv.org/abs/2609.24985v1)
+- [WorldCrafter: Consistent Video World Model with Implicit 3D-...](http://arxiv.org/abs/2609.24984v1)
 
 ### 热门项目
 
