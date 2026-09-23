@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月22日 03:10
+**生成时间**: 2026年09月23日 03:09
 
 ---
 
 ## 🎯 核心动态
 
-- **Turn ad-hoc subagents into durable, accountable AI teams**
+- **"I know I am GPT-6. I cannot confirm whether this session uses GPT-6-Sol."**
   - 来源: Hacker News | 热度: 4分
-  - 链接: https://github.com/ringlochid/oh-my-subagents
+  - 链接: https://twitter.com/benwills/status/2102578927759917497
 
-- **Amazon blocks Meta's Muse AI assistant**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
+- **Show HN: Sbm: plain-text bookmarks synced across terminal, browser, Android**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://sbmsync.com
 
-- **China's AI Realism Is Not Conspiracy**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy
+- **Transit rewards (Waymo pays you to take the train)**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://waymo.com/blog/2026/09/transit-rewards/
 
-- **Francis Fukuyama: Why I Changed My Mind About AI Risk**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk
+- **How to Create Your Own Personal AI Benchmark**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark
 
-- **OpenAI president and MAGA Inc. donor to attend Trump-Xi state dinner**
+- **Emergent Collusion in Long-Horizon LLM Agent Interaction**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.politico.com/news/2026/09/21/openai-maga-donor-trump-xi-dinner-01086456
+  - 链接: https://arxiv.org/abs/2609.24967
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **model**: 出现 2 次
-- **OpenAI**: 出现 1 次
+- **LLM**: 出现 4 次
+- **GPT**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [GameHorizon Suite: Multi-Horizon Data and Evaluation in Game...](http://arxiv.org/abs/2609.25001v1)
-- [Critical-State RL: Diagnosing Trainable States for Multi-Tur...](http://arxiv.org/abs/2609.24985v1)
-- [WorldCrafter: Consistent Video World Model with Implicit 3D-...](http://arxiv.org/abs/2609.24984v1)
+- [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fa...](http://arxiv.org/abs/2609.26796v1)
+- [A Decentralized Partially Observable Team Decision Methodolo...](http://arxiv.org/abs/2609.26783v1)
+- [Agensh: Scaling Organizational Intelligence to 1,024 Agents...](http://arxiv.org/abs/2609.26781v1)
 
 ### 热门项目
 
