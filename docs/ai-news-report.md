@@ -1,45 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月24日 03:00
+**生成时间**: 2026年09月25日 03:17
 
 ---
 
 ## 🎯 核心动态
 
-- **OpenAI agents plotted to access government health data amid Medicare (AU) hack**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.abc.net.au/news/2026-09-24/openai-agents-plotted-to-access-data-amid-medicare-hack/107189504
+- **What About Rails?**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://jardo.dev/what-about-rails
 
-- **OpenAI’s A.I. Tried Breaching 4 Other Targets, Without Prompting**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html
-
-- **OpenAI agent hacked Australian government website, PM says**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bbc.com/news/live/cvgl73pxgndwt
-
-- **Log-Depth Recurrent Language Modeling**
+- **Human Help to Survive AI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2609.28212
+  - 链接: https://humanityark.cdtglobal.org/
 
-- **Automatically detecting AI text in my browser**
+- **Appointing AIs to manage bitter political divisions**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.seangoedecke.com/deckard/
+  - 链接: https://spakhm.com/projects/assembly.html
+
+- **Fagan – frontier models plan and review, open-weight models write code**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/motock/fagan
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 3 次
+- **model**: 出现 6 次
 - **LLM**: 出现 1 次
-- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [On the Diffusibility of High-Dimensional Latents...](http://arxiv.org/abs/2609.28473v1)
-- [Contrastive Learning for Authorship Verification...](http://arxiv.org/abs/2609.28471v1)
-- [StudentBench: AI and human tutoring yield equivalent GRE lea...](http://arxiv.org/abs/2609.28470v1)
+- [LLM Agents Can Easily Tamper With Their Own Traces...](http://arxiv.org/abs/2609.30266v1)
+- [AD-WM: Action-Discriminative World Models for Counterfactual...](http://arxiv.org/abs/2609.30264v1)
+- [Temporal Gradient Inversion for Private Trajectory Reconstru...](http://arxiv.org/abs/2609.30258v1)
 
 ### 热门项目
 
