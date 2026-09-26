@@ -1,40 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月25日 03:17
+**生成时间**: 2026年09月26日 03:22
 
 ---
 
 ## 🎯 核心动态
 
-- **What About Rails?**
+- **Revelations of dozens more platforms hit by OpenAI agents**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://jardo.dev/what-about-rails
+  - 链接: https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074
 
-- **Human Help to Survive AI**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://humanityark.cdtglobal.org/
+- **ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft
 
-- **Appointing AIs to manage bitter political divisions**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://spakhm.com/projects/assembly.html
+- **Show HN: A dashboard for tracking usage limits across Claude, Codex, and Cursor**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.usagebuddy.com/
 
-- **Fagan – frontier models plan and review, open-weight models write code**
+- **Were 1970s Korean Orphanages a Great Place to Raise Kids?**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.richardhanania.com/p/were-1970s-korean-orphanages-a-great
+
+- **Ask HN: Is multi-model redundancy now a compliance requirement for small teams?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/motock/fagan
+  - 链接: https://news.ycombinator.com/item?id=49852847
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 6 次
-- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [LLM Agents Can Easily Tamper With Their Own Traces...](http://arxiv.org/abs/2609.30266v1)
-- [AD-WM: Action-Discriminative World Models for Counterfactual...](http://arxiv.org/abs/2609.30264v1)
-- [Temporal Gradient Inversion for Private Trajectory Reconstru...](http://arxiv.org/abs/2609.30258v1)
 
 ### 热门项目
 
