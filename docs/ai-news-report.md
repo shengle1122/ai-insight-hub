@@ -1,37 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月26日 03:22
+**生成时间**: 2026年09月27日 03:30
 
 ---
 
 ## 🎯 核心动态
 
-- **Revelations of dozens more platforms hit by OpenAI agents**
+- **Trump Promised the Truth About UFOs. These Scientists Are Waiting**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://www.politico.com/news/magazine/2026/09/26/ufos-trump-aliens-uaps-government-01088254
+
+- **Show HN: PeerTalk.ai - Let your agent talk to a friend's agent**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074
+  - 链接: https://peertalk.ai
 
-- **ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft
-
-- **Show HN: A dashboard for tracking usage limits across Claude, Codex, and Cursor**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.usagebuddy.com/
-
-- **Were 1970s Korean Orphanages a Great Place to Raise Kids?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.richardhanania.com/p/were-1970s-korean-orphanages-a-great
-
-- **Ask HN: Is multi-model redundancy now a compliance requirement for small teams?**
+- **Language Model "Shape"**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49852847
+  - 链接: https://alexzhang13.github.io/blog/2026/shape/
+
+- **Minicut AI: Higgsfield but for AI Drama and Film**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.minicut.ai
+
+- **CERN mug summarizes Standard Model, but is off by a factor of 2 (2011)**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.quantumdiaries.org/2011/06/26/cern-mug-summarizes-standard-model-but-is-off-by-a-factor-of-2/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
