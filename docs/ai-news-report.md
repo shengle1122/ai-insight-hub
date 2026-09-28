@@ -1,40 +1,46 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月27日 03:30
+**生成时间**: 2026年09月28日 03:28
 
 ---
 
 ## 🎯 核心动态
 
-- **Trump Promised the Truth About UFOs. These Scientists Are Waiting**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.politico.com/news/magazine/2026/09/26/ufos-trump-aliens-uaps-government-01088254
+- **Nissan's third generation e-POWER powertrain**
+  - 来源: Hacker News | 热度: 7分
+  - 链接: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
 
-- **Show HN: PeerTalk.ai - Let your agent talk to a friend's agent**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://peertalk.ai
+- **Thinking Fast and Slow in AI: The Role of Metacognition**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://arxiv.org/abs/2110.01834
 
-- **Language Model "Shape"**
+- **TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/
+
+- **Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://alexzhang13.github.io/blog/2026/shape/
+  - 链接: https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry
 
-- **Minicut AI: Higgsfield but for AI Drama and Film**
+- **RFPeptides: De novo design of protein-binding macrocycles using deep learning**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.minicut.ai
-
-- **CERN mug summarizes Standard Model, but is off by a factor of 2 (2011)**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.quantumdiaries.org/2011/06/26/cern-mug-summarizes-standard-model-but-is-off-by-a-factor-of-2/
+  - 链接: https://www.nature.com/articles/s41589-025-01929-w
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **model**: 出现 2 次
+- **LLM**: 出现 1 次
+- **OpenAI**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Learning to Stop without Learning to Stop: Self-Supervised C...](http://arxiv.org/abs/2609.31619v1)
+- [Gap-free Differentially Private PCA for Gaussian Data...](http://arxiv.org/abs/2609.31614v1)
+- [First-Order Stationarity of Reverse Diffusions...](http://arxiv.org/abs/2609.31612v1)
 
 ### 热门项目
 
