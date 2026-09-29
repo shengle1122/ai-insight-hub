@@ -1,46 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月28日 03:28
+**生成时间**: 2026年09月29日 04:04
 
 ---
 
 ## 🎯 核心动态
 
-- **Nissan's third generation e-POWER powertrain**
-  - 来源: Hacker News | 热度: 7分
-  - 链接: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
-
-- **Thinking Fast and Slow in AI: The Role of Metacognition**
+- **AI risk is not sentience by computers, it is negligence by humans**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2110.01834
+  - 链接: https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/
 
-- **TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/
-
-- **Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry**
+- **Energy Timelines Photovoltaic**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry
+  - 链接: https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php
 
-- **RFPeptides: De novo design of protein-binding macrocycles using deep learning**
+- **OpenAI scraps rollout of new model over safety concerns**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.nature.com/articles/s41589-025-01929-w
+  - 链接: https://www.bbc.com/news/articles/cm5y5nynl75ko
+
+- **Anthropic warns AI may pose 'existential risks to humanity' in IPO filing**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/
+
+- **Jev vs. Fruit Fly Brain solving a maze in Roblox [video]**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.youtube.com/watch?v=0zY_yzrcF9c
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
-- **LLM**: 出现 1 次
-- **OpenAI**: 出现 1 次
+- **model**: 出现 6 次
+- **OpenAI**: 出现 2 次
 - **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Learning to Stop without Learning to Stop: Self-Supervised C...](http://arxiv.org/abs/2609.31619v1)
-- [Gap-free Differentially Private PCA for Gaussian Data...](http://arxiv.org/abs/2609.31614v1)
-- [First-Order Stationarity of Reverse Diffusions...](http://arxiv.org/abs/2609.31612v1)
+- [Subgroup Rank-1 Lattice for Practical High-dimensional Black...](http://arxiv.org/abs/2609.35177v1)
+- [ProtoSeam: Lifting Classifier Training with Latent Gaussian ...](http://arxiv.org/abs/2609.35174v1)
+- [QAM: Quadratic-Accurate Checkpoint Merging via Sequential Co...](http://arxiv.org/abs/2609.35168v1)
 
 ### 热门项目
 
