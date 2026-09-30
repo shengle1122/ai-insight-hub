@@ -1,45 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月29日 04:04
+**生成时间**: 2026年09月30日 03:50
 
 ---
 
 ## 🎯 核心动态
 
-- **AI risk is not sentience by computers, it is negligence by humans**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/
+- **PSSA: A non-transformer language model written from scratch in Rust**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://github.com/Sparticle62ops/pssa
 
-- **Energy Timelines Photovoltaic**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php
+- **Amazon Crime and Other Tales of Billionaire Lying from the Data Center Wars**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://billmckibben.substack.com/p/amazon-crime
 
-- **OpenAI scraps rollout of new model over safety concerns**
+- **Fateshow – charts first, then AI readings you can check**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bbc.com/news/articles/cm5y5nynl75ko
+  - 链接: https://www.fateshow.site
 
-- **Anthropic warns AI may pose 'existential risks to humanity' in IPO filing**
+- **Ask HN: How do you handle hitting AI coding agent usage limits?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/
+  - 链接: https://news.ycombinator.com/item?id=49904074
 
-- **Jev vs. Fruit Fly Brain solving a maze in Roblox [video]**
+- **New LiteLLM Vulnerability: Privilege Escalation to Proxy Admin and RCE**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=0zY_yzrcF9c
+  - 链接: https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 6 次
-- **OpenAI**: 出现 2 次
+- **LLM**: 出现 4 次
 - **training**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Subgroup Rank-1 Lattice for Practical High-dimensional Black...](http://arxiv.org/abs/2609.35177v1)
-- [ProtoSeam: Lifting Classifier Training with Latent Gaussian ...](http://arxiv.org/abs/2609.35174v1)
-- [QAM: Quadratic-Accurate Checkpoint Merging via Sequential Co...](http://arxiv.org/abs/2609.35168v1)
+- [Skill-Space Shooting for Autonomous Robot Policy Improvement...](http://arxiv.org/abs/2609.38178v1)
+- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before An...](http://arxiv.org/abs/2609.38177v1)
+- [Breakdown of Local Denoising as Semantic Speciation...](http://arxiv.org/abs/2609.38176v1)
 
 ### 热门项目
 
