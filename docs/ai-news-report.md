@@ -1,45 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年09月30日 03:50
+**生成时间**: 2026年10月01日 03:59
 
 ---
 
 ## 🎯 核心动态
 
-- **PSSA: A non-transformer language model written from scratch in Rust**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://github.com/Sparticle62ops/pssa
-
-- **Amazon Crime and Other Tales of Billionaire Lying from the Data Center Wars**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://billmckibben.substack.com/p/amazon-crime
-
-- **Fateshow – charts first, then AI readings you can check**
+- **Google Grapples with Employee Skepticism About New Gemini Model**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.fateshow.site
+  - 链接: https://finance.yahoo.com/technology/ai/articles/google-grapples-employee-skepticism-gemini-195242680.html
 
-- **Ask HN: How do you handle hitting AI coding agent usage limits?**
+- **Ask HN: If AI took your job tomorrow, what is your plan?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=49904074
+  - 链接: https://news.ycombinator.com/item?id=49917455
 
-- **New LiteLLM Vulnerability: Privilege Escalation to Proxy Admin and RCE**
+- **The Six-Year Quest to Find the Mystery Woman in an 18th-Century Painting**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45
+  - 链接: https://www.wsj.com/arts-culture/fine-art/eleonora-painting-ontario-324850bc
+
+- **A local Workday job agent – rule-based resume tailoring, no AI**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/daliparthi/personal-job-agent
+
+- **Is sandboxing sufficient to contain rogue agents?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 4 次
-- **training**: 出现 1 次
+- **LLM**: 出现 2 次
 - **model**: 出现 1 次
+- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Skill-Space Shooting for Autonomous Robot Policy Improvement...](http://arxiv.org/abs/2609.38178v1)
-- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before An...](http://arxiv.org/abs/2609.38177v1)
-- [Breakdown of Local Denoising as Semantic Speciation...](http://arxiv.org/abs/2609.38176v1)
+- [Ranking-Aware Prompt Optimization for Multimodal Clinical Di...](http://arxiv.org/abs/2609.40361v1)
+- [Semifactual Credit-Augmented Policy Optimization...](http://arxiv.org/abs/2609.40360v1)
+- [Removing Timing Shortcuts Improves Non-Invasive Brain-to-Tex...](http://arxiv.org/abs/2609.40359v1)
 
 ### 热门项目
 
