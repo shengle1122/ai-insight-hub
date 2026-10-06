@@ -1,40 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月05日 03:54
+**生成时间**: 2026年10月06日 04:42
 
 ---
 
 ## 🎯 核心动态
 
-- **Calling AI 'other intelligence' better describes the advent of a new lifeform**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762
+- **The AI boom is making the cheapest smartphones disappear**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/
 
-- **Irrelevant visual details interfere with decisions under uncertainty**
+- **DGX Station GB300 Cluster: Two 400G DACs, and Frontier Models**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html
+  - 链接: https://www.storagereview.com/review/dgx-station-gb300-cluster-two-towers-two-400g-dacs
 
-- **Could a Large Language Model Be Conscious? – David J. Chalmers (2024)**
+- **Passing the Test You Trained On: Re-Evaluating Prompt-Injection Detectors**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2303.07103
+  - 链接: https://arxiv.org/abs/2610.03448
 
-- **The AI Safety community is unfortunately doing more harm than good**
+- **How LiteLLM Lens finds repeated failures across 1,000s of agent traces**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/knowerofmarkets/status/2105330652732125602
-
-- **Postgres: Are we reverting patches because of bugs found by AI?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/
+  - 链接: https://docs.litellm.ai/blog/lens-failure-patterns
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **model**: 出现 3 次
+- **LLM**: 出现 2 次
+- **training**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [One Figure, Every Canvas: Editable Flowchart Relayout via Ag...](http://arxiv.org/abs/2610.06852v1)
+- [Base Models Can Reason By Taking a Cue From Training Data...](http://arxiv.org/abs/2610.06851v1)
+- [BiasFlow: Geometric Monitoring and Backbone Regularization f...](http://arxiv.org/abs/2610.06846v1)
 
 ### 热门项目
 
