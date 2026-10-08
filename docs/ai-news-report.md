@@ -1,47 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月07日 04:09
+**生成时间**: 2026年10月08日 04:21
 
 ---
 
 ## 🎯 核心动态
 
-- **Claude Isn't Allowed to Write Me Prose**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://blog.kvit.app/posts/agent-not-allowed-to-write-prose/
-
-- **Jev isn't a better judge than Claude**
+- **Self-Modeling Interventions Modulate Emergent Misalignment**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://deeplearningguy.github.io/blog/jev-vs-claude-judge/
+  - 链接: https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment
 
-- **Show HN: NanoMuse – An open-source AI agent for your phone and computer**
+- **A Categorical Analysis of LLMs and the Symbol Grounding Problem (2025)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/nano-muse/nanoMuse
+  - 链接: https://arxiv.org/abs/2512.09117
 
-- **OpenWAM: An Open Framework for Composable World-Action Models**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://openwam.stanford.edu/
-
-- **Claude subscription plan provides more value than OpenAI's, study says**
+- **Show HN: Pacer – will your AI coding subscription last until the reset?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470
+  - 链接: https://github.com/dkremsa/claude-pacer
+
+- **AI Changed the Team, Not the Process**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.compile.la/ai-changed-the-team-not-the-process/
+
+- **Language-model ratings of depression reflect the rater more than the patient**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2610.08501
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 4 次
-- **model**: 出现 4 次
-- **Claude**: 出现 3 次
-- **OpenAI**: 出现 1 次
-- **training**: 出现 1 次
+- **LLM**: 出现 2 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [QF3: Fast Flow RL with Filtered Q-Gradients...](http://arxiv.org/abs/2610.08789v1)
-- [Conformal Prediction Sets Quantify Information Gain: A Theor...](http://arxiv.org/abs/2610.08785v1)
-- [4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Intera...](http://arxiv.org/abs/2610.08782v1)
 
 ### 热门项目
 
