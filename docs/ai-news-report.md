@@ -1,37 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月09日 04:26
+**生成时间**: 2026年10月10日 04:11
 
 ---
 
 ## 🎯 核心动态
 
-- **AI Economist, an installable agent skill for macro nowcasting**
+- **Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html
+
+- **Ethernet switch device driver model (switchdev)**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/garroshub/ai-economist-skill
+  - 链接: https://docs.kernel.org/networking/switchdev.html
 
-- **OpenAI used AI to write email warning Australian government AI had hacked**
+- **From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
+  - 链接: https://arxiv.org/abs/2610.11932
 
-- **Show HN: MindMesh – An AI workspace that prioritizes your work**
+- **The Desperate Hunt for AI Computing Power Is Upending Silicon Valley**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.mindmesh.global/
+  - 链接: https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9
 
-- **Automating Java API Integrations with Gemini CLI**
+- **AI disqualification yields new Nikon Small World in Motion winner**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313
+  - 链接: https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 2 次
 - **OpenAI**: 出现 1 次
-- **Gemini**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [CSF: Contextual Safety Filtering for Motion Generators...](http://arxiv.org/abs/2610.12467v1)
+- [On the estimation and validity of AI time horizons---a stati...](http://arxiv.org/abs/2610.12466v1)
+- [A Balanced Data Diet: Addressing the Exploration Bottleneck ...](http://arxiv.org/abs/2610.12465v1)
 
 ### 热门项目
 
