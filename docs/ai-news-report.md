@@ -1,36 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月10日 04:11
+**生成时间**: 2026年10月11日 03:49
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html
+- **A new AI model that renders generative visuals of what you see**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading
 
-- **Ethernet switch device driver model (switchdev)**
+- **Satya Nadella says we should assume all AI models are 'compromised'**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://docs.kernel.org/networking/switchdev.html
+  - 链接: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
 
-- **From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search**
+- **Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2610.11932
+  - 链接: https://github.com/vscarpenter/gsd-task-manager
 
-- **The Desperate Hunt for AI Computing Power Is Upending Silicon Valley**
+- **AI agents in a stand-up call**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9
+  - 链接: https://atoll92.github.io/agent-standup/
 
-- **AI disqualification yields new Nikon Small World in Motion winner**
+- **Human Art Launch – A daily showcase for independent visual artists**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/
+  - 链接: https://humanartlaunch.com
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
+- **model**: 出现 3 次
+- **LLM**: 出现 1 次
 - **OpenAI**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
