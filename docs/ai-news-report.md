@@ -1,22 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月12日 04:11
+**生成时间**: 2026年10月13日 05:20
 
 ---
 
 ## 🎯 核心动态
 
-- **Solving "who said what" across conversations (IEEE SLT 2026)**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://arxiv.org/abs/2609.39344
+- **Software engineers don't get to be Luddites about AI**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/
 
-- **As the military plans to speed up drones and AI use, Congress wants safeguards**
+- **Nixpkgs for the Front End Impaired**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired
+
+- **Show HN: Scentrail, a data explorer that keeps the reasoning behind your charts**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.wunc.org/military/2026-10-05/drones-ai-warfare-congress-considers-safeguards
+  - 链接: https://scentrail.io/
+
+- **How to stop your brain from rotting**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://scotto.me/blog/2026-10-12-how-to-stop-your-brain-from-rotting/
+
+- **LLM Agents Can Easily Tamper with Their Own Traces**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2609.30266
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **GPT**: 出现 2 次
+- **LLM**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
