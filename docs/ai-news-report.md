@@ -1,38 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月14日 03:24
+**生成时间**: 2026年10月15日 03:03
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic 2026 AUP Update**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://www.anthropic.com/news/2026-usage-policy-update
+- **Asia chip stocks fall, AI funding worries**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
 
-- **OpenAI Employee Uses "Unnamed Chatbot" to Spy on OpenAI, Gets Arrested by FBI**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://decodingvibes.com/blog/openai-employee-uses-unnamed-chatbot-to-spy-on-openai-gets-arrested-by-fbi/
+- **Kitty-GPT**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://kittygpt.org/
 
-- **Membrane – Structured persistent memory for local LLMs**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://github.com/chedim/membrane
-
-- **Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw**
+- **GPT-5.6 Sol has gone full potato again**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.npmjs.com/package/@genclass/runtime
+  - 链接: https://news.ycombinator.com/item?id=50098480
 
-- **To Keep Human Judgment, We Need AI Courts**
+- **The Ferranti Files: 40 Years of Sinclair Secrets Unearthed [video]**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts
+  - 链接: https://www.youtube.com/watch?v=jiW3P1rJRMc
+
+- **Why Andrew Ng believes AI won't destroy humanity**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 2 次
-- **LLM**: 出现 1 次
+- **LLM**: 出现 2 次
+- **GPT**: 出现 2 次
 - **model**: 出现 1 次
-- **GPT**: 出现 1 次
 
 
 ## 🔍 值得关注
