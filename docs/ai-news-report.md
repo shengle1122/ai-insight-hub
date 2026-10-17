@@ -1,37 +1,37 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月16日 03:00
+**生成时间**: 2026年10月17日 02:52
 
 ---
 
 ## 🎯 核心动态
 
-- **Accenture Tells Employees They Can Now Spend Only $29 on Claude per Month**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/
+- **Cloud computing is a trap, warns GNU founder Richard Stallman (2008)**
+  - 来源: Hacker News | 热度: 9分
+  - 链接: https://www.theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman
 
-- **Show HN: Firmenza – An AI employee for SAM.gov**
+- **China to Restrict Open-Weights Model Exports**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://firmenza.com
+  - 链接: https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/
 
-- **Ask HN: Thoughts about the Gemini Web app?**
+- **Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=50113145
+  - 链接: https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/
 
-- **AI training data and RL environment vendors**
+- **SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://whosellsdata.com/
+  - 链接: https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/
 
-- **Investors temper Anthropic IPO valuation expectations as revenue growth slows**
+- **Show HN: Let AI order DoorDash for me – under my watch – no playwright**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/
+  - 链接: https://www.wysebee.com
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 1 次
 - **training**: 出现 1 次
-- **Claude**: 出现 1 次
-- **Gemini**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
