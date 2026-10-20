@@ -1,39 +1,39 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月19日 03:07
+**生成时间**: 2026年10月20日 03:16
 
 ---
 
 ## 🎯 核心动态
 
-- **Using AI as a tutor to do math with pen and paper**
+- **Go will reject certificate chains containing eight distrusted SPKIs**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://twitter.com/nichochar/status/2111822781214294329
+  - 链接: https://github.com/golang/go/issues/82345
 
-- **The Paradox at the Heart of AI and Science – Terence Tao [video]**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=svl_1upFpQo
+- **Anthropic calls human attention the bottleneck in the botsitting world to come**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/
 
-- **What is the ultimate truth? We asked leading AI models**
+- **Alberta referendum: Province awaits results after delays on voting day**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://ultimatetruth.one
+  - 链接: https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777
 
-- **The Nick Cammarata Model of Happiness (Reconstructed from His Tweets)**
+- **Textideo Director – an AI video creation tool for scenes, shots**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://federicorcassarino.substack.com/p/the-nick-cammarata-model-of-happiness
+  - 链接: https://textideo.com/director
+
+- **Show HN: Search for AI-agents and usefulness score**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://xtract-production-2efc.up.railway.app/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Rethinking the design space of Vanilla Pixel Diffusion Trans...](http://arxiv.org/abs/2610.23854v1)
-- [Behavioral Couplings: From Formation to Behavioral Emergence...](http://arxiv.org/abs/2610.23847v1)
-- [AI-Driven Reproducibility and Analytical Robustness in Scien...](http://arxiv.org/abs/2610.23845v1)
 
 ### 热门项目
 
