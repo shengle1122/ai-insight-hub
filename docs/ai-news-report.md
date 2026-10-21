@@ -1,34 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月20日 03:16
+**生成时间**: 2026年10月21日 03:11
 
 ---
 
 ## 🎯 核心动态
 
-- **Go will reject certificate chains containing eight distrusted SPKIs**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://github.com/golang/go/issues/82345
+- **Trump DHS admits it invented child abuse claims against activist to unlock phone**
+  - 来源: Hacker News | 热度: 9分
+  - 链接: https://www.rawstory.com/samuel-tunick-trump-border-patrol/
 
-- **Anthropic calls human attention the bottleneck in the botsitting world to come**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/
-
-- **Alberta referendum: Province awaits results after delays on voting day**
+- **Who Created This AWS Resource? Find Out with CloudTrail, Even After 90 Days**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777
+  - 链接: https://cloudsleuth.io/blog/who-created-this-aws-resource/
 
-- **Textideo Director – an AI video creation tool for scenes, shots**
+- **Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://textideo.com/director
+  - 链接: https://mulgadc.com/blog/blueprints-not-prompts-tla-plus
 
-- **Show HN: Search for AI-agents and usefulness score**
+- **Nano Banana 2.1 – Model Card**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://xtract-production-2efc.up.railway.app/
+  - 链接: https://deepmind.google/models/model-cards/nano-banana-2-1/
+
+- **Show HN: acplause – An ACP agent for OpenAI-compatible APIs**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/anesthetised/acplause
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **OpenAI**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
