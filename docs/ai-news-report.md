@@ -1,41 +1,32 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月21日 03:11
+**生成时间**: 2026年10月22日 03:09
 
 ---
 
 ## 🎯 核心动态
 
-- **Trump DHS admits it invented child abuse claims against activist to unlock phone**
-  - 来源: Hacker News | 热度: 9分
-  - 链接: https://www.rawstory.com/samuel-tunick-trump-border-patrol/
-
-- **Who Created This AWS Resource? Find Out with CloudTrail, Even After 90 Days**
+- **Flapping Airplanes**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://cloudsleuth.io/blog/who-created-this-aws-resource/
+  - 链接: https://flappingairplanes.com/
 
-- **Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code**
+- **Nokia, T-Mobile and Nvidia complete first AI-RAN call**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://mulgadc.com/blog/blueprints-not-prompts-tla-plus
-
-- **Nano Banana 2.1 – Model Card**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://deepmind.google/models/model-cards/nano-banana-2-1/
-
-- **Show HN: acplause – An ACP agent for OpenAI-compatible APIs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/anesthetised/acplause
+  - 链接: https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **OpenAI**: 出现 1 次
+- **LLM**: 出现 3 次
 - **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero...](http://arxiv.org/abs/2610.30132v1)
+- [Think Harder Where It Matters: Item-Level Adaptive Recursion...](http://arxiv.org/abs/2610.30128v1)
+- [PhysiCalWorld: In-Context Physics Calibration for World Mode...](http://arxiv.org/abs/2610.30125v1)
 
 ### 热门项目
 
