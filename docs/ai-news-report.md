@@ -1,37 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月23日 03:15
+**生成时间**: 2026年10月24日 03:09
 
 ---
 
 ## 🎯 核心动态
 
-- **See how Big Tech is transforming Spain's landscape**
+- **Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques**
+  - 来源: Hacker News | 热度: 27分
+  - 链接: https://www.sciencedaily.com/releases/2026/10/261018084421.htm
+
+- **Anthropic employee tells students their careers may not exist by graduation**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://twitter.com/cheaf25master/status/2113261574194659368
+
+- **Meta says if its AI makes a mistake, it will legally be the customer's fault**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://text.npr.org/nx-s1-5991641
+  - 链接: https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html
 
-- **The Signal Chats That Cost OpenAI Researchers Their Jobs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853
+- **Google changes privacy policy so Gmail, Photos could fuel targeted ads**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-ads-3421462/
 
-- **AI RSS reader with summaries – Brew beta**
+- **OpenAI disables internet access during model training**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://testflight.apple.com/join/CgRdkqc4
-
-- **Show HN: TenseMem – deterministic memory for AI agents**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/tensemem/tensemem
-
-- **The Surprising Popularity of AI**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai
+  - 链接: https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
 - **LLM**: 出现 2 次
+- **model**: 出现 2 次
 - **OpenAI**: 出现 1 次
-- **model**: 出现 1 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
