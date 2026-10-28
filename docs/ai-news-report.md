@@ -1,31 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月27日 03:35
+**生成时间**: 2026年10月28日 03:51
 
 ---
 
 ## 🎯 核心动态
 
-- **Kazakhstan Expands Compute for Its AI Future**
+- **Show HN: The New Way to Make AI UGC Ads in 2026**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.aivideosugc.com/ai-video-generation
+
+- **Tiny Desk AI – Turn yourself and friends into an "Outstanding" meme video**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/
+  - 链接: https://tiny-desk-ai.app/
 
-- **Micron Taiwan increasing salaries for factory workers by 2.7X**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://ec.ltn.com.tw/article/breakingnews/5619258
+- **Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.cirkit.us/demo/
 
-- **Latai – run GGUF compliant/local models upto 35 MB on edge**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://hitl.systems/libs/latai/
+- **A bust-up between mathematicians fuels fears that AI could undermine science**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.bbc.com/news/articles/c6gelgxjwzdzo
 
-- **Worm armed 42 GitHub repos by hiding a payload too big to fail**
+- **DeltaDB now has a Claude Code plugin**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570
+  - 链接: https://delta.dev/blog/claude-code-multiplayer
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
