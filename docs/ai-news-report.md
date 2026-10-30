@@ -1,40 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月29日 04:14
+**生成时间**: 2026年10月30日 04:14
 
 ---
 
 ## 🎯 核心动态
 
-- **Claude Code burns ~15–20% of your tokens on a 3-word status line**
-  - 来源: Hacker News | 热度: 57分
-  - 链接: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+- **AI killed my software career [video]**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://www.youtube.com/watch?v=cwsy-6gu5p4
 
-- **Show HN: Real Time AI Heat Map Sourced from over 140 News Feeds**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://ai-news.jagular.io/
+- **I Built the Most AI-Pilled Company in the World**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://twitter.com/jsnnsa/status/2115623382721126826
 
-- **Who's Ahead in the Global AI Talent Race?**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race
+- **Building oversight tools into a model's weights**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://divagr.com/blog/building-oversight-tools-into-a-models-weights
 
-- **iPhone Duo Teardown – Apple's IP68 rating fails along with the display [video]**
+- **Same agent-memory accuracy with 8x fewer tokens by changing the embedding model**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/watch?v=_Xe2JAoMwIA
+  - 链接: https://github.com/goyohan0611-png/turnbook
+
+- **Show HN: HiPath AI – CS learning roadmaps where a quiz unlocks each lesson**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.hipathai.me
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **model**: 出现 4 次
+- **training**: 出现 2 次
 - **LLM**: 出现 1 次
-- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficien...](http://arxiv.org/abs/2610.37668v1)
-- [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics R...](http://arxiv.org/abs/2610.37666v1)
-- [When Should We Intervene at Test Time?...](http://arxiv.org/abs/2610.37658v1)
+- [Does Federated Training Degrade Explainability? A Comparativ...](http://arxiv.org/abs/2610.39483v1)
+- [Topology Survives Shuffling: Robust Long-Context Memory Acce...](http://arxiv.org/abs/2610.39477v1)
+- [Soei: Structured Observability of Evidence and Intent for Mu...](http://arxiv.org/abs/2610.39468v1)
 
 ### 热门项目
 
