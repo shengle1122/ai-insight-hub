@@ -1,45 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月30日 04:14
+**生成时间**: 2026年10月31日 03:55
 
 ---
 
 ## 🎯 核心动态
 
-- **AI killed my software career [video]**
+- **OpenAI raises less than half of $30B target**
   - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.youtube.com/watch?v=cwsy-6gu5p4
+  - 链接: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5
 
-- **I Built the Most AI-Pilled Company in the World**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://twitter.com/jsnnsa/status/2115623382721126826
-
-- **Building oversight tools into a model's weights**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://divagr.com/blog/building-oversight-tools-into-a-models-weights
-
-- **Same agent-memory accuracy with 8x fewer tokens by changing the embedding model**
+- **ResumeFitting – AI resume ATS gap analysis and keyword matching**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/goyohan0611-png/turnbook
+  - 链接: https://resumefitting.com
 
-- **Show HN: HiPath AI – CS learning roadmaps where a quiz unlocks each lesson**
+- **I Hate Online Waiting Rooms**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.hipathai.me
+  - 链接: https://mayberay.bearblog.dev/i-hate-online-waiting-rooms-using-lotteries-to-make-event-ticket-sales-fairer-in-south-africa/
+
+- **How the built-in browsers in five AI coding tools broke basic browser rules**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html
+
+- **VX100 and AXM2 Reference for DIY AI Hardware Projects**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/pigeon-labs-stack/v100-sxm2-reference
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
-- **training**: 出现 2 次
-- **LLM**: 出现 1 次
+- **model**: 出现 3 次
+- **OpenAI**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Does Federated Training Degrade Explainability? A Comparativ...](http://arxiv.org/abs/2610.39483v1)
-- [Topology Survives Shuffling: Robust Long-Context Memory Acce...](http://arxiv.org/abs/2610.39477v1)
-- [Soei: Structured Observability of Evidence and Intent for Mu...](http://arxiv.org/abs/2610.39468v1)
+- [Elucidating the Design Space of LM Data Attribution...](http://arxiv.org/abs/2610.40655v1)
+- [Propose-Filter-Release: Scaling Noise to Typical Sensitivity...](http://arxiv.org/abs/2610.40654v1)
+- [Rethinking Neural Thickets Without Weight Perturbations...](http://arxiv.org/abs/2610.40649v1)
 
 ### 热门项目
 
