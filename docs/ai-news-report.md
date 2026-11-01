@@ -1,36 +1,32 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年10月31日 03:55
+**生成时间**: 2026年11月01日 04:10
 
 ---
 
 ## 🎯 核心动态
 
-- **OpenAI raises less than half of $30B target**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5
+- **Chinese markets lose trillions as race for AI supremacy with US takes its toll**
+  - 来源: Hacker News | 热度: 7分
+  - 链接: https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing
 
-- **ResumeFitting – AI resume ATS gap analysis and keyword matching**
+- **We're Training a Figma-Fluent Editing Model**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://resumefitting.com
+  - 链接: https://www.figma.com/blog/training-a-figma-fluent-editing-model/
 
-- **I Hate Online Waiting Rooms**
+- **I replaced macOS say with local neural speech**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://mayberay.bearblog.dev/i-hate-online-waiting-rooms-using-lotteries-to-make-event-ticket-sales-fairer-in-south-africa/
+  - 链接: https://www.lukasrieder.com/blog/i-replaced-macos-say-with-local-neural-speech/
 
-- **How the built-in browsers in five AI coding tools broke basic browser rules**
+- **I recreated subvocal in 9 minutes with one prompt for AirPods Pro 3**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html
-
-- **VX100 and AXM2 Reference for DIY AI Hardware Projects**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/pigeon-labs-stack/v100-sxm2-reference
+  - 链接: https://twitter.com/joeblau/status/2116347756138856734
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **OpenAI**: 出现 1 次
+- **model**: 出现 4 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
