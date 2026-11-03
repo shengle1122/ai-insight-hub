@@ -1,40 +1,42 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月02日 04:14
+**生成时间**: 2026年11月03日 05:12
 
 ---
 
 ## 🎯 核心动态
 
-- **Personality Traits and Career Success: Understanding Workplace Dynamics [pdf]**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.rieti.go.jp/jp/publications/dp/25e105.pdf
+- **AI advisors debate your business decision in Claude Code**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://github.com/nateherkai/roast-room
 
-- **GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains**
+- **Test and verification technique effectiveness with GPT-6 Astra**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities
+  - 链接: https://danluu.com/astra-testing/
 
-- **The Economic Paradox of AI-Generated Software**
+- **Thoughts on LLMs Editing Weights: What's New?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c
+  - 链接: https://ycao.net/posts/llm-rw-weights
 
-- **WeSesh: Pair Programming with Coding Agents**
+- **VeilCC – AI-resistant binary hardening that seals critical logic**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://wesesh.com/
+  - 链接: https://veilcc.com/
+
+- **Is hosting an open-source inference engine profitable?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://userecurrence.ai/research/is-hosting-open-source-inference-profitable
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
-- **training**: 出现 1 次
+- **LLM**: 出现 1 次
+- **GPT**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [From 1D Benchmarks to Complex 3D Geometries: Can Agents Reli...](http://arxiv.org/abs/2610.41267v1)
-- [Rome Wasn't Built in One Turn: Replay-Grounded Reward Signal...](http://arxiv.org/abs/2610.41264v1)
-- [MEMIG: Self-evolving Memory Construction for Antibody Optimi...](http://arxiv.org/abs/2610.41245v1)
 
 ### 热门项目
 
