@@ -1,36 +1,43 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月05日 04:57
+**生成时间**: 2026年11月06日 04:57
 
 ---
 
 ## 🎯 核心动态
 
-- **What's the worst bug an AI coding agent silently introduced into your code?**
+- **How accurately did science fiction stories predict AI?**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://jamesyu.org/science-fiction-predictions-of-ai/
+
+- **Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears
+
+- **US FAA says it will phase out floppy disks from air traffic control by 2028**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://news.ycombinator.com/item?id=50374984
+  - 链接: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/
 
-- **Open-weight AI models can exploit the patch gap**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://epoch.ai/publications/open-weight-models-patch-gap
+- **Codetations: Rich, Granular, and Maintainable Annotations for Evolving Code**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://ztatlock.net/pubs/2026-uist-codetations/
 
-- **Rack Community: a self-hosted AI lab whose job runner won't overload the box**
+- **Personality traits are less stable than people think**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/ohhbeehave35-commits/rack-community
-
-- **Show HN: Rendro – fills in security questionnaires and RFPs from your own docs**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.rendro.net
+  - 链接: https://www.nature.com/articles/s44271-026-00515-7
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 1 次
+- **LLM**: 出现 3 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Automatic keyphrase extraction and annotation: modern theore...](http://arxiv.org/abs/2611.08006v1)
+- [Towards Multiscale Molecular Representation Learning through...](http://arxiv.org/abs/2611.07998v1)
+- [Compression Through a Context Lens: Evaluating Adaptation, Q...](http://arxiv.org/abs/2611.07988v1)
 
 ### 热门项目
 
