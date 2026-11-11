@@ -1,45 +1,33 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月10日 05:51
+**生成时间**: 2026年11月11日 04:34
 
 ---
 
 ## 🎯 核心动态
 
-- **I don't want AI in my online search. What options do I have?**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://theconversation.com/i-dont-want-ai-in-my-online-search-what-options-do-i-have-295875
-
-- **The race to secure record-like information for domains**
+- **LLMs is the best game I've ever played**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/
+  - 链接: https://twitter.com/skorotkiewicz/status/2120373611974541390
 
-- **FLEY AI-Voce – a voice AI assistant you but can also control your PC and phone**
+- **Why are AI.Engineer talks/transcripts/presentations not available for attendes?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=50436493
+  - 链接: https://news.ycombinator.com/item?id=50449728
 
-- **Affair Bench: The public record of private affairs.**
+- **Ant Group's Robbyant open-sources tactile AI model for robot hands**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://affairbench.com
-
-- **Show HN: Calculators for token costs and Claude Code API budgets**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://modelfold.ai/tools/claude-code-cost
+  - 链接: https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
 - **LLM**: 出现 1 次
-- **Claude**: 出现 1 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [TID System for Speech-COSER Challenge 2026: ASR Track...](http://arxiv.org/abs/2611.11497v1)
-- [Regret without Optimal-Arm Feedback under Reward-Dependent D...](http://arxiv.org/abs/2611.11494v1)
-- [Learning through Capacity Awareness to Minimize Hospital Rea...](http://arxiv.org/abs/2611.11493v1)
 
 ### 热门项目
 
