@@ -1,33 +1,45 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月11日 04:34
+**生成时间**: 2026年11月12日 05:38
 
 ---
 
 ## 🎯 核心动态
 
-- **LLMs is the best game I've ever played**
+- **Why AI Coding Agents Lose Context After the PR, and How to Keep It**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/skorotkiewicz/status/2120373611974541390
+  - 链接: https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr
 
-- **Why are AI.Engineer talks/transcripts/presentations not available for attendes?**
+- **Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=50449728
+  - 链接: https://www.youtube.com/watch?v=WPj3aQ-xxpI
 
-- **Ant Group's Robbyant open-sources tactile AI model for robot hands**
+- **Show HN: Unglazed – paper-to-explainer-video tool that gets every detail**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/
+  - 链接: https://github.com/ShadowKingYT444/unglazed
+
+- **Show HN: Claims about your life, proved with your own numbers**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://lifetheorem.com
+
+- **What happens to the AI industry if Nvidia falters**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **model**: 出现 1 次
+- **model**: 出现 5 次
+- **training**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Medical Image Segmentation: Foundation Model Adaptation vers...](http://arxiv.org/abs/2611.14519v1)
+- [Toward Foundation Detection Models via Example-Based Groundi...](http://arxiv.org/abs/2611.14518v1)
+- [TorchCurves: Differentiable Parametric Curves...](http://arxiv.org/abs/2611.14516v1)
 
 ### 热门项目
 
