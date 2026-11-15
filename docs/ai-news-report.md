@@ -1,35 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月14日 04:49
+**生成时间**: 2026年11月15日 04:41
 
 ---
 
 ## 🎯 核心动态
 
-- **MathHelm: A Place to discuss AI-generated papers**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://mathhelm.org/
-
-- **Ferrari's Business Model Is Insane**
+- **Kiri – The Modern Container Runtime**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.tradingview.com/chart/RACE/awwoRgDb-RACE-Why-Ferrari-Is-Nothing-Like-Other-Car-Manufacturers/
+  - 链接: https://runkiri.com/
 
-- **Where Work Experience Can Fail**
+- **Show HN: Gawain – Require type hints on all Python variables**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://carlsonschool.umn.edu/news/where-work-experience-can-fail
+  - 链接: https://github.com/matheuzgomes/gawain
 
-- **Sick of Herding AI Cats?**
+- **Anthropic, can you please make up your mind with your models?**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://clowder.sh
+  - 链接: https://news.ycombinator.com/item?id=50504061
 
-- **Neuron turns model into conspiracy theorist**
+- **Songs That Explain America**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://x.com/StationhouseAI/status/2121393278407123388
+  - 链接: https://www.theatlantic.com/culture/2026/09/50-songs-explain-america-playlist/687598/
+
+- **Training Your Replacement: Worker Incentives and the Pace of Automation**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.nber.org/papers/w35950
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
+- **training**: 出现 2 次
+- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
