@@ -1,37 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月17日 06:23
+**生成时间**: 2026年11月18日 05:47
 
 ---
 
 ## 🎯 核心动态
 
-- **Tech leaders are convinced that Jensen Huang's exit was a plot against him**
-  - 来源: Hacker News | 热度: 8分
-  - 链接: https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories
+- **I had AI read my field**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://science.caseyhandmer.com/physics/
 
-- **GitHub Copilot models deprecated on November 16, 2026**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/
-
-- **LLMs are terrible at designing AI systems**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/
-
-- **Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows**
+- **Harvard Study: Workers switch apps 900 times a day. After AI, switching drops**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows
+  - 链接: https://arxiv.org/abs/2607.06681
+
+- **Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://news.ycombinator.com/item?id=50542286
+
+- **Classical Energies Learn to Reason 1k× Faster Than Looped Models**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://arxiv.org/abs/2611.17309
+
+- **Purpose-Governed Agents: who reviews how an AI agent describes its own proposals**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://zenodo.org/records/23778866
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **model**: 出现 1 次
+- **model**: 出现 7 次
+- **LLM**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temp...](http://arxiv.org/abs/2611.23229v1)
+- [Spool: Low-Latency Streaming Inference for Hybrid Vision-Lan...](http://arxiv.org/abs/2611.23228v1)
+- [StringQFT: A Multiuse Textbook Resource for AI-Assisted Theo...](http://arxiv.org/abs/2611.23225v1)
 
 ### 热门项目
 
