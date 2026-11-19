@@ -1,44 +1,41 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月18日 05:47
+**生成时间**: 2026年11月19日 05:47
 
 ---
 
 ## 🎯 核心动态
 
-- **I had AI read my field**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://science.caseyhandmer.com/physics/
+- **Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits**
+  - 来源: Hacker News | 热度: 4分
+  - 链接: https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/
 
-- **Harvard Study: Workers switch apps 900 times a day. After AI, switching drops**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2607.06681
+- **Will Wright's next simulation will use AI to mine content from your memories**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/
 
-- **Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?**
+- **An LLM workflow that reproduces, improves, extends published economics research**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://news.ycombinator.com/item?id=50542286
+  - 链接: https://www.nber.org/papers/w35782
 
-- **Classical Energies Learn to Reason 1k× Faster Than Looped Models**
+- **Vals AI – Compare AI models across real-world benchmarks**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2611.17309
+  - 链接: https://www.vals.ai/comparison
 
-- **Purpose-Governed Agents: who reviews how an AI agent describes its own proposals**
+- **Wait for pull request events with GitHub CLI**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://zenodo.org/records/23778866
+  - 链接: https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 7 次
-- **LLM**: 出现 2 次
+- **model**: 出现 2 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temp...](http://arxiv.org/abs/2611.23229v1)
-- [Spool: Low-Latency Streaming Inference for Hybrid Vision-Lan...](http://arxiv.org/abs/2611.23228v1)
-- [StringQFT: A Multiuse Textbook Resource for AI-Assisted Theo...](http://arxiv.org/abs/2611.23225v1)
 
 ### 热门项目
 
