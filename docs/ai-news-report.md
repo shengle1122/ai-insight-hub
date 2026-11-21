@@ -1,37 +1,34 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月20日 05:36
+**生成时间**: 2026年11月21日 05:30
 
 ---
 
 ## 🎯 核心动态
 
-- **Google is pushing OEMs against GrapheneOS and bootloader unlocking**
-  - 来源: Hacker News | 热度: 7分
-  - 链接: https://grapheneos.social/@GrapheneOS/117645038299496084
-
-- **Foundering of the sailing yacht Bayesian with the loss of seven lives**
-  - 来源: Hacker News | 热度: 4分
-  - 链接: https://www.gov.uk/maib-reports/foundering-of-the-sailing-yacht-bayesian-with-the-loss-of-seven-lives
-
-- **I benchmarked 22 local LLMs looking for the Qwen 3.8 35B we didn't get**
+- **Don't Play Anthropic's Game**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://sevangelatos.github.io/spiruxbench-results/blog/
+  - 链接: https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html
 
-- **Autonomous Trail Racing**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://pages.rai-inst.com/autonomous-trail-racing/
-
-- **RPEG: Training Reasoning Language Models Scalably and Cost-Effectively**
+- **Make America Function Again**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://arxiv.org/abs/2611.09207
+  - 链接: https://www.thenation.com/article/politics/make-america-function-again/
+
+- **iPhone Air Feedback**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.rubenerd.au/iphone-air-feedback/
+
+- **Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md
+
+- **Robust Handshake Dynamics for High Uncertainty Environments**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://thoughtcurrents.substack.com/p/robust-handshake-dynamics-for-high
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 1 次
-- **training**: 出现 1 次
-- **model**: 出现 1 次
 
 
 ## 🔍 值得关注
