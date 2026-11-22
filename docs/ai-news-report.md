@@ -1,39 +1,36 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月21日 05:30
+**生成时间**: 2026年11月22日 04:55
 
 ---
 
 ## 🎯 核心动态
 
-- **Don't Play Anthropic's Game**
+- **Ask HN: Are you prepared to rent intelligence from AI providers?**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html
+  - 链接: https://news.ycombinator.com/item?id=50596041
 
-- **Make America Function Again**
+- **Show HN: Vouch – See what AI assistants say about your brand mid-conversation**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.thenation.com/article/politics/make-america-function-again/
+  - 链接: https://vouchgeo.com
 
-- **iPhone Air Feedback**
+- **Waymo plows through crossing gate after getting stuck on train tracks [video]**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.rubenerd.au/iphone-air-feedback/
-
-- **Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md
-
-- **Robust Handshake Dynamics for High Uncertainty Environments**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://thoughtcurrents.substack.com/p/robust-handshake-dynamics-for-high
+  - 链接: https://www.youtube.com/shorts/UiNIHWfbPRQ
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
+- **LLM**: 出现 2 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
+- [RL Post-Training in Diffusion Transformers Is Activation Ste...](http://arxiv.org/abs/2611.26627v1)
+- [PlayCraft: Designing Engaging Games from Agent Play Experien...](http://arxiv.org/abs/2611.26624v1)
+- [TideCache: Efficient Hybrid LLM Serving with Transparent Cac...](http://arxiv.org/abs/2611.26619v1)
 
 ### 热门项目
 
