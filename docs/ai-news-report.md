@@ -1,36 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月22日 04:55
+**生成时间**: 2026年11月23日 05:37
 
 ---
 
 ## 🎯 核心动态
 
-- **Ask HN: Are you prepared to rent intelligence from AI providers?**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.ycombinator.com/item?id=50596041
+- **GLM-5.4 is now available to all GLM Coding Plan users**
+  - 来源: Hacker News | 热度: 5分
+  - 链接: https://twitter.com/ZixuanLi_/status/2124719275864670681
 
-- **Show HN: Vouch – See what AI assistants say about your brand mid-conversation**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://vouchgeo.com
+- **San Francisco is enjoying an AI boom, but worries about a crash are growing**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.bbc.com/news/articles/cqe9k09j9jv4o
 
-- **Waymo plows through crossing gate after getting stuck on train tracks [video]**
+- **Show HN: Kavach AI – Sub-16ms AST security gate with 0% false positives**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.youtube.com/shorts/UiNIHWfbPRQ
+  - 链接: https://github.com/rajrajak99/kavach-ai
+
+- **Blocked for AI Reply**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://blockedforaireply.levels.io
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **LLM**: 出现 2 次
-- **training**: 出现 1 次
+- **model**: 出现 4 次
+- **LLM**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [RL Post-Training in Diffusion Transformers Is Activation Ste...](http://arxiv.org/abs/2611.26627v1)
-- [PlayCraft: Designing Engaging Games from Agent Play Experien...](http://arxiv.org/abs/2611.26624v1)
-- [TideCache: Efficient Hybrid LLM Serving with Transparent Cac...](http://arxiv.org/abs/2611.26619v1)
+- [Budgeted Subset Selection with a Transferable Learned Value ...](http://arxiv.org/abs/2611.27751v1)
+- [RoSci: Exploring Robustness in Science VLMs...](http://arxiv.org/abs/2611.27750v1)
+- [Shared Understanding in Human-AI Teams: Coordination Continu...](http://arxiv.org/abs/2611.27746v1)
 
 ### 热门项目
 
