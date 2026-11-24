@@ -1,40 +1,40 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月23日 05:37
+**生成时间**: 2026年11月24日 08:16
 
 ---
 
 ## 🎯 核心动态
 
-- **GLM-5.4 is now available to all GLM Coding Plan users**
-  - 来源: Hacker News | 热度: 5分
-  - 链接: https://twitter.com/ZixuanLi_/status/2124719275864670681
+- **Anthropic CEO Dario Amodei Sold $280M in Shares as Part of Record IPO**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo
 
-- **San Francisco is enjoying an AI boom, but worries about a crash are growing**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.bbc.com/news/articles/cqe9k09j9jv4o
+- **The Elegant DNA Repair System Makes Gene Editing Work**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/
 
-- **Show HN: Kavach AI – Sub-16ms AST security gate with 0% false positives**
+- **Many Languages, One Common Neural Code**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://news.mit.edu/2026/many-languages-one-common-neural-code-1123
+
+- **Linux Foundation Welcomes Trace for Verifiable Runtime Evidence for AI Workloads**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://github.com/rajrajak99/kavach-ai
-
-- **Blocked for AI Reply**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://blockedforaireply.levels.io
+  - 链接: https://www.linuxfoundation.org/press/linux-foundation-welcomes-trace-to-advance-verifiable-runtime-evidence-for-ai-workloads
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 4 次
-- **LLM**: 出现 1 次
+- **model**: 出现 3 次
+- **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [Budgeted Subset Selection with a Transferable Learned Value ...](http://arxiv.org/abs/2611.27751v1)
-- [RoSci: Exploring Robustness in Science VLMs...](http://arxiv.org/abs/2611.27750v1)
-- [Shared Understanding in Human-AI Teams: Coordination Continu...](http://arxiv.org/abs/2611.27746v1)
+- [TrialAgentBench: Evaluating AI Agents for Clinical-Trial Ana...](http://arxiv.org/abs/2611.30916v1)
+- [Replay Before You Reply: Second-Look Prompting for Unified M...](http://arxiv.org/abs/2611.30909v1)
+- [DexLatentWorld: 3D Cross-Embodiment Latent Action World Mode...](http://arxiv.org/abs/2611.30907v1)
 
 ### 热门项目
 
