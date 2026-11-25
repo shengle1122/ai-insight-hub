@@ -1,40 +1,44 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月24日 08:16
+**生成时间**: 2026年11月25日 06:52
 
 ---
 
 ## 🎯 核心动态
 
-- **Anthropic CEO Dario Amodei Sold $280M in Shares as Part of Record IPO**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo
+- **Investigation uncovers influencers paid to promote Nvidia to China**
+  - 来源: Hacker News | 热度: 3分
+  - 链接: https://www.techradar.com/pro/days-after-nvidia-ceo-resigned-journalists-unearth-covert-influence-operation-using-right-wing-outlets-to-promote-nvidia-ai-chip-export-to-china
 
-- **The Elegant DNA Repair System Makes Gene Editing Work**
+- **AI consumes less water per dollar spent than almond milk or golf**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/
+  - 链接: https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/
 
-- **Many Languages, One Common Neural Code**
+- **Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://news.mit.edu/2026/many-languages-one-common-neural-code-1123
+  - 链接: https://github.com/sao-coding/sightline
 
-- **Linux Foundation Welcomes Trace for Verifiable Runtime Evidence for AI Workloads**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://www.linuxfoundation.org/press/linux-foundation-welcomes-trace-to-advance-verifiable-runtime-evidence-for-ai-workloads
+- **Russia's own figures cite 500k deaths in Ukraine War**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.bbc.com/news/articles/cmx27g533zwyo
+
+- **The Docs AI Toolkit**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.gitbook.com/blog/docs-ai-toolkit
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 3 次
+- **model**: 出现 5 次
 - **training**: 出现 1 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [TrialAgentBench: Evaluating AI Agents for Clinical-Trial Ana...](http://arxiv.org/abs/2611.30916v1)
-- [Replay Before You Reply: Second-Look Prompting for Unified M...](http://arxiv.org/abs/2611.30909v1)
-- [DexLatentWorld: 3D Cross-Embodiment Latent Action World Mode...](http://arxiv.org/abs/2611.30907v1)
+- [OmniAct: One Policy, One Million Embodiments...](http://arxiv.org/abs/2611.33158v1)
+- [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dia...](http://arxiv.org/abs/2611.33153v1)
+- [BioLoom: Scaling Biomedical Vision-Language Models by Learni...](http://arxiv.org/abs/2611.33151v1)
 
 ### 热门项目
 
