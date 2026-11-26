@@ -1,44 +1,35 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月25日 06:52
+**生成时间**: 2026年11月26日 06:43
 
 ---
 
 ## 🎯 核心动态
 
-- **Investigation uncovers influencers paid to promote Nvidia to China**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://www.techradar.com/pro/days-after-nvidia-ceo-resigned-journalists-unearth-covert-influence-operation-using-right-wing-outlets-to-promote-nvidia-ai-chip-export-to-china
+- **Boston lottery winner arrested by ICE a week after claiming US$1M prize**
+  - 来源: Hacker News | 热度: 6分
+  - 链接: https://www.ctvnews.ca/world/article/a-man-in-boston-won-us1-million-in-the-lottery-then-ice-arrested-him/
 
-- **AI consumes less water per dollar spent than almond milk or golf**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/
+- **Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://twitter.com/shneural/status/2125658847323017291
 
-- **Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://github.com/sao-coding/sightline
-
-- **Russia's own figures cite 500k deaths in Ukraine War**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.bbc.com/news/articles/cmx27g533zwyo
-
-- **The Docs AI Toolkit**
-  - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.gitbook.com/blog/docs-ai-toolkit
+- **Audi integrates new app with AI assistant with Cerence AI and Microsoft**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 5 次
-- **training**: 出现 1 次
+- **model**: 出现 2 次
 
 
 ## 🔍 值得关注
 
 ### 最新论文
-- [OmniAct: One Policy, One Million Embodiments...](http://arxiv.org/abs/2611.33158v1)
-- [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dia...](http://arxiv.org/abs/2611.33153v1)
-- [BioLoom: Scaling Biomedical Vision-Language Models by Learni...](http://arxiv.org/abs/2611.33151v1)
+- [Spectrum Adaptation of AI-Native Autoencoder Communications ...](http://arxiv.org/abs/2611.34942v1)
+- [Tokenisation is not in APX...](http://arxiv.org/abs/2611.34938v1)
+- [Can image generation help visual reasoning? An empirical stu...](http://arxiv.org/abs/2611.34935v1)
 
 ### 热门项目
 
