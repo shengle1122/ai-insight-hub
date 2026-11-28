@@ -1,35 +1,38 @@
 # 🤖 AI行业动态简报
 
-**生成时间**: 2026年11月27日 06:34
+**生成时间**: 2026年11月28日 06:09
 
 ---
 
 ## 🎯 核心动态
 
-- **Beattape.ai – Lofi Psychedelic Nostalgia**
+- **Show HN: WikiVectors – makes any LLM smarter**
   - 来源: Hacker News | 热度: 3分
-  - 链接: https://beattape.ai/
+  - 链接: https://wikivectors.com/
 
-- **Browser tabs as a container runtime – Farid Zakaria's Blog**
-  - 来源: Hacker News | 热度: 3分
-  - 链接: https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime
-
-- **An Overview of the Aeneas Rust Verification Toolchain**
+- **Google adding official Google AI plan support to Pi coding agent**
   - 来源: Hacker News | 热度: 2分
-  - 链接: https://www.sonho.fr//2026/03/18/aeneas-overview.html
+  - 链接: https://github.com/earendil-works/pi/pull/12614
 
-- **Soda Stallion Peak Review: Benefits, Features and Key Details**
-  - 来源: Hacker News | 热度: 1分
-  - 链接: https://open.spotify.com/episode/0oKBBLJCfHDf4n8d7C3Jk3
+- **Defense Against the Algorithm Might Be Thousands of Years Old**
+  - 来源: Hacker News | 热度: 2分
+  - 链接: https://www.nytimes.com/2026/11/27/opinion/religion-revival-technology.html
 
-- **We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s**
+- **Show HN: A web scraper for your AI agents**
   - 来源: Hacker News | 热度: 1分
-  - 链接: https://twitter.com/martinmaritsch/status/2126195898795573437
+  - 链接: https://atlas-compiler.com/
+
+- **OpenAI claims to have solved a 57-year-old math problem at the heart of AI**
+  - 来源: Hacker News | 热度: 1分
+  - 链接: https://thenewstack.io/openai-matrix-multiplication-exponent/
 
 ## 📊 技术趋势
 
 基于今日数据采集，AI领域关注热点：
-- **model**: 出现 2 次
+- **LLM**: 出现 3 次
+- **OpenAI**: 出现 1 次
+- **model**: 出现 1 次
+- **Claude**: 出现 1 次
 
 
 ## 🔍 值得关注
